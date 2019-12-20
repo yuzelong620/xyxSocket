@@ -1,0 +1,638 @@
+[ {
+  "id" : 1,
+  "taskType" : 1,
+  "total" : 1,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 700
+  } ],
+  "taskClassIfy" : 1,
+  "title" : "金色传说",
+  "describe" : "在游戏中达到黄金段位",
+  "showType" : 0
+}, {
+  "id" : 2,
+  "taskType" : 1,
+  "total" : 2,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1000
+  } ],
+  "taskClassIfy" : 1,
+  "title" : "冰洁玉心",
+  "describe" : "在游戏中达到铂金段位",
+  "showType" : 0
+}, {
+  "id" : 3,
+  "taskType" : 1,
+  "total" : 3,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1200
+  } ],
+  "taskClassIfy" : 1,
+  "title" : "晶莹剔透",
+  "describe" : "在游戏中达到钻石段位",
+  "showType" : 0
+}, {
+  "id" : 4,
+  "taskType" : 1,
+  "total" : 4,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1600
+  } ],
+  "taskClassIfy" : 1,
+  "title" : "一代谈宗",
+  "describe" : "在游戏中达到大师段位",
+  "showType" : 0
+}, {
+  "id" : 5,
+  "taskType" : 1,
+  "total" : 5,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2000
+  } ],
+  "taskClassIfy" : 1,
+  "title" : "横扫千军",
+  "describe" : "在游戏中达到王者段位",
+  "showType" : 0
+}, {
+  "id" : 6,
+  "taskType" : 1,
+  "total" : 6,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 4000
+  } ],
+  "taskClassIfy" : 1,
+  "title" : "大步流星",
+  "describe" : "在游戏中达到荣耀之星段位",
+  "showType" : 0
+}, {
+  "id" : 7,
+  "taskType" : 2,
+  "total" : 3,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 100
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "接二连三",
+  "describe" : "累计进行3场游戏",
+  "showType" : 0
+}, {
+  "id" : 8,
+  "taskType" : 2,
+  "total" : 5,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 200
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "鱼贯而进",
+  "describe" : "累计进行5场游戏",
+  "showType" : 0
+}, {
+  "id" : 9,
+  "taskType" : 2,
+  "total" : 10,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 500
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "连绵不断",
+  "describe" : "累计进行10场游戏",
+  "showType" : 0
+}, {
+  "id" : 10,
+  "taskType" : 2,
+  "total" : 15,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 700
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "滔滔不绝",
+  "describe" : "累计进行15场游戏",
+  "showType" : 0
+}, {
+  "id" : 11,
+  "taskType" : 2,
+  "total" : 20,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1000
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "川流不息",
+  "describe" : "累计进行20场游戏",
+  "showType" : 0
+}, {
+  "id" : 12,
+  "taskType" : 2,
+  "total" : 30,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1500
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "车水马龙",
+  "describe" : "累计进行30场游戏",
+  "showType" : 0
+}, {
+  "id" : 13,
+  "taskType" : 3,
+  "total" : 3,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 300
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "克敌制胜",
+  "describe" : "在游戏中累计获胜3次",
+  "showType" : 0
+}, {
+  "id" : 14,
+  "taskType" : 3,
+  "total" : 5,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 500
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "不败之地",
+  "describe" : "在游戏中累计获得5次",
+  "showType" : 0
+}, {
+  "id" : 15,
+  "taskType" : 3,
+  "total" : 10,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 800
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "连战皆捷",
+  "describe" : "在游戏中累计获胜10次",
+  "showType" : 0
+}, {
+  "id" : 16,
+  "taskType" : 3,
+  "total" : 15,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1200
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "所向披靡 ",
+  "describe" : "在游戏中累计获胜15次",
+  "showType" : 0
+}, {
+  "id" : 17,
+  "taskType" : 3,
+  "total" : 20,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1600
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "战无不胜",
+  "describe" : "在游戏中累计获胜20次",
+  "showType" : 0
+}, {
+  "id" : 18,
+  "taskType" : 3,
+  "total" : 30,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2200
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "百战不殆",
+  "describe" : "在游戏中累计获胜30次",
+  "showType" : 0
+}, {
+  "id" : 19,
+  "taskType" : 4,
+  "total" : 3,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 500
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "稳居第一",
+  "describe" : "在游戏中累计3次MVP",
+  "showType" : 0
+}, {
+  "id" : 20,
+  "taskType" : 4,
+  "total" : 5,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 800
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "捷足先登",
+  "describe" : "在游戏中累计5次MVP",
+  "showType" : 0
+}, {
+  "id" : 21,
+  "taskType" : 4,
+  "total" : 10,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1200
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "名列前茅",
+  "describe" : "在游戏中累计10次MVP",
+  "showType" : 0
+}, {
+  "id" : 22,
+  "taskType" : 4,
+  "total" : 15,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1600
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "出类拔萃",
+  "describe" : "在游戏中累计15次MVP",
+  "showType" : 0
+}, {
+  "id" : 23,
+  "taskType" : 4,
+  "total" : 20,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2200
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "战功赫赫",
+  "describe" : "在游戏中累计20次MVP",
+  "showType" : 0
+}, {
+  "id" : 24,
+  "taskType" : 4,
+  "total" : 30,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2600
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "功成名就",
+  "describe" : "在游戏中累计30次MVP",
+  "showType" : 0
+}, {
+  "id" : 25,
+  "taskType" : 2,
+  "total" : 1,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 100
+  } ],
+  "taskClassIfy" : 3,
+  "title" : "一鸣惊人",
+  "describe" : "进行一场游戏",
+  "showType" : 0
+}, {
+  "id" : 26,
+  "taskType" : 3,
+  "total" : 2,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 300
+  } ],
+  "taskClassIfy" : 3,
+  "title" : "旗开得胜",
+  "describe" : "在游戏中获得两场胜利",
+  "showType" : 0
+}, {
+  "id" : 27,
+  "taskType" : 4,
+  "total" : 1,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 300
+  } ],
+  "taskClassIfy" : 3,
+  "title" : "大获全胜",
+  "describe" : "在游戏中获得一场游戏的MVP",
+  "showType" : 0
+}, {
+  "id" : 28,
+  "taskType" : 5,
+  "total" : 1,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 100
+  } ],
+  "taskClassIfy" : 3,
+  "title" : "出口成章",
+  "describe" : "在游戏中发言一次",
+  "showType" : 0
+}, {
+  "id" : 29,
+  "taskType" : 6,
+  "total" : 1,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 50
+  } ],
+  "taskClassIfy" : 3,
+  "title" : "无私奉献",
+  "describe" : "分享一次游戏",
+  "showType" : 0
+}, {
+  "id" : 30,
+  "taskType" : 7,
+  "total" : 1,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 500
+  } ],
+  "taskClassIfy" : 3,
+  "title" : "稳操胜券",
+  "describe" : "在游戏内连续获胜5次",
+  "showType" : 0
+}, {
+  "id" : 31,
+  "taskType" : 8,
+  "total" : 1,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 400
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 II",
+  "describe" : "侦探等级达到2级",
+  "showType" : 1
+}, {
+  "id" : 32,
+  "taskType" : 8,
+  "total" : 2,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 500
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 III",
+  "describe" : "侦探等级达到3级",
+  "showType" : 1
+}, {
+  "id" : 33,
+  "taskType" : 8,
+  "total" : 3,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 600
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 IV",
+  "describe" : "侦探等级达到4级",
+  "showType" : 1
+}, {
+  "id" : 34,
+  "taskType" : 8,
+  "total" : 4,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 700
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 V",
+  "describe" : "侦探等级达到5级",
+  "showType" : 1
+}, {
+  "id" : 35,
+  "taskType" : 8,
+  "total" : 5,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 800
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 VI",
+  "describe" : "侦探等级达到6级",
+  "showType" : 1
+}, {
+  "id" : 36,
+  "taskType" : 8,
+  "total" : 6,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 900
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 VII",
+  "describe" : "侦探等级达到7级",
+  "showType" : 1
+}, {
+  "id" : 37,
+  "taskType" : 8,
+  "total" : 7,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1000
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 VIII",
+  "describe" : "侦探等级达到8级",
+  "showType" : 1
+}, {
+  "id" : 38,
+  "taskType" : 8,
+  "total" : 8,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1100
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 IX",
+  "describe" : "侦探等级达到9级",
+  "showType" : 1
+}, {
+  "id" : 39,
+  "taskType" : 8,
+  "total" : 9,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1200
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 X",
+  "describe" : "侦探等级达到10级",
+  "showType" : 1
+}, {
+  "id" : 40,
+  "taskType" : 8,
+  "total" : 10,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1300
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 XI",
+  "describe" : "侦探等级达到11级",
+  "showType" : 1
+}, {
+  "id" : 41,
+  "taskType" : 8,
+  "total" : 11,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1400
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 XII",
+  "describe" : "侦探等级达到12级",
+  "showType" : 1
+}, {
+  "id" : 42,
+  "taskType" : 8,
+  "total" : 12,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1500
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 XIII",
+  "describe" : "侦探等级达到13级",
+  "showType" : 1
+}, {
+  "id" : 43,
+  "taskType" : 8,
+  "total" : 13,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1600
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 XIV",
+  "describe" : "侦探等级达到14级",
+  "showType" : 1
+}, {
+  "id" : 44,
+  "taskType" : 8,
+  "total" : 14,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1700
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 XV",
+  "describe" : "侦探等级达到15级",
+  "showType" : 1
+}, {
+  "id" : 45,
+  "taskType" : 8,
+  "total" : 15,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1800
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 XVI",
+  "describe" : "侦探等级达到16级",
+  "showType" : 1
+}, {
+  "id" : 46,
+  "taskType" : 8,
+  "total" : 16,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1900
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 XVII",
+  "describe" : "侦探等级达到17级",
+  "showType" : 1
+}, {
+  "id" : 47,
+  "taskType" : 8,
+  "total" : 17,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2000
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 XVIII",
+  "describe" : "侦探等级达到18级",
+  "showType" : 1
+}, {
+  "id" : 48,
+  "taskType" : 8,
+  "total" : 18,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2100
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 XIX",
+  "describe" : "侦探等级达到19级",
+  "showType" : 1
+}, {
+  "id" : 49,
+  "taskType" : 8,
+  "total" : 19,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2200
+  } ],
+  "taskClassIfy" : 2,
+  "title" : "明察秋毫 XX",
+  "describe" : "侦探等级达到20级",
+  "showType" : 1
+} ]

@@ -1,0 +1,61 @@
+[ {
+  "id" : 1,
+  "playSeasonDate" : 201912
+}, {
+  "id" : 2,
+  "playSeasonDate" : 202001
+}, {
+  "id" : 3,
+  "playSeasonDate" : 202002
+}, {
+  "id" : 4,
+  "playSeasonDate" : 202003
+}, {
+  "id" : 5,
+  "playSeasonDate" : 202004
+}, {
+  "id" : 6,
+  "playSeasonDate" : 202005
+}, {
+  "id" : 7,
+  "playSeasonDate" : 202006
+}, {
+  "id" : 8,
+  "playSeasonDate" : 202007
+}, {
+  "id" : 9,
+  "playSeasonDate" : 202008
+}, {
+  "id" : 10,
+  "playSeasonDate" : 202009
+}, {
+  "id" : 11,
+  "playSeasonDate" : 202010
+}, {
+  "id" : 12,
+  "playSeasonDate" : 202011
+}, {
+  "id" : 13,
+  "playSeasonDate" : 202012
+}, {
+  "id" : 14,
+  "playSeasonDate" : 202101
+}, {
+  "id" : 15,
+  "playSeasonDate" : 202102
+}, {
+  "id" : 16,
+  "playSeasonDate" : 202103
+}, {
+  "id" : 17,
+  "playSeasonDate" : 202104
+}, {
+  "id" : 18,
+  "playSeasonDate" : 202105
+}, {
+  "id" : 19,
+  "playSeasonDate" : 202106
+}, {
+  "id" : 20,
+  "playSeasonDate" : 202107
+} ]

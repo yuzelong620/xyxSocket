@@ -1,0 +1,14 @@
+[ {
+  "id" : 0,
+  "name" : "白银",
+  "des" : "达到白银段位",
+  "reward" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 500
+  }, {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 500
+  } ]
+} ]

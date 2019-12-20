@@ -1,0 +1,533 @@
+[ {
+  "id" : 1,
+  "articleId" : 10002,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1000
+  } ],
+  "buyAward" : [ {
+    "key" : "10002",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+}, {
+  "id" : 2,
+  "articleId" : 10003,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 600
+  } ],
+  "buyAward" : [ {
+    "key" : "10003",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+}, {
+  "id" : 3,
+  "articleId" : 10004,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 800
+  } ],
+  "buyAward" : [ {
+    "key" : "10004",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+}, {
+  "id" : 4,
+  "articleId" : 10005,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1000
+  } ],
+  "buyAward" : [ {
+    "key" : "10005",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+}, {
+  "id" : 5,
+  "articleId" : 10006,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1000
+  } ],
+  "buyAward" : [ {
+    "key" : "10006",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+}, {
+  "id" : 6,
+  "articleId" : 10008,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1200
+  } ],
+  "buyAward" : [ {
+    "key" : "10008",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+}, {
+  "id" : 7,
+  "articleId" : 10009,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2000
+  } ],
+  "buyAward" : [ {
+    "key" : "10009",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+}, {
+  "id" : 8,
+  "articleId" : 10013,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1000
+  } ],
+  "buyAward" : [ {
+    "key" : "10013",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 1
+  } ]
+}, {
+  "id" : 9,
+  "articleId" : 10014,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2000
+  } ],
+  "buyAward" : [ {
+    "key" : "10014",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 2
+  } ]
+}, {
+  "id" : 10,
+  "articleId" : 10015,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 3000
+  } ],
+  "buyAward" : [ {
+    "key" : "10015",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 3
+  } ]
+}, {
+  "id" : 11,
+  "articleId" : 10016,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 4000
+  } ],
+  "buyAward" : [ {
+    "key" : "10016",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 4
+  } ]
+}, {
+  "id" : 12,
+  "articleId" : 10017,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 5000
+  } ],
+  "buyAward" : [ {
+    "key" : "10017",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 5
+  } ]
+}, {
+  "id" : 13,
+  "articleId" : 10018,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 6000
+  } ],
+  "buyAward" : [ {
+    "key" : "10018",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 6
+  } ]
+}, {
+  "id" : 14,
+  "articleId" : 10019,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 7000
+  } ],
+  "buyAward" : [ {
+    "key" : "10019",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 7
+  } ]
+}, {
+  "id" : 15,
+  "articleId" : 10023,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1000
+  } ],
+  "buyAward" : [ {
+    "key" : "10023",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 1
+  } ]
+}, {
+  "id" : 16,
+  "articleId" : 10024,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2000
+  } ],
+  "buyAward" : [ {
+    "key" : "10024",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 2
+  } ]
+}, {
+  "id" : 17,
+  "articleId" : 10025,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 3000
+  } ],
+  "buyAward" : [ {
+    "key" : "10025",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 3
+  } ]
+}, {
+  "id" : 18,
+  "articleId" : 10026,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 4000
+  } ],
+  "buyAward" : [ {
+    "key" : "10026",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 4
+  } ]
+}, {
+  "id" : 19,
+  "articleId" : 10027,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 5000
+  } ],
+  "buyAward" : [ {
+    "key" : "10027",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 5
+  } ]
+}, {
+  "id" : 20,
+  "articleId" : 10028,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 6000
+  } ],
+  "buyAward" : [ {
+    "key" : "10028",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 6
+  } ]
+}, {
+  "id" : 21,
+  "articleId" : 10029,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 7000
+  } ],
+  "buyAward" : [ {
+    "key" : "10029",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "duan",
+    "subkey" : 0,
+    "value" : 7
+  } ]
+}, {
+  "id" : 22,
+  "articleId" : 10032,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1200
+  } ],
+  "buyAward" : [ {
+    "key" : "10032",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+}, {
+  "id" : 23,
+  "articleId" : 10033,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1200
+  } ],
+  "buyAward" : [ {
+    "key" : "10033",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+}, {
+  "id" : 24,
+  "articleId" : 10034,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1200
+  } ],
+  "buyAward" : [ {
+    "key" : "10034",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+}, {
+  "id" : 25,
+  "articleId" : 10048,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2000
+  } ],
+  "buyAward" : [ {
+    "key" : "10048",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+}, {
+  "id" : 26,
+  "articleId" : 10049,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2000
+  } ],
+  "buyAward" : [ {
+    "key" : "10049",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+}, {
+  "id" : 27,
+  "articleId" : 10050,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2000
+  } ],
+  "buyAward" : [ {
+    "key" : "10050",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+}, {
+  "id" : 28,
+  "articleId" : 10051,
+  "buyExpend" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2000
+  } ],
+  "buyAward" : [ {
+    "key" : "10051",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "obtainCount" : 1,
+  "condition" : [ {
+    "key" : "none",
+    "subkey" : 0,
+    "value" : 0
+  } ]
+} ]

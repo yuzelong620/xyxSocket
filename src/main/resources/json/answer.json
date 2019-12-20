@@ -1,0 +1,6851 @@
+[ {
+  "id" : 10010001,
+  "questionId" : 1001001,
+  "content" : "9的74次方",
+  "isCorrect" : 0
+}, {
+  "id" : 10010002,
+  "questionId" : 1001001,
+  "content" : "974的阶乘",
+  "isCorrect" : 1
+}, {
+  "id" : 10010003,
+  "questionId" : 1001002,
+  "content" : "KTV",
+  "isCorrect" : 1
+}, {
+  "id" : 10010004,
+  "questionId" : 1001002,
+  "content" : "游乐园",
+  "isCorrect" : 0
+}, {
+  "id" : 10010005,
+  "questionId" : 1001003,
+  "content" : "怕“言多必失”",
+  "isCorrect" : 1
+}, {
+  "id" : 10010006,
+  "questionId" : 1001003,
+  "content" : "保护自己肖像权",
+  "isCorrect" : 0
+}, {
+  "id" : 10010007,
+  "questionId" : 1001004,
+  "content" : "火烧",
+  "isCorrect" : 0
+}, {
+  "id" : 10010008,
+  "questionId" : 1001004,
+  "content" : "水浸",
+  "isCorrect" : 0
+}, {
+  "id" : 10010009,
+  "questionId" : 1001004,
+  "content" : "唾液",
+  "isCorrect" : 1
+}, {
+  "id" : 10010010,
+  "questionId" : 1001005,
+  "content" : "给女生送化妆品",
+  "isCorrect" : 0
+}, {
+  "id" : 10010011,
+  "questionId" : 1001005,
+  "content" : "双十一给大家买礼物",
+  "isCorrect" : 0
+}, {
+  "id" : 10010012,
+  "questionId" : 1001005,
+  "content" : "带所有男光棍去洗浴中心",
+  "isCorrect" : 1
+}, {
+  "id" : 10010013,
+  "questionId" : 1001006,
+  "content" : "章强",
+  "isCorrect" : 0
+}, {
+  "id" : 10010014,
+  "questionId" : 1001006,
+  "content" : "高强",
+  "isCorrect" : 1
+}, {
+  "id" : 10010015,
+  "questionId" : 1001006,
+  "content" : "刘强",
+  "isCorrect" : 0
+}, {
+  "id" : 10010016,
+  "questionId" : 1001007,
+  "content" : "满天星",
+  "isCorrect" : 1
+}, {
+  "id" : 10010017,
+  "questionId" : 1001007,
+  "content" : "康乃馨",
+  "isCorrect" : 0
+}, {
+  "id" : 10010018,
+  "questionId" : 1001007,
+  "content" : "玫瑰",
+  "isCorrect" : 0
+}, {
+  "id" : 10010019,
+  "questionId" : 1001008,
+  "content" : "停车位置",
+  "isCorrect" : 0
+}, {
+  "id" : 10010020,
+  "questionId" : 1001008,
+  "content" : "社区电话",
+  "isCorrect" : 1
+}, {
+  "id" : 10010021,
+  "questionId" : 1001009,
+  "content" : "听跨年音乐会",
+  "isCorrect" : 1
+}, {
+  "id" : 10010022,
+  "questionId" : 1001009,
+  "content" : "唱KTV",
+  "isCorrect" : 0
+}, {
+  "id" : 10010023,
+  "questionId" : 1001010,
+  "content" : "求放假",
+  "isCorrect" : 0
+}, {
+  "id" : 10010024,
+  "questionId" : 1001010,
+  "content" : "求涨钱",
+  "isCorrect" : 1
+}, {
+  "id" : 10010025,
+  "questionId" : 1001011,
+  "content" : "一“个”四边形",
+  "isCorrect" : 1
+}, {
+  "id" : 10010026,
+  "questionId" : 1001011,
+  "content" : "老思答错了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010027,
+  "questionId" : 1001012,
+  "content" : "工位叫白百强的人",
+  "isCorrect" : 0
+}, {
+  "id" : 10010028,
+  "questionId" : 1001012,
+  "content" : "2楼17摊位",
+  "isCorrect" : 0
+}, {
+  "id" : 10010029,
+  "questionId" : 1001012,
+  "content" : "吃野外烧烤",
+  "isCorrect" : 1
+}, {
+  "id" : 10010030,
+  "questionId" : 1001013,
+  "content" : "留之无用，弃之可惜",
+  "isCorrect" : 1
+}, {
+  "id" : 10010031,
+  "questionId" : 1001013,
+  "content" : "想吃烤鸡翅",
+  "isCorrect" : 0
+}, {
+  "id" : 10010032,
+  "questionId" : 1001014,
+  "content" : "谎称没买着烟",
+  "isCorrect" : 1
+}, {
+  "id" : 10010033,
+  "questionId" : 1001014,
+  "content" : "买瓶酒",
+  "isCorrect" : 0
+}, {
+  "id" : 10010034,
+  "questionId" : 1001015,
+  "content" : "苹果",
+  "isCorrect" : 0
+}, {
+  "id" : 10010035,
+  "questionId" : 1001015,
+  "content" : "派",
+  "isCorrect" : 1
+}, {
+  "id" : 10010036,
+  "questionId" : 1001016,
+  "content" : "今天下午四点半去天津",
+  "isCorrect" : 0
+}, {
+  "id" : 10010037,
+  "questionId" : 1001016,
+  "content" : "今天下午四点半去万达",
+  "isCorrect" : 1
+}, {
+  "id" : 10010038,
+  "questionId" : 1001017,
+  "content" : "取快递",
+  "isCorrect" : 1
+}, {
+  "id" : 10010039,
+  "questionId" : 1001017,
+  "content" : "打猎",
+  "isCorrect" : 0
+}, {
+  "id" : 10010040,
+  "questionId" : 1001018,
+  "content" : "大家都有饭吃，你才能有饭吃",
+  "isCorrect" : 1
+}, {
+  "id" : 10010041,
+  "questionId" : 1001018,
+  "content" : "众人拾材火焰高",
+  "isCorrect" : 0
+}, {
+  "id" : 10010042,
+  "questionId" : 1001019,
+  "content" : "订饭店",
+  "isCorrect" : 1
+}, {
+  "id" : 10010043,
+  "questionId" : 1001019,
+  "content" : "找小雪聚会",
+  "isCorrect" : 0
+}, {
+  "id" : 10010044,
+  "questionId" : 1001020,
+  "content" : "买药",
+  "isCorrect" : 1
+}, {
+  "id" : 10010045,
+  "questionId" : 1001020,
+  "content" : "去四川买药",
+  "isCorrect" : 0
+}, {
+  "id" : 10010046,
+  "questionId" : 1001021,
+  "content" : "想喝茶",
+  "isCorrect" : 0
+}, {
+  "id" : 10010047,
+  "questionId" : 1001021,
+  "content" : "想要档案袋",
+  "isCorrect" : 0
+}, {
+  "id" : 10010048,
+  "questionId" : 1001021,
+  "content" : "想要PPT",
+  "isCorrect" : 1
+}, {
+  "id" : 10010049,
+  "questionId" : 1001022,
+  "content" : "碗筷摆的方向",
+  "isCorrect" : 1
+}, {
+  "id" : 10010050,
+  "questionId" : 1001022,
+  "content" : "没给领导打饭",
+  "isCorrect" : 0
+}, {
+  "id" : 10010051,
+  "questionId" : 1001023,
+  "content" : "洗车",
+  "isCorrect" : 1
+}, {
+  "id" : 10010052,
+  "questionId" : 1001023,
+  "content" : "换轮胎",
+  "isCorrect" : 0
+}, {
+  "id" : 10010053,
+  "questionId" : 1001024,
+  "content" : "被绑架",
+  "isCorrect" : 0
+}, {
+  "id" : 10010054,
+  "questionId" : 1001024,
+  "content" : "上厕所没纸",
+  "isCorrect" : 1
+}, {
+  "id" : 10010055,
+  "questionId" : 1001025,
+  "content" : "5号房间",
+  "isCorrect" : 0
+}, {
+  "id" : 10010056,
+  "questionId" : 1001025,
+  "content" : "黄色阳光",
+  "isCorrect" : 1
+}, {
+  "id" : 10010057,
+  "questionId" : 1001026,
+  "content" : "查良镛",
+  "isCorrect" : 1
+}, {
+  "id" : 10010058,
+  "questionId" : 1001026,
+  "content" : "岳飞",
+  "isCorrect" : 0
+}, {
+  "id" : 10010059,
+  "questionId" : 1001026,
+  "content" : "古龙",
+  "isCorrect" : 0
+}, {
+  "id" : 10010060,
+  "questionId" : 1001027,
+  "content" : "五号球",
+  "isCorrect" : 0
+}, {
+  "id" : 10010061,
+  "questionId" : 1001027,
+  "content" : "五环",
+  "isCorrect" : 0
+}, {
+  "id" : 10010062,
+  "questionId" : 1001027,
+  "content" : "五号车",
+  "isCorrect" : 1
+}, {
+  "id" : 10010063,
+  "questionId" : 1001028,
+  "content" : "阿元",
+  "isCorrect" : 0
+}, {
+  "id" : 10010064,
+  "questionId" : 1001028,
+  "content" : "阿元和小宇",
+  "isCorrect" : 1
+}, {
+  "id" : 10010065,
+  "questionId" : 1001028,
+  "content" : "小宇",
+  "isCorrect" : 0
+}, {
+  "id" : 10010066,
+  "questionId" : 1001029,
+  "content" : "27号下午四点机票",
+  "isCorrect" : 1
+}, {
+  "id" : 10010067,
+  "questionId" : 1001029,
+  "content" : "27号14点机票",
+  "isCorrect" : 0
+}, {
+  "id" : 10010068,
+  "questionId" : 1001030,
+  "content" : "少林寺",
+  "isCorrect" : 0
+}, {
+  "id" : 10010069,
+  "questionId" : 1001030,
+  "content" : "龙门石窟",
+  "isCorrect" : 0
+}, {
+  "id" : 10010070,
+  "questionId" : 1001030,
+  "content" : "莫高窟",
+  "isCorrect" : 1
+}, {
+  "id" : 10010071,
+  "questionId" : 1001031,
+  "content" : "一块钱",
+  "isCorrect" : 0
+}, {
+  "id" : 10010072,
+  "questionId" : 1001031,
+  "content" : "亏了两块钱",
+  "isCorrect" : 1
+}, {
+  "id" : 10010073,
+  "questionId" : 1001032,
+  "content" : "圆形建筑",
+  "isCorrect" : 1
+}, {
+  "id" : 10010074,
+  "questionId" : 1001032,
+  "content" : "0号座位",
+  "isCorrect" : 0
+}, {
+  "id" : 10010075,
+  "questionId" : 1001033,
+  "content" : "建设银行三千",
+  "isCorrect" : 1
+}, {
+  "id" : 10010076,
+  "questionId" : 1001033,
+  "content" : "交通银行三千",
+  "isCorrect" : 0
+}, {
+  "id" : 10010077,
+  "questionId" : 1001033,
+  "content" : "工商银行两千",
+  "isCorrect" : 0
+}, {
+  "id" : 10010078,
+  "questionId" : 1001034,
+  "content" : " 桌子被移动",
+  "isCorrect" : 0
+}, {
+  "id" : 10010079,
+  "questionId" : 1001034,
+  "content" : "墙上有鞋印",
+  "isCorrect" : 0
+}, {
+  "id" : 10010080,
+  "questionId" : 1001034,
+  "content" : "摄像头上有指纹",
+  "isCorrect" : 1
+}, {
+  "id" : 10010081,
+  "questionId" : 1001035,
+  "content" : "擦板报时的挥手弧度",
+  "isCorrect" : 0
+}, {
+  "id" : 10010082,
+  "questionId" : 1001035,
+  "content" : "身上没有粉笔灰",
+  "isCorrect" : 1
+}, {
+  "id" : 10010083,
+  "questionId" : 1001035,
+  "content" : "下面的遗留文字字迹",
+  "isCorrect" : 0
+}, {
+  "id" : 10010084,
+  "questionId" : 1001036,
+  "content" : "牙印",
+  "isCorrect" : 0
+}, {
+  "id" : 10010085,
+  "questionId" : 1001036,
+  "content" : "抛物线公式",
+  "isCorrect" : 1
+}, {
+  "id" : 10010086,
+  "questionId" : 1001037,
+  "content" : "身体保持十三公分的距离",
+  "isCorrect" : 0
+}, {
+  "id" : 10010087,
+  "questionId" : 1001037,
+  "content" : "遇到老师不避讳",
+  "isCorrect" : 0
+}, {
+  "id" : 10010088,
+  "questionId" : 1001037,
+  "content" : "没有牵手",
+  "isCorrect" : 1
+}, {
+  "id" : 10010089,
+  "questionId" : 1001038,
+  "content" : "手指方向",
+  "isCorrect" : 0
+}, {
+  "id" : 10010090,
+  "questionId" : 1001038,
+  "content" : "垃圾袋",
+  "isCorrect" : 0
+}, {
+  "id" : 10010091,
+  "questionId" : 1001038,
+  "content" : "地图",
+  "isCorrect" : 1
+}, {
+  "id" : 10010092,
+  "questionId" : 1001039,
+  "content" : "地上的假发",
+  "isCorrect" : 0
+}, {
+  "id" : 10010093,
+  "questionId" : 1001039,
+  "content" : "走廊里的监控 ",
+  "isCorrect" : 1
+}, {
+  "id" : 10010094,
+  "questionId" : 1001039,
+  "content" : "慌慌张张的走过",
+  "isCorrect" : 0
+}, {
+  "id" : 10010095,
+  "questionId" : 1001040,
+  "content" : "老鼠",
+  "isCorrect" : 1
+}, {
+  "id" : 10010096,
+  "questionId" : 1001040,
+  "content" : "油渍",
+  "isCorrect" : 0
+}, {
+  "id" : 10010097,
+  "questionId" : 1001040,
+  "content" : "猫",
+  "isCorrect" : 0
+}, {
+  "id" : 10010098,
+  "questionId" : 1001041,
+  "content" : "眼睛瞪圆",
+  "isCorrect" : 0
+}, {
+  "id" : 10010099,
+  "questionId" : 1001041,
+  "content" : "眉毛抬高",
+  "isCorrect" : 0
+}, {
+  "id" : 10010100,
+  "questionId" : 1001041,
+  "content" : "喘一口长气",
+  "isCorrect" : 1
+}, {
+  "id" : 10010101,
+  "questionId" : 1001042,
+  "content" : "跟踪  ",
+  "isCorrect" : 0
+}, {
+  "id" : 10010102,
+  "questionId" : 1001042,
+  "content" : "调换作业本",
+  "isCorrect" : 0
+}, {
+  "id" : 10010103,
+  "questionId" : 1001042,
+  "content" : "用橡皮都擦掉",
+  "isCorrect" : 1
+}, {
+  "id" : 10010104,
+  "questionId" : 1001043,
+  "content" : "交叉换腿",
+  "isCorrect" : 0
+}, {
+  "id" : 10010105,
+  "questionId" : 1001043,
+  "content" : "瞪大眼睛",
+  "isCorrect" : 1
+}, {
+  "id" : 10010106,
+  "questionId" : 1001043,
+  "content" : "书本放胸口",
+  "isCorrect" : 0
+}, {
+  "id" : 10010107,
+  "questionId" : 1001043,
+  "content" : "语速快",
+  "isCorrect" : 0
+}, {
+  "id" : 10010108,
+  "questionId" : 1001044,
+  "content" : "找警察 ",
+  "isCorrect" : 1
+}, {
+  "id" : 10010109,
+  "questionId" : 1001044,
+  "content" : "预知未来",
+  "isCorrect" : 0
+}, {
+  "id" : 10010110,
+  "questionId" : 1001044,
+  "content" : "看被人手机画面",
+  "isCorrect" : 0
+}, {
+  "id" : 10010111,
+  "questionId" : 1001045,
+  "content" : "不止一个交往对象",
+  "isCorrect" : 1
+}, {
+  "id" : 10010112,
+  "questionId" : 1001045,
+  "content" : "女人还跟前男友联系",
+  "isCorrect" : 0
+}, {
+  "id" : 10010113,
+  "questionId" : 1001046,
+  "content" : " 男人还有交往对象",
+  "isCorrect" : 0
+}, {
+  "id" : 10010114,
+  "questionId" : 1001046,
+  "content" : "男人身患重病  ",
+  "isCorrect" : 1
+}, {
+  "id" : 10010115,
+  "questionId" : 1001047,
+  "content" : "贪图享乐",
+  "isCorrect" : 0
+}, {
+  "id" : 10010116,
+  "questionId" : 1001047,
+  "content" : "为了孩子",
+  "isCorrect" : 0
+}, {
+  "id" : 10010117,
+  "questionId" : 1001047,
+  "content" : "让老公治病",
+  "isCorrect" : 1
+}, {
+  "id" : 10010118,
+  "questionId" : 1001048,
+  "content" : "女人可能要自杀",
+  "isCorrect" : 1
+}, {
+  "id" : 10010119,
+  "questionId" : 1001048,
+  "content" : "吴未见到鬼了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010177,
+  "questionId" : 1001069,
+  "content" : "窃取U盘",
+  "isCorrect" : 1
+}, {
+  "id" : 10010178,
+  "questionId" : 1001069,
+  "content" : "闲逛",
+  "isCorrect" : 0
+}, {
+  "id" : 10010179,
+  "questionId" : 1001069,
+  "content" : "搭讪",
+  "isCorrect" : 0
+}, {
+  "id" : 10010180,
+  "questionId" : 1001070,
+  "content" : "琪琪已经知道对方的招数",
+  "isCorrect" : 1
+}, {
+  "id" : 10010181,
+  "questionId" : 1001070,
+  "content" : "琪琪有魅力",
+  "isCorrect" : 0
+}, {
+  "id" : 10010182,
+  "questionId" : 1001070,
+  "content" : "对方想与琪琪交朋友",
+  "isCorrect" : 0
+}, {
+  "id" : 10010183,
+  "questionId" : 1001071,
+  "content" : "琪琪不在乎这桩生意",
+  "isCorrect" : 0
+}, {
+  "id" : 10010184,
+  "questionId" : 1001071,
+  "content" : "琪琪觉得自己有魅力",
+  "isCorrect" : 0
+}, {
+  "id" : 10010185,
+  "questionId" : 1001071,
+  "content" : "通过性格分析琪琪觉得还有提升空间",
+  "isCorrect" : 1
+}, {
+  "id" : 10010186,
+  "questionId" : 1001072,
+  "content" : "她是凯总的母亲",
+  "isCorrect" : 1
+}, {
+  "id" : 10010187,
+  "questionId" : 1001072,
+  "content" : " 她是凯总的干妈",
+  "isCorrect" : 0
+}, {
+  "id" : 10010188,
+  "questionId" : 1001072,
+  "content" : " 她是凯总的丈母娘",
+  "isCorrect" : 0
+}, {
+  "id" : 10010189,
+  "questionId" : 1001073,
+  "content" : "她对这杯奶茶动过手脚",
+  "isCorrect" : 1
+}, {
+  "id" : 10010190,
+  "questionId" : 1001073,
+  "content" : "她不喜欢喝奶茶",
+  "isCorrect" : 0
+}, {
+  "id" : 10010191,
+  "questionId" : 1001074,
+  "content" : "看这位大爷可怜",
+  "isCorrect" : 1
+}, {
+  "id" : 10010192,
+  "questionId" : 1001074,
+  "content" : "她是老大爷的女儿",
+  "isCorrect" : 0
+}, {
+  "id" : 10010193,
+  "questionId" : 1001075,
+  "content" : "琪琪没事闲的 ",
+  "isCorrect" : 0
+}, {
+  "id" : 10010194,
+  "questionId" : 1001075,
+  "content" : "看大妈工作容易刁难大妈 ",
+  "isCorrect" : 0
+}, {
+  "id" : 10010195,
+  "questionId" : 1001075,
+  "content" : "琪琪想多给大妈发工资",
+  "isCorrect" : 1
+}, {
+  "id" : 10010196,
+  "questionId" : 1001076,
+  "content" : "电梯管理员",
+  "isCorrect" : 1
+}, {
+  "id" : 10010197,
+  "questionId" : 1001076,
+  "content" : "保洁",
+  "isCorrect" : 0
+}, {
+  "id" : 10010198,
+  "questionId" : 1001076,
+  "content" : "保安",
+  "isCorrect" : 0
+}, {
+  "id" : 10010199,
+  "questionId" : 1001077,
+  "content" : "不是",
+  "isCorrect" : 1
+}, {
+  "id" : 10010200,
+  "questionId" : 1001077,
+  "content" : "是",
+  "isCorrect" : 0
+}, {
+  "id" : 10010201,
+  "questionId" : 1001078,
+  "content" : "琪琪猜的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010202,
+  "questionId" : 1001078,
+  "content" : "通过分析对方动作",
+  "isCorrect" : 1
+}, {
+  "id" : 10010203,
+  "questionId" : 1001078,
+  "content" : "琪琪会读心",
+  "isCorrect" : 0
+}, {
+  "id" : 10010204,
+  "questionId" : 1001079,
+  "content" : "想要得到万总的认同",
+  "isCorrect" : 1
+}, {
+  "id" : 10010205,
+  "questionId" : 1001079,
+  "content" : "喜欢干净",
+  "isCorrect" : 0
+}, {
+  "id" : 10010206,
+  "questionId" : 1001080,
+  "content" : "琪琪已经知道今天是老板结婚纪念日",
+  "isCorrect" : 1
+}, {
+  "id" : 10010207,
+  "questionId" : 1001080,
+  "content" : "琪琪为了讨好老板 ",
+  "isCorrect" : 0
+}, {
+  "id" : 10010208,
+  "questionId" : 1001080,
+  "content" : "琪琪脑袋被门挤了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010209,
+  "questionId" : 1001081,
+  "content" : "报警",
+  "isCorrect" : 0
+}, {
+  "id" : 10010210,
+  "questionId" : 1001081,
+  "content" : "找到他们索要U盘",
+  "isCorrect" : 0
+}, {
+  "id" : 10010211,
+  "questionId" : 1001081,
+  "content" : "直接去偷",
+  "isCorrect" : 1
+}, {
+  "id" : 10010212,
+  "questionId" : 1001082,
+  "content" : "投其所好",
+  "isCorrect" : 1
+}, {
+  "id" : 10010213,
+  "questionId" : 1001082,
+  "content" : "琪琪喜欢打球",
+  "isCorrect" : 0
+}, {
+  "id" : 10010214,
+  "questionId" : 1001083,
+  "content" : "这个女人不会尊重人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010215,
+  "questionId" : 1001083,
+  "content" : "这个女人是疯子",
+  "isCorrect" : 0
+}, {
+  "id" : 10010216,
+  "questionId" : 1001084,
+  "content" : "骗儿子",
+  "isCorrect" : 1
+}, {
+  "id" : 10010217,
+  "questionId" : 1001084,
+  "content" : "婆媳关系不和",
+  "isCorrect" : 0
+}, {
+  "id" : 10010218,
+  "questionId" : 1001085,
+  "content" : "日历标红",
+  "isCorrect" : 0
+}, {
+  "id" : 10010219,
+  "questionId" : 1001085,
+  "content" : "老板动作",
+  "isCorrect" : 0
+}, {
+  "id" : 10010220,
+  "questionId" : 1001085,
+  "content" : "参加签约仪式",
+  "isCorrect" : 1
+}, {
+  "id" : 10010221,
+  "questionId" : 1001086,
+  "content" : "打肿脸充胖子",
+  "isCorrect" : 0
+}, {
+  "id" : 10010222,
+  "questionId" : 1001086,
+  "content" : "向高总证明老板时间珍贵",
+  "isCorrect" : 1
+}, {
+  "id" : 10010223,
+  "questionId" : 1001087,
+  "content" : "老板拉领带",
+  "isCorrect" : 0
+}, {
+  "id" : 10010224,
+  "questionId" : 1001087,
+  "content" : "茶水凉了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010225,
+  "questionId" : 1001087,
+  "content" : "面试者站在老板椅子边",
+  "isCorrect" : 0
+}, {
+  "id" : 10010226,
+  "questionId" : 1001088,
+  "content" : "手机自拍时",
+  "isCorrect" : 1
+}, {
+  "id" : 10010227,
+  "questionId" : 1001088,
+  "content" : "监控里",
+  "isCorrect" : 0
+}, {
+  "id" : 10010228,
+  "questionId" : 1001089,
+  "content" : "不自重",
+  "isCorrect" : 1
+}, {
+  "id" : 10010229,
+  "questionId" : 1001089,
+  "content" : "爱交朋友",
+  "isCorrect" : 0
+}, {
+  "id" : 10010230,
+  "questionId" : 1001090,
+  "content" : "安排工作",
+  "isCorrect" : 1
+}, {
+  "id" : 10010231,
+  "questionId" : 1001090,
+  "content" : "认亲戚",
+  "isCorrect" : 0
+}, {
+  "id" : 10010232,
+  "questionId" : 1001091,
+  "content" : "心思缜密和面面俱到",
+  "isCorrect" : 1
+}, {
+  "id" : 10010233,
+  "questionId" : 1001091,
+  "content" : "年轻貌美",
+  "isCorrect" : 0
+}, {
+  "id" : 10010234,
+  "questionId" : 1001092,
+  "content" : "信口开河",
+  "isCorrect" : 0
+}, {
+  "id" : 10010235,
+  "questionId" : 1001092,
+  "content" : "临危不惧",
+  "isCorrect" : 1
+}, {
+  "id" : 10010236,
+  "questionId" : 1001093,
+  "content" : "有爱心",
+  "isCorrect" : 1
+}, {
+  "id" : 10010237,
+  "questionId" : 1001093,
+  "content" : "表里不一",
+  "isCorrect" : 0
+}, {
+  "id" : 10010238,
+  "questionId" : 1001094,
+  "content" : "妈宝男",
+  "isCorrect" : 0
+}, {
+  "id" : 10010239,
+  "questionId" : 1001094,
+  "content" : "渣男",
+  "isCorrect" : 1
+}, {
+  "id" : 10010240,
+  "questionId" : 1001095,
+  "content" : "以牙还牙",
+  "isCorrect" : 1
+}, {
+  "id" : 10010241,
+  "questionId" : 1001095,
+  "content" : "狗仗人势",
+  "isCorrect" : 0
+}, {
+  "id" : 10010242,
+  "questionId" : 1001096,
+  "content" : "冒充女朋友",
+  "isCorrect" : 0
+}, {
+  "id" : 10010243,
+  "questionId" : 1001096,
+  "content" : "母亲催婚",
+  "isCorrect" : 1
+}, {
+  "id" : 10010244,
+  "questionId" : 1001097,
+  "content" : "眼高手低",
+  "isCorrect" : 0
+}, {
+  "id" : 10010245,
+  "questionId" : 1001097,
+  "content" : "雷利风行",
+  "isCorrect" : 1
+}, {
+  "id" : 10010246,
+  "questionId" : 1001098,
+  "content" : "天生骗子",
+  "isCorrect" : 0
+}, {
+  "id" : 10010247,
+  "questionId" : 1001098,
+  "content" : "很有执行力",
+  "isCorrect" : 1
+}, {
+  "id" : 10010248,
+  "questionId" : 1001099,
+  "content" : "对员工暴力",
+  "isCorrect" : 1
+}, {
+  "id" : 10010249,
+  "questionId" : 1001099,
+  "content" : "不让员工吃饭",
+  "isCorrect" : 0
+}, {
+  "id" : 10010250,
+  "questionId" : 1001100,
+  "content" : "爱上他了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010251,
+  "questionId" : 1001100,
+  "content" : "让他有自信",
+  "isCorrect" : 1
+}, {
+  "id" : 10010252,
+  "questionId" : 1001101,
+  "content" : "胆大心细",
+  "isCorrect" : 1
+}, {
+  "id" : 10010253,
+  "questionId" : 1001101,
+  "content" : "有条不紊",
+  "isCorrect" : 0
+}, {
+  "id" : 10010254,
+  "questionId" : 1001102,
+  "content" : "老板听琪琪话",
+  "isCorrect" : 0
+}, {
+  "id" : 10010255,
+  "questionId" : 1001102,
+  "content" : "老板弟弟听琪琪话",
+  "isCorrect" : 1
+}, {
+  "id" : 10010256,
+  "questionId" : 1001103,
+  "content" : "不要争风吃醋",
+  "isCorrect" : 0
+}, {
+  "id" : 10010257,
+  "questionId" : 1001103,
+  "content" : "不以貌取人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010258,
+  "questionId" : 1001104,
+  "content" : "表里不一",
+  "isCorrect" : 1
+}, {
+  "id" : 10010259,
+  "questionId" : 1001104,
+  "content" : "争强好胜",
+  "isCorrect" : 0
+}, {
+  "id" : 10010260,
+  "questionId" : 1001105,
+  "content" : "不欢而散",
+  "isCorrect" : 0
+}, {
+  "id" : 10010261,
+  "questionId" : 1001105,
+  "content" : "被开除",
+  "isCorrect" : 1
+}, {
+  "id" : 10010262,
+  "questionId" : 1001106,
+  "content" : "间谍行为",
+  "isCorrect" : 1
+}, {
+  "id" : 10010263,
+  "questionId" : 1001106,
+  "content" : "擅作主张",
+  "isCorrect" : 0
+}, {
+  "id" : 10010264,
+  "questionId" : 1001107,
+  "content" : "浇花男子",
+  "isCorrect" : 1
+}, {
+  "id" : 10010265,
+  "questionId" : 1001107,
+  "content" : "带帽女子",
+  "isCorrect" : 0
+}, {
+  "id" : 10010266,
+  "questionId" : 1001107,
+  "content" : "拿垃圾袋的女人",
+  "isCorrect" : 0
+}, {
+  "id" : 10010267,
+  "questionId" : 1001107,
+  "content" : "摄影师",
+  "isCorrect" : 0
+}, {
+  "id" : 10010268,
+  "questionId" : 1001108,
+  "content" : "怕被开除",
+  "isCorrect" : 0
+}, {
+  "id" : 10010269,
+  "questionId" : 1001108,
+  "content" : "怕公司消失 ",
+  "isCorrect" : 1
+}, {
+  "id" : 10010270,
+  "questionId" : 1001108,
+  "content" : "同情老板",
+  "isCorrect" : 0
+}, {
+  "id" : 10010271,
+  "questionId" : 1001109,
+  "content" : "朋友遇害撞门声 ",
+  "isCorrect" : 1
+}, {
+  "id" : 10010272,
+  "questionId" : 1001109,
+  "content" : "陌生人敲门",
+  "isCorrect" : 0
+}, {
+  "id" : 10010273,
+  "questionId" : 1001109,
+  "content" : "朋友没按暗号敲门",
+  "isCorrect" : 0
+}, {
+  "id" : 10010274,
+  "questionId" : 1001110,
+  "content" : "小雪得了绝症",
+  "isCorrect" : 0
+}, {
+  "id" : 10010275,
+  "questionId" : 1001110,
+  "content" : "医生看出男友要害小雪 ",
+  "isCorrect" : 1
+}, {
+  "id" : 10010276,
+  "questionId" : 1001111,
+  "content" : "油店老板",
+  "isCorrect" : 1
+}, {
+  "id" : 10010277,
+  "questionId" : 1001111,
+  "content" : "员工小蓓",
+  "isCorrect" : 0
+}, {
+  "id" : 10010278,
+  "questionId" : 1001111,
+  "content" : "老板娘",
+  "isCorrect" : 0
+}, {
+  "id" : 10010279,
+  "questionId" : 1001112,
+  "content" : "主任",
+  "isCorrect" : 0
+}, {
+  "id" : 10010280,
+  "questionId" : 1001112,
+  "content" : "秘书",
+  "isCorrect" : 1
+}, {
+  "id" : 10010281,
+  "questionId" : 1001112,
+  "content" : "保洁员",
+  "isCorrect" : 0
+}, {
+  "id" : 10010282,
+  "questionId" : 1001113,
+  "content" : "坏人会来害自己",
+  "isCorrect" : 0
+}, {
+  "id" : 10010283,
+  "questionId" : 1001113,
+  "content" : "十七有危险  ",
+  "isCorrect" : 1
+}, {
+  "id" : 10010284,
+  "questionId" : 1001114,
+  "content" : "小雪有三个弟弟",
+  "isCorrect" : 1
+}, {
+  "id" : 10010285,
+  "questionId" : 1001114,
+  "content" : "小雪伪造了犯罪现场",
+  "isCorrect" : 0
+}, {
+  "id" : 10010286,
+  "questionId" : 1001115,
+  "content" : "看到了绑匪朋友的样子",
+  "isCorrect" : 0
+}, {
+  "id" : 10010287,
+  "questionId" : 1001115,
+  "content" : "看到了绑匪的作案工具",
+  "isCorrect" : 0
+}, {
+  "id" : 10010288,
+  "questionId" : 1001115,
+  "content" : "看到了绑匪的样子",
+  "isCorrect" : 1
+}, {
+  "id" : 10010289,
+  "questionId" : 1001116,
+  "content" : "有个鬼手拽着小静的头发",
+  "isCorrect" : 1
+}, {
+  "id" : 10010290,
+  "questionId" : 1001116,
+  "content" : "有人故意伸腿让小静摔死了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010291,
+  "questionId" : 1001117,
+  "content" : "小偷遮住了钟",
+  "isCorrect" : 1
+}, {
+  "id" : 10010292,
+  "questionId" : 1001117,
+  "content" : "小偷肚子有声",
+  "isCorrect" : 0
+}, {
+  "id" : 10010293,
+  "questionId" : 1001117,
+  "content" : "小偷被红外线探测到了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010294,
+  "questionId" : 1001118,
+  "content" : "是不是这根红绳  ",
+  "isCorrect" : 1
+}, {
+  "id" : 10010295,
+  "questionId" : 1001118,
+  "content" : "是不是你手臂上的红绳",
+  "isCorrect" : 0
+}, {
+  "id" : 10010296,
+  "questionId" : 1001119,
+  "content" : "悬在空中的脚",
+  "isCorrect" : 1
+}, {
+  "id" : 10010297,
+  "questionId" : 1001119,
+  "content" : "鬼怪的触角",
+  "isCorrect" : 0
+}, {
+  "id" : 10010298,
+  "questionId" : 1001120,
+  "content" : "小刘",
+  "isCorrect" : 0
+}, {
+  "id" : 10010299,
+  "questionId" : 1001120,
+  "content" : "小雪",
+  "isCorrect" : 0
+}, {
+  "id" : 10010300,
+  "questionId" : 1001120,
+  "content" : "阿良",
+  "isCorrect" : 0
+}, {
+  "id" : 10010301,
+  "questionId" : 1001120,
+  "content" : "小莎",
+  "isCorrect" : 1
+}, {
+  "id" : 10010302,
+  "questionId" : 1001121,
+  "content" : "你们干嘛吓我",
+  "isCorrect" : 1
+}, {
+  "id" : 10010303,
+  "questionId" : 1001121,
+  "content" : "你的模样变了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010304,
+  "questionId" : 1001121,
+  "content" : "我看不到你",
+  "isCorrect" : 0
+}, {
+  "id" : 10010305,
+  "questionId" : 1001122,
+  "content" : "小女孩贫血",
+  "isCorrect" : 0
+}, {
+  "id" : 10010306,
+  "questionId" : 1001122,
+  "content" : " 老太婆是吸血鬼 ",
+  "isCorrect" : 1
+}, {
+  "id" : 10010307,
+  "questionId" : 1001123,
+  "content" : "视频都是其它网站上扒的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010308,
+  "questionId" : 1001123,
+  "content" : "照片和视频时间都是反过来的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010309,
+  "questionId" : 1001124,
+  "content" : "你被骗了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010310,
+  "questionId" : 1001124,
+  "content" : "最爱吃饼干",
+  "isCorrect" : 1
+}, {
+  "id" : 10010311,
+  "questionId" : 1001124,
+  "content" : "真正的价格",
+  "isCorrect" : 0
+}, {
+  "id" : 10010312,
+  "questionId" : 1001125,
+  "content" : "阿良是FS凶手",
+  "isCorrect" : 1
+}, {
+  "id" : 10010313,
+  "questionId" : 1001125,
+  "content" : "阿良出轨了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010314,
+  "questionId" : 1001126,
+  "content" : "真人娃娃怪",
+  "isCorrect" : 0
+}, {
+  "id" : 10010315,
+  "questionId" : 1001126,
+  "content" : "丢掉的布娃娃",
+  "isCorrect" : 1
+}, {
+  "id" : 10010316,
+  "questionId" : 1001127,
+  "content" : "升天前",
+  "isCorrect" : 0
+}, {
+  "id" : 10010317,
+  "questionId" : 1001127,
+  "content" : "生孩子前",
+  "isCorrect" : 1
+}, {
+  "id" : 10010318,
+  "questionId" : 1001128,
+  "content" : "小雪前男友 ",
+  "isCorrect" : 1
+}, {
+  "id" : 10010319,
+  "questionId" : 1001128,
+  "content" : "小雪的父亲",
+  "isCorrect" : 0
+}, {
+  "id" : 10010320,
+  "questionId" : 1001129,
+  "content" : "电梯坏了危险",
+  "isCorrect" : 0
+}, {
+  "id" : 10010321,
+  "questionId" : 1001129,
+  "content" : "电梯里面还有一死人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010322,
+  "questionId" : 1001130,
+  "content" : "小雪",
+  "isCorrect" : 0
+}, {
+  "id" : 10010323,
+  "questionId" : 1001130,
+  "content" : "小莎",
+  "isCorrect" : 0
+}, {
+  "id" : 10010324,
+  "questionId" : 1001130,
+  "content" : "阿良 ",
+  "isCorrect" : 1
+}, {
+  "id" : 10010325,
+  "questionId" : 1001131,
+  "content" : "自己就是垃圾",
+  "isCorrect" : 0
+}, {
+  "id" : 10010326,
+  "questionId" : 1001131,
+  "content" : "自己就是情绪垃圾桶",
+  "isCorrect" : 1
+}, {
+  "id" : 10010327,
+  "questionId" : 1001132,
+  "content" : "对别人说谢谢",
+  "isCorrect" : 0
+}, {
+  "id" : 10010328,
+  "questionId" : 1001132,
+  "content" : "收到别人的谢谢",
+  "isCorrect" : 1
+}, {
+  "id" : 10010329,
+  "questionId" : 1001133,
+  "content" : "有人伪装成助手",
+  "isCorrect" : 1
+}, {
+  "id" : 10010330,
+  "questionId" : 1001133,
+  "content" : "软件打赏功能",
+  "isCorrect" : 0
+}, {
+  "id" : 10010331,
+  "questionId" : 1001134,
+  "content" : "小丽使诈掉包了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010332,
+  "questionId" : 1001134,
+  "content" : "被别人拿走了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010333,
+  "questionId" : 1001135,
+  "content" : "心脏在说罢工",
+  "isCorrect" : 1
+}, {
+  "id" : 10010334,
+  "questionId" : 1001135,
+  "content" : "小华不想承认罢工 ",
+  "isCorrect" : 0
+}, {
+  "id" : 10010335,
+  "questionId" : 1001136,
+  "content" : "女巫选了他加班",
+  "isCorrect" : 0
+}, {
+  "id" : 10010336,
+  "questionId" : 1001136,
+  "content" : "其他人都跑了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010337,
+  "questionId" : 1001137,
+  "content" : "想看她心痛",
+  "isCorrect" : 1
+}, {
+  "id" : 10010338,
+  "questionId" : 1001137,
+  "content" : "巴结讨好她",
+  "isCorrect" : 0
+}, {
+  "id" : 10010339,
+  "questionId" : 1001138,
+  "content" : "帮女人实现愿望",
+  "isCorrect" : 0
+}, {
+  "id" : 10010340,
+  "questionId" : 1001138,
+  "content" : "用男人的钱给女人付款",
+  "isCorrect" : 1
+}, {
+  "id" : 10010341,
+  "questionId" : 1001139,
+  "content" : "做梦学鸡叫",
+  "isCorrect" : 0
+}, {
+  "id" : 10010342,
+  "questionId" : 1001139,
+  "content" : "被人恶作剧",
+  "isCorrect" : 1
+}, {
+  "id" : 10010343,
+  "questionId" : 1001140,
+  "content" : "月月鸟月月鸟",
+  "isCorrect" : 1
+}, {
+  "id" : 10010344,
+  "questionId" : 1001140,
+  "content" : "月月月月鸟鸟",
+  "isCorrect" : 0
+}, {
+  "id" : 10010345,
+  "questionId" : 1001141,
+  "content" : "他只是女朋友的记忆",
+  "isCorrect" : 1
+}, {
+  "id" : 10010346,
+  "questionId" : 1001141,
+  "content" : "被女朋友陷害",
+  "isCorrect" : 0
+}, {
+  "id" : 10010347,
+  "questionId" : 1001142,
+  "content" : "监控看到的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010348,
+  "questionId" : 1001142,
+  "content" : "通过让他交话费获得验证码",
+  "isCorrect" : 1
+}, {
+  "id" : 10010349,
+  "questionId" : 1001143,
+  "content" : "蝴蝶效应",
+  "isCorrect" : 1
+}, {
+  "id" : 10010350,
+  "questionId" : 1001143,
+  "content" : "墨菲定理",
+  "isCorrect" : 0
+}, {
+  "id" : 10010351,
+  "questionId" : 1001144,
+  "content" : "自己是中邪了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010352,
+  "questionId" : 1001144,
+  "content" : "被盘的一直是自己",
+  "isCorrect" : 1
+}, {
+  "id" : 10010353,
+  "questionId" : 1001145,
+  "content" : "学姐被关在隔间里",
+  "isCorrect" : 1
+}, {
+  "id" : 10010354,
+  "questionId" : 1001145,
+  "content" : "学姐的魂魄有冤屈",
+  "isCorrect" : 0
+}, {
+  "id" : 10010355,
+  "questionId" : 1001146,
+  "content" : "控制欲强的人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010356,
+  "questionId" : 1001146,
+  "content" : "在乎女友的人",
+  "isCorrect" : 0
+}, {
+  "id" : 10010357,
+  "questionId" : 1001147,
+  "content" : "悬赏令",
+  "isCorrect" : 1
+}, {
+  "id" : 10010358,
+  "questionId" : 1001147,
+  "content" : "档案袋",
+  "isCorrect" : 0
+}, {
+  "id" : 10010359,
+  "questionId" : 1001147,
+  "content" : "硬币",
+  "isCorrect" : 0
+}, {
+  "id" : 10010360,
+  "questionId" : 1001148,
+  "content" : "是",
+  "isCorrect" : 1
+}, {
+  "id" : 10010361,
+  "questionId" : 1001148,
+  "content" : "不是",
+  "isCorrect" : 0
+}, {
+  "id" : 10010362,
+  "questionId" : 1001149,
+  "content" : "是",
+  "isCorrect" : 1
+}, {
+  "id" : 10010363,
+  "questionId" : 1001149,
+  "content" : "不是",
+  "isCorrect" : 0
+}, {
+  "id" : 10010364,
+  "questionId" : 1001150,
+  "content" : "上厕所",
+  "isCorrect" : 0
+}, {
+  "id" : 10010365,
+  "questionId" : 1001150,
+  "content" : "看天谴",
+  "isCorrect" : 1
+}, {
+  "id" : 10010366,
+  "questionId" : 1001151,
+  "content" : "左边的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010367,
+  "questionId" : 1001151,
+  "content" : "右边的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010368,
+  "questionId" : 1001152,
+  "content" : "监考老师",
+  "isCorrect" : 1
+}, {
+  "id" : 10010369,
+  "questionId" : 1001152,
+  "content" : "总经理",
+  "isCorrect" : 0
+}, {
+  "id" : 10010370,
+  "questionId" : 1001153,
+  "content" : "前男友",
+  "isCorrect" : 1
+}, {
+  "id" : 10010371,
+  "questionId" : 1001153,
+  "content" : "装着金鱼的玻璃缸",
+  "isCorrect" : 0
+}, {
+  "id" : 10010372,
+  "questionId" : 1001154,
+  "content" : "这是一场噩梦",
+  "isCorrect" : 1
+}, {
+  "id" : 10010373,
+  "questionId" : 1001154,
+  "content" : "有人恶作剧",
+  "isCorrect" : 0
+}, {
+  "id" : 10010374,
+  "questionId" : 1001155,
+  "content" : "直接放弃这些钱",
+  "isCorrect" : 0
+}, {
+  "id" : 10010375,
+  "questionId" : 1001155,
+  "content" : "将钱逐渐转到网店",
+  "isCorrect" : 1
+}, {
+  "id" : 10010376,
+  "questionId" : 1001156,
+  "content" : "装母亲骗女友",
+  "isCorrect" : 1
+}, {
+  "id" : 10010377,
+  "questionId" : 1001156,
+  "content" : "聊骚",
+  "isCorrect" : 0
+}, {
+  "id" : 10010378,
+  "questionId" : 1001157,
+  "content" : "绑匪",
+  "isCorrect" : 0
+}, {
+  "id" : 10010379,
+  "questionId" : 1001157,
+  "content" : "小福妻子",
+  "isCorrect" : 1
+}, {
+  "id" : 10010380,
+  "questionId" : 1001158,
+  "content" : "没电了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010381,
+  "questionId" : 1001158,
+  "content" : "饿昏了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010382,
+  "questionId" : 1001159,
+  "content" : "女老板",
+  "isCorrect" : 0
+}, {
+  "id" : 10010383,
+  "questionId" : 1001159,
+  "content" : "办公室",
+  "isCorrect" : 1
+}, {
+  "id" : 10010384,
+  "questionId" : 1001160,
+  "content" : "被电击5秒",
+  "isCorrect" : 1
+}, {
+  "id" : 10010385,
+  "questionId" : 1001160,
+  "content" : "给手机充电",
+  "isCorrect" : 0
+}, {
+  "id" : 10010386,
+  "questionId" : 1001160,
+  "content" : "继续玩手机",
+  "isCorrect" : 0
+}, {
+  "id" : 10010387,
+  "questionId" : 1001161,
+  "content" : "他没继续伤害前女友",
+  "isCorrect" : 1
+}, {
+  "id" : 10010388,
+  "questionId" : 1001161,
+  "content" : "礼貌回应",
+  "isCorrect" : 0
+}, {
+  "id" : 10010389,
+  "questionId" : 1001162,
+  "content" : "因为是镜子中的世界",
+  "isCorrect" : 1
+}, {
+  "id" : 10010390,
+  "questionId" : 1001162,
+  "content" : "因为是负面情绪",
+  "isCorrect" : 0
+}, {
+  "id" : 10010391,
+  "questionId" : 1001163,
+  "content" : "没驾照却有车",
+  "isCorrect" : 0
+}, {
+  "id" : 10010392,
+  "questionId" : 1001163,
+  "content" : "番茄过敏点餐却有",
+  "isCorrect" : 0
+}, {
+  "id" : 10010393,
+  "questionId" : 1001163,
+  "content" : "衣服上有血迹",
+  "isCorrect" : 1
+}, {
+  "id" : 10010394,
+  "questionId" : 1001164,
+  "content" : "搬走共享单车",
+  "isCorrect" : 0
+}, {
+  "id" : 10010395,
+  "questionId" : 1001164,
+  "content" : "给女孩发红包",
+  "isCorrect" : 1
+}, {
+  "id" : 10010396,
+  "questionId" : 1001164,
+  "content" : "攻击妹子电脑",
+  "isCorrect" : 0
+}, {
+  "id" : 10010397,
+  "questionId" : 1001165,
+  "content" : "警察",
+  "isCorrect" : 1
+}, {
+  "id" : 10010398,
+  "questionId" : 1001165,
+  "content" : "抢劫犯",
+  "isCorrect" : 0
+}, {
+  "id" : 10010399,
+  "questionId" : 1001166,
+  "content" : "不和其他男生接触",
+  "isCorrect" : 0
+}, {
+  "id" : 10010400,
+  "questionId" : 1001166,
+  "content" : "天天蹦迪",
+  "isCorrect" : 1
+}, {
+  "id" : 10010401,
+  "questionId" : 1001166,
+  "content" : "很早睡觉",
+  "isCorrect" : 0
+}, {
+  "id" : 10010402,
+  "questionId" : 1001167,
+  "content" : "千杯不醉",
+  "isCorrect" : 1
+}, {
+  "id" : 10010403,
+  "questionId" : 1001167,
+  "content" : "回家喂猫",
+  "isCorrect" : 0
+}, {
+  "id" : 10010404,
+  "questionId" : 1001167,
+  "content" : "回公司加班",
+  "isCorrect" : 0
+}, {
+  "id" : 10010405,
+  "questionId" : 1001168,
+  "content" : "找回爱车",
+  "isCorrect" : 1
+}, {
+  "id" : 10010406,
+  "questionId" : 1001168,
+  "content" : "找回女朋友",
+  "isCorrect" : 0
+}, {
+  "id" : 10010407,
+  "questionId" : 1001169,
+  "content" : "是",
+  "isCorrect" : 0
+}, {
+  "id" : 10010408,
+  "questionId" : 1001169,
+  "content" : "不是",
+  "isCorrect" : 1
+}, {
+  "id" : 10010409,
+  "questionId" : 1001170,
+  "content" : "教室后面的手机视频",
+  "isCorrect" : 1
+}, {
+  "id" : 10010410,
+  "questionId" : 1001170,
+  "content" : "教室前面的手机",
+  "isCorrect" : 0
+}, {
+  "id" : 10010411,
+  "questionId" : 1001170,
+  "content" : "监控",
+  "isCorrect" : 0
+}, {
+  "id" : 10010412,
+  "questionId" : 1001171,
+  "content" : "情杀",
+  "isCorrect" : 1
+}, {
+  "id" : 10010413,
+  "questionId" : 1001171,
+  "content" : "劫财",
+  "isCorrect" : 0
+}, {
+  "id" : 10010414,
+  "questionId" : 1001171,
+  "content" : "见色起意",
+  "isCorrect" : 0
+}, {
+  "id" : 10010415,
+  "questionId" : 1001172,
+  "content" : "最美好的回忆在这里",
+  "isCorrect" : 1
+}, {
+  "id" : 10010416,
+  "questionId" : 1001172,
+  "content" : "宝藏的线索",
+  "isCorrect" : 0
+}, {
+  "id" : 10010417,
+  "questionId" : 1001173,
+  "content" : "思念女朋友",
+  "isCorrect" : 1
+}, {
+  "id" : 10010418,
+  "questionId" : 1001173,
+  "content" : "女朋友并没有患重病",
+  "isCorrect" : 0
+}, {
+  "id" : 10010419,
+  "questionId" : 1001174,
+  "content" : "栽赃陷害黑明",
+  "isCorrect" : 1
+}, {
+  "id" : 10010420,
+  "questionId" : 1001174,
+  "content" : "栽赃陷害肖勇",
+  "isCorrect" : 0
+}, {
+  "id" : 10010421,
+  "questionId" : 1001175,
+  "content" : "父亲开的奶茶店",
+  "isCorrect" : 1
+}, {
+  "id" : 10010422,
+  "questionId" : 1001175,
+  "content" : "外卖太咸",
+  "isCorrect" : 0
+}, {
+  "id" : 10010423,
+  "questionId" : 1001176,
+  "content" : "敲桌子",
+  "isCorrect" : 1
+}, {
+  "id" : 10010424,
+  "questionId" : 1001176,
+  "content" : "抓头发",
+  "isCorrect" : 0
+}, {
+  "id" : 10010425,
+  "questionId" : 1001177,
+  "content" : "不知道在几楼",
+  "isCorrect" : 0
+}, {
+  "id" : 10010426,
+  "questionId" : 1001177,
+  "content" : "直接说出厕所位置",
+  "isCorrect" : 1
+}, {
+  "id" : 10010427,
+  "questionId" : 1001177,
+  "content" : "不知道怎么接水",
+  "isCorrect" : 0
+}, {
+  "id" : 10010428,
+  "questionId" : 1001178,
+  "content" : "邻居模仿他",
+  "isCorrect" : 1
+}, {
+  "id" : 10010429,
+  "questionId" : 1001178,
+  "content" : "罗本搞错了方向",
+  "isCorrect" : 0
+}, {
+  "id" : 10010430,
+  "questionId" : 1001179,
+  "content" : "用水假装流汗",
+  "isCorrect" : 0
+}, {
+  "id" : 10010431,
+  "questionId" : 1001179,
+  "content" : "在椅子上做手脚",
+  "isCorrect" : 0
+}, {
+  "id" : 10010432,
+  "questionId" : 1001179,
+  "content" : "水里下疲劳药",
+  "isCorrect" : 1
+}, {
+  "id" : 10010433,
+  "questionId" : 1001180,
+  "content" : "罗本",
+  "isCorrect" : 1
+}, {
+  "id" : 10010434,
+  "questionId" : 1001180,
+  "content" : "物业",
+  "isCorrect" : 0
+}, {
+  "id" : 10010435,
+  "questionId" : 1001181,
+  "content" : "有人冒充好人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010436,
+  "questionId" : 1001181,
+  "content" : "罗本搞错了对接人",
+  "isCorrect" : 0
+}, {
+  "id" : 10010437,
+  "questionId" : 1001182,
+  "content" : "让跟踪者以为住别处",
+  "isCorrect" : 1
+}, {
+  "id" : 10010438,
+  "questionId" : 1001182,
+  "content" : "送快递",
+  "isCorrect" : 0
+}, {
+  "id" : 10010439,
+  "questionId" : 1001183,
+  "content" : "老师发现它吃东西",
+  "isCorrect" : 1
+}, {
+  "id" : 10010440,
+  "questionId" : 1001183,
+  "content" : "老师想找他谈一谈",
+  "isCorrect" : 0
+}, {
+  "id" : 10010441,
+  "questionId" : 1001184,
+  "content" : "不是",
+  "isCorrect" : 1
+}, {
+  "id" : 10010442,
+  "questionId" : 1001184,
+  "content" : "是",
+  "isCorrect" : 0
+}, {
+  "id" : 10010443,
+  "questionId" : 1001185,
+  "content" : "电话号码不是家长的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010444,
+  "questionId" : 1001185,
+  "content" : "就是表现好",
+  "isCorrect" : 0
+}, {
+  "id" : 10010445,
+  "questionId" : 1001186,
+  "content" : "继续读绕口令",
+  "isCorrect" : 0
+}, {
+  "id" : 10010446,
+  "questionId" : 1001186,
+  "content" : "假期作业变成三张卷",
+  "isCorrect" : 1
+}, {
+  "id" : 10010447,
+  "questionId" : 1001187,
+  "content" : "这是上课内容",
+  "isCorrect" : 0
+}, {
+  "id" : 10010448,
+  "questionId" : 1001187,
+  "content" : "告诉林一一她不普通",
+  "isCorrect" : 1
+}, {
+  "id" : 10010449,
+  "questionId" : 1001188,
+  "content" : "关灯",
+  "isCorrect" : 1
+}, {
+  "id" : 10010450,
+  "questionId" : 1001188,
+  "content" : "继续打电话",
+  "isCorrect" : 0
+}, {
+  "id" : 10010451,
+  "questionId" : 1001189,
+  "content" : "不是",
+  "isCorrect" : 1
+}, {
+  "id" : 10010452,
+  "questionId" : 1001189,
+  "content" : "是",
+  "isCorrect" : 0
+}, {
+  "id" : 10010453,
+  "questionId" : 1001190,
+  "content" : "擦除题目",
+  "isCorrect" : 1
+}, {
+  "id" : 10010454,
+  "questionId" : 1001190,
+  "content" : "正常表演",
+  "isCorrect" : 0
+}, {
+  "id" : 10010455,
+  "questionId" : 1001191,
+  "content" : "礼物里面是摄像头",
+  "isCorrect" : 1
+}, {
+  "id" : 10010456,
+  "questionId" : 1001191,
+  "content" : "猜的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010457,
+  "questionId" : 1001192,
+  "content" : "Alliance",
+  "isCorrect" : 1
+}, {
+  "id" : 10010458,
+  "questionId" : 1001192,
+  "content" : "他也不会",
+  "isCorrect" : 0
+}, {
+  "id" : 10010459,
+  "questionId" : 1001193,
+  "content" : "是",
+  "isCorrect" : 0
+}, {
+  "id" : 10010460,
+  "questionId" : 1001193,
+  "content" : "不是",
+  "isCorrect" : 1
+}, {
+  "id" : 10010461,
+  "questionId" : 1001194,
+  "content" : "老师去敲桌子",
+  "isCorrect" : 1
+}, {
+  "id" : 10010462,
+  "questionId" : 1001194,
+  "content" : "把这两个人轰出去",
+  "isCorrect" : 0
+}, {
+  "id" : 10010463,
+  "questionId" : 1001195,
+  "content" : "用手机录音",
+  "isCorrect" : 1
+}, {
+  "id" : 10010464,
+  "questionId" : 1001195,
+  "content" : "用录音机录音",
+  "isCorrect" : 0
+}, {
+  "id" : 10010465,
+  "questionId" : 1001196,
+  "content" : "调虎离山",
+  "isCorrect" : 1
+}, {
+  "id" : 10010466,
+  "questionId" : 1001196,
+  "content" : "想帮他们",
+  "isCorrect" : 0
+}, {
+  "id" : 10010467,
+  "questionId" : 1001197,
+  "content" : "罗本准备去三楼",
+  "isCorrect" : 0
+}, {
+  "id" : 10010468,
+  "questionId" : 1001197,
+  "content" : "上电梯只是怕他行凶",
+  "isCorrect" : 1
+}, {
+  "id" : 10010469,
+  "questionId" : 1001198,
+  "content" : "东北英语翻译",
+  "isCorrect" : 0
+}, {
+  "id" : 10010470,
+  "questionId" : 1001198,
+  "content" : "音译汉字",
+  "isCorrect" : 1
+}, {
+  "id" : 10010471,
+  "questionId" : 1001199,
+  "content" : "因为罗本老奸巨猾",
+  "isCorrect" : 0
+}, {
+  "id" : 10010472,
+  "questionId" : 1001199,
+  "content" : "因为大家私下评价罗本",
+  "isCorrect" : 1
+}, {
+  "id" : 10010473,
+  "questionId" : 1001200,
+  "content" : "公司都是精英人才",
+  "isCorrect" : 1
+}, {
+  "id" : 10010474,
+  "questionId" : 1001200,
+  "content" : "喜欢公司文化",
+  "isCorrect" : 0
+}, {
+  "id" : 10010475,
+  "questionId" : 1001200,
+  "content" : "不记得揩油多少钱",
+  "isCorrect" : 0
+}, {
+  "id" : 10010476,
+  "questionId" : 1001201,
+  "content" : "门反锁还进来人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010477,
+  "questionId" : 1001201,
+  "content" : "门没有反锁功能",
+  "isCorrect" : 0
+}, {
+  "id" : 10010478,
+  "questionId" : 1001202,
+  "content" : "鼠标被动了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010479,
+  "questionId" : 1001202,
+  "content" : "椅子歪了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010480,
+  "questionId" : 1001202,
+  "content" : "有同学神色慌张",
+  "isCorrect" : 1
+}, {
+  "id" : 10010481,
+  "questionId" : 1001203,
+  "content" : "随口说不能长久记忆",
+  "isCorrect" : 1
+}, {
+  "id" : 10010482,
+  "questionId" : 1001203,
+  "content" : "要下课了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010483,
+  "questionId" : 1001204,
+  "content" : "以分低为荣",
+  "isCorrect" : 0
+}, {
+  "id" : 10010484,
+  "questionId" : 1001204,
+  "content" : "价值观颠倒了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010485,
+  "questionId" : 1001205,
+  "content" : "能屈能伸，讨好坏人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010486,
+  "questionId" : 1001205,
+  "content" : "硬碰硬",
+  "isCorrect" : 0
+}, {
+  "id" : 10010487,
+  "questionId" : 1001206,
+  "content" : "她没有听错屋里进来人了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010488,
+  "questionId" : 1001206,
+  "content" : "她没听错只不过突然断电一次",
+  "isCorrect" : 0
+}, {
+  "id" : 10010489,
+  "questionId" : 1001207,
+  "content" : "看到了小梨",
+  "isCorrect" : 1
+}, {
+  "id" : 10010490,
+  "questionId" : 1001207,
+  "content" : "看到了自己",
+  "isCorrect" : 0
+}, {
+  "id" : 10010491,
+  "questionId" : 1001208,
+  "content" : "忘记去厕所了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010492,
+  "questionId" : 1001208,
+  "content" : "根本没有去",
+  "isCorrect" : 1
+}, {
+  "id" : 10010493,
+  "questionId" : 1001209,
+  "content" : "有人故意放硬币",
+  "isCorrect" : 1
+}, {
+  "id" : 10010494,
+  "questionId" : 1001209,
+  "content" : "里面是假币厂",
+  "isCorrect" : 0
+}, {
+  "id" : 10010495,
+  "questionId" : 1001210,
+  "content" : "到下班点了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010496,
+  "questionId" : 1001210,
+  "content" : "遇到鬼了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010497,
+  "questionId" : 1001211,
+  "content" : "隔壁没有人住",
+  "isCorrect" : 0
+}, {
+  "id" : 10010498,
+  "questionId" : 1001211,
+  "content" : "快递小哥不怀好意",
+  "isCorrect" : 1
+}, {
+  "id" : 10010499,
+  "questionId" : 1001212,
+  "content" : "生孩子前特别喜欢吃",
+  "isCorrect" : 1
+}, {
+  "id" : 10010500,
+  "questionId" : 1001212,
+  "content" : "我不会伤害你的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010501,
+  "questionId" : 1001213,
+  "content" : "发现自己没带钱",
+  "isCorrect" : 1
+}, {
+  "id" : 10010502,
+  "questionId" : 1001213,
+  "content" : "绑匪还要绑架小敏",
+  "isCorrect" : 0
+}, {
+  "id" : 10010503,
+  "questionId" : 1001214,
+  "content" : "怕孩子被拐卖",
+  "isCorrect" : 0
+}, {
+  "id" : 10010504,
+  "questionId" : 1001214,
+  "content" : "园区里没有小孩",
+  "isCorrect" : 1
+}, {
+  "id" : 10010505,
+  "questionId" : 1001215,
+  "content" : "确实不是人肉",
+  "isCorrect" : 1
+}, {
+  "id" : 10010506,
+  "questionId" : 1001215,
+  "content" : "人肉是这个味吗？",
+  "isCorrect" : 0
+}, {
+  "id" : 10010507,
+  "questionId" : 1001216,
+  "content" : "昨晚小敏值班睡觉",
+  "isCorrect" : 1
+}, {
+  "id" : 10010508,
+  "questionId" : 1001216,
+  "content" : "小敏诅咒了老板",
+  "isCorrect" : 0
+}, {
+  "id" : 10010509,
+  "questionId" : 1001217,
+  "content" : "我觉得24层有问题",
+  "isCorrect" : 0
+}, {
+  "id" : 10010510,
+  "questionId" : 1001217,
+  "content" : "你觉得我像小梨吗",
+  "isCorrect" : 1
+}, {
+  "id" : 10010511,
+  "questionId" : 1001218,
+  "content" : "犯罪份子骗取开门计俩",
+  "isCorrect" : 1
+}, {
+  "id" : 10010512,
+  "questionId" : 1001218,
+  "content" : "小敏觉得报警比较靠谱",
+  "isCorrect" : 0
+}, {
+  "id" : 10010513,
+  "questionId" : 1001219,
+  "content" : "希望你去死",
+  "isCorrect" : 0
+}, {
+  "id" : 10010514,
+  "questionId" : 1001219,
+  "content" : "我希望把红色的也给我",
+  "isCorrect" : 1
+}, {
+  "id" : 10010515,
+  "questionId" : 1001220,
+  "content" : "男子的行为吓人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010516,
+  "questionId" : 1001220,
+  "content" : "咖啡不用放糖",
+  "isCorrect" : 0
+}, {
+  "id" : 10010517,
+  "questionId" : 1001221,
+  "content" : "骗子的骗局",
+  "isCorrect" : 0
+}, {
+  "id" : 10010518,
+  "questionId" : 1001221,
+  "content" : "四楼没有厕所",
+  "isCorrect" : 1
+}, {
+  "id" : 10010519,
+  "questionId" : 1001222,
+  "content" : "男朋友想分手",
+  "isCorrect" : 0
+}, {
+  "id" : 10010520,
+  "questionId" : 1001222,
+  "content" : "有人敲错门",
+  "isCorrect" : 1
+}, {
+  "id" : 10010521,
+  "questionId" : 1001223,
+  "content" : "捉弄小敏使她必须一次喝完这瓶水",
+  "isCorrect" : 0
+}, {
+  "id" : 10010522,
+  "questionId" : 1001223,
+  "content" : "拿到了中奖的瓶盖",
+  "isCorrect" : 1
+}, {
+  "id" : 10010523,
+  "questionId" : 1001224,
+  "content" : "去给我倒杯水",
+  "isCorrect" : 1
+}, {
+  "id" : 10010524,
+  "questionId" : 1001224,
+  "content" : "你是不是傻",
+  "isCorrect" : 0
+}, {
+  "id" : 10010525,
+  "questionId" : 1001225,
+  "content" : "那能告诉你吗",
+  "isCorrect" : 0
+}, {
+  "id" : 10010526,
+  "questionId" : 1001225,
+  "content" : "我太爷爷从来不管闲事",
+  "isCorrect" : 1
+}, {
+  "id" : 10010527,
+  "questionId" : 1001226,
+  "content" : "他觉得事情太巧",
+  "isCorrect" : 0
+}, {
+  "id" : 10010528,
+  "questionId" : 1001226,
+  "content" : "她能看到人的死亡年龄",
+  "isCorrect" : 1
+}, {
+  "id" : 10010529,
+  "questionId" : 1001227,
+  "content" : "陌生人杀了男友并且准备入室杀人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010530,
+  "questionId" : 1001227,
+  "content" : "陌生人杀了男友就离开了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010531,
+  "questionId" : 1001228,
+  "content" : "哥哥杀了妈妈其余的人是妹妹杀的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010532,
+  "questionId" : 1001228,
+  "content" : "那天晚上杀人的是妹妹",
+  "isCorrect" : 0
+}, {
+  "id" : 10010533,
+  "questionId" : 1001229,
+  "content" : "飞机失事，女孩在报恩",
+  "isCorrect" : 1
+}, {
+  "id" : 10010534,
+  "questionId" : 1001229,
+  "content" : "女孩让他避免了车祸",
+  "isCorrect" : 0
+}, {
+  "id" : 10010535,
+  "questionId" : 1001230,
+  "content" : "闺蜜睡了一年",
+  "isCorrect" : 1
+}, {
+  "id" : 10010536,
+  "questionId" : 1001230,
+  "content" : "死后还过生日",
+  "isCorrect" : 0
+}, {
+  "id" : 10010537,
+  "questionId" : 1001231,
+  "content" : "被做成了蜡烛",
+  "isCorrect" : 1
+}, {
+  "id" : 10010538,
+  "questionId" : 1001231,
+  "content" : "只有半岁",
+  "isCorrect" : 0
+}, {
+  "id" : 10010539,
+  "questionId" : 1001232,
+  "content" : "“美女”是女装大佬",
+  "isCorrect" : 1
+}, {
+  "id" : 10010540,
+  "questionId" : 1001232,
+  "content" : "害怕这只蟑螂导致美女离开",
+  "isCorrect" : 0
+}, {
+  "id" : 10010541,
+  "questionId" : 1001233,
+  "content" : "疯子识别黑白是颠倒的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010542,
+  "questionId" : 1001233,
+  "content" : "赫煊将白衣穿在自己身上",
+  "isCorrect" : 1
+}, {
+  "id" : 10010543,
+  "questionId" : 1001234,
+  "content" : "不会到高层问地址",
+  "isCorrect" : 1
+}, {
+  "id" : 10010544,
+  "questionId" : 1001234,
+  "content" : "自己没有快递",
+  "isCorrect" : 0
+}, {
+  "id" : 10010545,
+  "questionId" : 1001235,
+  "content" : "提前吃了解药",
+  "isCorrect" : 0
+}, {
+  "id" : 10010546,
+  "questionId" : 1001235,
+  "content" : "毒在冰块里",
+  "isCorrect" : 1
+}, {
+  "id" : 10010547,
+  "questionId" : 1001236,
+  "content" : "没获得自由",
+  "isCorrect" : 1
+}, {
+  "id" : 10010548,
+  "questionId" : 1001236,
+  "content" : "获得自由",
+  "isCorrect" : 0
+}, {
+  "id" : 10010549,
+  "questionId" : 1001237,
+  "content" : "有人用本来面目出席小盐害怕的逃出",
+  "isCorrect" : 1
+}, {
+  "id" : 10010550,
+  "questionId" : 1001237,
+  "content" : "发现了面具感觉没有神秘感了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010551,
+  "questionId" : 1001238,
+  "content" : "爸爸罪有应得",
+  "isCorrect" : 0
+}, {
+  "id" : 10010552,
+  "questionId" : 1001238,
+  "content" : "小盐杀了妈妈",
+  "isCorrect" : 1
+}, {
+  "id" : 10010553,
+  "questionId" : 1001239,
+  "content" : "海尔兄弟图像",
+  "isCorrect" : 1
+}, {
+  "id" : 10010554,
+  "questionId" : 1001239,
+  "content" : "鬼影",
+  "isCorrect" : 0
+}, {
+  "id" : 10010555,
+  "questionId" : 1001240,
+  "content" : "我只有这一个女儿",
+  "isCorrect" : 1
+}, {
+  "id" : 10010556,
+  "questionId" : 1001240,
+  "content" : "我有两个女儿但是有一个已去世了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010557,
+  "questionId" : 1001241,
+  "content" : "赫煊电话响了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010558,
+  "questionId" : 1001241,
+  "content" : "电话铃声在屋内响起",
+  "isCorrect" : 1
+}, {
+  "id" : 10010559,
+  "questionId" : 1001242,
+  "content" : "昨天晚上看见的是小偷",
+  "isCorrect" : 1
+}, {
+  "id" : 10010560,
+  "questionId" : 1001242,
+  "content" : "油画上的人流出血",
+  "isCorrect" : 0
+}, {
+  "id" : 10010561,
+  "questionId" : 1001243,
+  "content" : "小夏有问题",
+  "isCorrect" : 1
+}, {
+  "id" : 10010562,
+  "questionId" : 1001243,
+  "content" : "小盐有问题",
+  "isCorrect" : 0
+}, {
+  "id" : 10010563,
+  "questionId" : 1001244,
+  "content" : "因为毒在水里",
+  "isCorrect" : 1
+}, {
+  "id" : 10010564,
+  "questionId" : 1001244,
+  "content" : "疯子会变魔术",
+  "isCorrect" : 0
+}, {
+  "id" : 10010565,
+  "questionId" : 1001245,
+  "content" : "短发男和瞎子是同伙",
+  "isCorrect" : 0
+}, {
+  "id" : 10010566,
+  "questionId" : 1001245,
+  "content" : "瞎子不是盲人肯定另有所图",
+  "isCorrect" : 1
+}, {
+  "id" : 10010567,
+  "questionId" : 1001246,
+  "content" : "出差时的报纸在家中",
+  "isCorrect" : 1
+}, {
+  "id" : 10010568,
+  "questionId" : 1001246,
+  "content" : "送的报纸是出差时候的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010569,
+  "questionId" : 1001247,
+  "content" : "因为赫煊是瞎子并且解阳明是聋子",
+  "isCorrect" : 1
+}, {
+  "id" : 10010570,
+  "questionId" : 1001247,
+  "content" : "因为解阳明没有腿",
+  "isCorrect" : 0
+}, {
+  "id" : 10010571,
+  "questionId" : 1001248,
+  "content" : "男友不接电话",
+  "isCorrect" : 0
+}, {
+  "id" : 10010572,
+  "questionId" : 1001248,
+  "content" : "男友已被杀害",
+  "isCorrect" : 1
+}, {
+  "id" : 10010573,
+  "questionId" : 1001249,
+  "content" : "我是单身啊",
+  "isCorrect" : 1
+}, {
+  "id" : 10010574,
+  "questionId" : 1001249,
+  "content" : "我已经报警了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010575,
+  "questionId" : 1001250,
+  "content" : "室友没有电话",
+  "isCorrect" : 0
+}, {
+  "id" : 10010576,
+  "questionId" : 1001250,
+  "content" : "当天小区没有信号",
+  "isCorrect" : 1
+}, {
+  "id" : 10010577,
+  "questionId" : 1001251,
+  "content" : "因为叶宇没有腿",
+  "isCorrect" : 1
+}, {
+  "id" : 10010578,
+  "questionId" : 1001251,
+  "content" : "因为礼物不喜欢",
+  "isCorrect" : 0
+}, {
+  "id" : 10010579,
+  "questionId" : 1001252,
+  "content" : "小盐邻居是罪犯回去是救人",
+  "isCorrect" : 0
+}, {
+  "id" : 10010580,
+  "questionId" : 1001252,
+  "content" : "小盐是案件元凶回去是担心事情败露",
+  "isCorrect" : 1
+}, {
+  "id" : 10010581,
+  "questionId" : 1001253,
+  "content" : "大盐先喝",
+  "isCorrect" : 1
+}, {
+  "id" : 10010582,
+  "questionId" : 1001253,
+  "content" : "男人先喝",
+  "isCorrect" : 0
+}, {
+  "id" : 10010583,
+  "questionId" : 1001254,
+  "content" : "是在解阳明家",
+  "isCorrect" : 0
+}, {
+  "id" : 10010584,
+  "questionId" : 1001254,
+  "content" : "门外也有指纹",
+  "isCorrect" : 1
+}, {
+  "id" : 10010585,
+  "questionId" : 1001255,
+  "content" : "以为自己梦游杀了现任妻子",
+  "isCorrect" : 1
+}, {
+  "id" : 10010586,
+  "questionId" : 1001255,
+  "content" : "以为前任妻子回来报复",
+  "isCorrect" : 0
+}, {
+  "id" : 10010587,
+  "questionId" : 1001256,
+  "content" : "坏人可能躲到她家里了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010588,
+  "questionId" : 1001256,
+  "content" : "男人就是坏人",
+  "isCorrect" : 0
+}, {
+  "id" : 10010589,
+  "questionId" : 1001257,
+  "content" : "包子融化了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010590,
+  "questionId" : 1001257,
+  "content" : "包子沾到盒盖上了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010591,
+  "questionId" : 1001258,
+  "content" : "铃声是爸爸在监督她学习",
+  "isCorrect" : 1
+}, {
+  "id" : 10010592,
+  "questionId" : 1001258,
+  "content" : "铃声是提醒她不要睡觉",
+  "isCorrect" : 0
+}, {
+  "id" : 10010593,
+  "questionId" : 1001259,
+  "content" : "值夜班时睡觉",
+  "isCorrect" : 1
+}, {
+  "id" : 10010594,
+  "questionId" : 1001259,
+  "content" : "说出了老板的厄运",
+  "isCorrect" : 0
+}, {
+  "id" : 10010595,
+  "questionId" : 1001260,
+  "content" : "看到了凶手的照片",
+  "isCorrect" : 0
+}, {
+  "id" : 10010596,
+  "questionId" : 1001260,
+  "content" : "看到自己在睡觉的照片",
+  "isCorrect" : 1
+}, {
+  "id" : 10010597,
+  "questionId" : 1001261,
+  "content" : "发现乌龟没在家里",
+  "isCorrect" : 0
+}, {
+  "id" : 10010598,
+  "questionId" : 1001261,
+  "content" : "发现乌龟粮是满的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010599,
+  "questionId" : 1001262,
+  "content" : "解阳明的头没入地板中",
+  "isCorrect" : 0
+}, {
+  "id" : 10010600,
+  "questionId" : 1001262,
+  "content" : "解阳明钻进了衣橱",
+  "isCorrect" : 1
+}, {
+  "id" : 10010601,
+  "questionId" : 1001263,
+  "content" : "想明白了声音来源",
+  "isCorrect" : 1
+}, {
+  "id" : 10010602,
+  "questionId" : 1001263,
+  "content" : "跟自己没关系",
+  "isCorrect" : 0
+}, {
+  "id" : 10010603,
+  "questionId" : 1001264,
+  "content" : "这个天鹅肉是假天鹅肉",
+  "isCorrect" : 0
+}, {
+  "id" : 10010604,
+  "questionId" : 1001264,
+  "content" : "解阳明吃过的天鹅肉是妻子的肉",
+  "isCorrect" : 1
+}, {
+  "id" : 10010605,
+  "questionId" : 1001265,
+  "content" : "镜子里是右手关水龙头",
+  "isCorrect" : 1
+}, {
+  "id" : 10010606,
+  "questionId" : 1001265,
+  "content" : "家里停水了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010609,
+  "questionId" : 1001267,
+  "content" : "解阳明",
+  "isCorrect" : 1
+}, {
+  "id" : 10010610,
+  "questionId" : 1001267,
+  "content" : "赫煊",
+  "isCorrect" : 0
+}, {
+  "id" : 10010611,
+  "questionId" : 1001268,
+  "content" : "她意识到男友要对她复仇",
+  "isCorrect" : 1
+}, {
+  "id" : 10010612,
+  "questionId" : 1001268,
+  "content" : "男友在使巫术",
+  "isCorrect" : 0
+}, {
+  "id" : 10010613,
+  "questionId" : 1001269,
+  "content" : "别白费力气了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010614,
+  "questionId" : 1001269,
+  "content" : "大盐，你把门后的锁打开",
+  "isCorrect" : 1
+}, {
+  "id" : 10010615,
+  "questionId" : 1001270,
+  "content" : "晓夏眼睛没了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010616,
+  "questionId" : 1001270,
+  "content" : "晓夏上吊了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010617,
+  "questionId" : 1001271,
+  "content" : "整成了另一个通缉犯",
+  "isCorrect" : 1
+}, {
+  "id" : 10010618,
+  "questionId" : 1001271,
+  "content" : "五官没有整",
+  "isCorrect" : 0
+}, {
+  "id" : 10010619,
+  "questionId" : 1001272,
+  "content" : "小夏跑不动了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010620,
+  "questionId" : 1001272,
+  "content" : "路人与歹徒是一伙的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010621,
+  "questionId" : 1001273,
+  "content" : "小盐杀了解阳明",
+  "isCorrect" : 1
+}, {
+  "id" : 10010622,
+  "questionId" : 1001273,
+  "content" : "小盐报警了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010623,
+  "questionId" : 1001274,
+  "content" : "车里太冷了冻手",
+  "isCorrect" : 0
+}, {
+  "id" : 10010624,
+  "questionId" : 1001274,
+  "content" : "干活以前先戴手套",
+  "isCorrect" : 1
+}, {
+  "id" : 10010625,
+  "questionId" : 1001275,
+  "content" : "家里灯开了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010626,
+  "questionId" : 1001275,
+  "content" : "有人从楼上跳下来",
+  "isCorrect" : 0
+}, {
+  "id" : 10010627,
+  "questionId" : 1001276,
+  "content" : "出于礼貌好心的提示",
+  "isCorrect" : 0
+}, {
+  "id" : 10010628,
+  "questionId" : 1001276,
+  "content" : "妻子一个人却点这么多菜",
+  "isCorrect" : 1
+}, {
+  "id" : 10010629,
+  "questionId" : 1001277,
+  "content" : "你别动我报警了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010630,
+  "questionId" : 1001277,
+  "content" : "原来你在这里啊",
+  "isCorrect" : 1
+}, {
+  "id" : 10010631,
+  "questionId" : 1001278,
+  "content" : "屋外的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010632,
+  "questionId" : 1001278,
+  "content" : "屋里的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010633,
+  "questionId" : 1001279,
+  "content" : "新端上来的咖啡是甜的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010634,
+  "questionId" : 1001279,
+  "content" : "新端上来的是咖啡苦的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010635,
+  "questionId" : 1001280,
+  "content" : "线索在屋顶",
+  "isCorrect" : 0
+}, {
+  "id" : 10010636,
+  "questionId" : 1001280,
+  "content" : "树影上树顶的位置",
+  "isCorrect" : 1
+}, {
+  "id" : 10010637,
+  "questionId" : 1001281,
+  "content" : "邻居只上夜班于是认为家里危险",
+  "isCorrect" : 1
+}, {
+  "id" : 10010638,
+  "questionId" : 1001281,
+  "content" : "邻居两个人有问题怕事情败露",
+  "isCorrect" : 0
+}, {
+  "id" : 10010639,
+  "questionId" : 1001282,
+  "content" : "歹徒在屋里",
+  "isCorrect" : 0
+}, {
+  "id" : 10010640,
+  "questionId" : 1001282,
+  "content" : "是解阳明行凶",
+  "isCorrect" : 1
+}, {
+  "id" : 10010641,
+  "questionId" : 1001283,
+  "content" : "破裤子让我亲爱的生气",
+  "isCorrect" : 0
+}, {
+  "id" : 10010642,
+  "questionId" : 1001283,
+  "content" : "亲爱的那你瘦了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010643,
+  "questionId" : 1001284,
+  "content" : "复读机的电池",
+  "isCorrect" : 1
+}, {
+  "id" : 10010644,
+  "questionId" : 1001284,
+  "content" : "真正复读机",
+  "isCorrect" : 0
+}, {
+  "id" : 10010645,
+  "questionId" : 1001285,
+  "content" : "这款表是自己的是解阳明抢的包",
+  "isCorrect" : 1
+}, {
+  "id" : 10010646,
+  "questionId" : 1001285,
+  "content" : "因为这个表是便宜货",
+  "isCorrect" : 0
+}, {
+  "id" : 10010647,
+  "questionId" : 1001286,
+  "content" : "全答对才能离开",
+  "isCorrect" : 1
+}, {
+  "id" : 10010648,
+  "questionId" : 1001286,
+  "content" : "答错了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010649,
+  "questionId" : 1001287,
+  "content" : "老板是疯子",
+  "isCorrect" : 0
+}, {
+  "id" : 10010650,
+  "questionId" : 1001287,
+  "content" : "巴扎妹走错办公室了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010651,
+  "questionId" : 1001288,
+  "content" : "古阿力搬家了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010652,
+  "questionId" : 1001288,
+  "content" : "古阿力进监狱了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010653,
+  "questionId" : 1001289,
+  "content" : "门直接被打开",
+  "isCorrect" : 1
+}, {
+  "id" : 10010654,
+  "questionId" : 1001289,
+  "content" : "梦是反的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010655,
+  "questionId" : 1001290,
+  "content" : "给小小喝的是重水",
+  "isCorrect" : 1
+}, {
+  "id" : 10010656,
+  "questionId" : 1001290,
+  "content" : "给小小喝的是热水",
+  "isCorrect" : 0
+}, {
+  "id" : 10010657,
+  "questionId" : 1001291,
+  "content" : "男人是精神病",
+  "isCorrect" : 0
+}, {
+  "id" : 10010658,
+  "questionId" : 1001291,
+  "content" : "男人在数楼层",
+  "isCorrect" : 1
+}, {
+  "id" : 10010659,
+  "questionId" : 1001292,
+  "content" : "小小怀孕了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010660,
+  "questionId" : 1001292,
+  "content" : "怪人说的不对",
+  "isCorrect" : 0
+}, {
+  "id" : 10010661,
+  "questionId" : 1001293,
+  "content" : "男友在跟踪小小",
+  "isCorrect" : 1
+}, {
+  "id" : 10010662,
+  "questionId" : 1001293,
+  "content" : "自己凶多吉少",
+  "isCorrect" : 0
+}, {
+  "id" : 10010663,
+  "questionId" : 1001294,
+  "content" : "是她男友的眼睛",
+  "isCorrect" : 1
+}, {
+  "id" : 10010664,
+  "questionId" : 1001294,
+  "content" : "是男友做的手术",
+  "isCorrect" : 0
+}, {
+  "id" : 10010665,
+  "questionId" : 1001295,
+  "content" : "水里有毒",
+  "isCorrect" : 0
+}, {
+  "id" : 10010666,
+  "questionId" : 1001295,
+  "content" : "因味嗅觉丧失造成",
+  "isCorrect" : 1
+}, {
+  "id" : 10010667,
+  "questionId" : 1001296,
+  "content" : "你可以走了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010668,
+  "questionId" : 1001296,
+  "content" : "你被捕了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010669,
+  "questionId" : 1001297,
+  "content" : "用身体阻挡寒气",
+  "isCorrect" : 1
+}, {
+  "id" : 10010670,
+  "questionId" : 1001297,
+  "content" : "这个位置没有座",
+  "isCorrect" : 0
+}, {
+  "id" : 10010671,
+  "questionId" : 1001298,
+  "content" : "手机拼音26键",
+  "isCorrect" : 1
+}, {
+  "id" : 10010672,
+  "questionId" : 1001298,
+  "content" : "数字谐音",
+  "isCorrect" : 0
+}, {
+  "id" : 10010673,
+  "questionId" : 1001299,
+  "content" : "床底下躲着一个男人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010674,
+  "questionId" : 1001299,
+  "content" : "不怀好意",
+  "isCorrect" : 0
+}, {
+  "id" : 10010675,
+  "questionId" : 1001300,
+  "content" : "水时间太长了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010676,
+  "questionId" : 1001300,
+  "content" : "水是温水",
+  "isCorrect" : 1
+}, {
+  "id" : 10010677,
+  "questionId" : 1001301,
+  "content" : "硬币两面都不一样",
+  "isCorrect" : 0
+}, {
+  "id" : 10010678,
+  "questionId" : 1001301,
+  "content" : "一次拍不了两面",
+  "isCorrect" : 1
+}, {
+  "id" : 10010679,
+  "questionId" : 1001302,
+  "content" : "毒藏在冰块里",
+  "isCorrect" : 1
+}, {
+  "id" : 10010680,
+  "questionId" : 1001302,
+  "content" : "哥哥有解药",
+  "isCorrect" : 0
+}, {
+  "id" : 10010681,
+  "questionId" : 1001303,
+  "content" : "质量不行",
+  "isCorrect" : 0
+}, {
+  "id" : 10010682,
+  "questionId" : 1001303,
+  "content" : "是小小耳朵听不见了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010683,
+  "questionId" : 1001304,
+  "content" : "狂犬病",
+  "isCorrect" : 0
+}, {
+  "id" : 10010684,
+  "questionId" : 1001304,
+  "content" : "男人在狗身上摸毒药",
+  "isCorrect" : 1
+}, {
+  "id" : 10010685,
+  "questionId" : 1001305,
+  "content" : "logo",
+  "isCorrect" : 0
+}, {
+  "id" : 10010686,
+  "questionId" : 1001305,
+  "content" : "help",
+  "isCorrect" : 1
+}, {
+  "id" : 10010687,
+  "questionId" : 1001306,
+  "content" : "闺蜜下毒了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010688,
+  "questionId" : 1001306,
+  "content" : "鹅肉和黄柿子不能一起吃",
+  "isCorrect" : 1
+}, {
+  "id" : 10010689,
+  "questionId" : 1001307,
+  "content" : "朋友sha了小小",
+  "isCorrect" : 1
+}, {
+  "id" : 10010690,
+  "questionId" : 1001307,
+  "content" : "把他拉黑了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010691,
+  "questionId" : 1001308,
+  "content" : "时钟是炸弹",
+  "isCorrect" : 1
+}, {
+  "id" : 10010692,
+  "questionId" : 1001308,
+  "content" : "手机要爆炸",
+  "isCorrect" : 0
+}, {
+  "id" : 10010693,
+  "questionId" : 1001309,
+  "content" : "finish",
+  "isCorrect" : 1
+}, {
+  "id" : 10010694,
+  "questionId" : 1001309,
+  "content" : "openid",
+  "isCorrect" : 0
+}, {
+  "id" : 10010695,
+  "questionId" : 1001310,
+  "content" : "小小没有邻居",
+  "isCorrect" : 0
+}, {
+  "id" : 10010696,
+  "questionId" : 1001310,
+  "content" : "小小住在高层",
+  "isCorrect" : 1
+}, {
+  "id" : 10010697,
+  "questionId" : 1001311,
+  "content" : "水龙头该换了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010698,
+  "questionId" : 1001311,
+  "content" : "镜子里也是右手擦汗",
+  "isCorrect" : 1
+}, {
+  "id" : 10010699,
+  "questionId" : 1001312,
+  "content" : "效仿男子的做法直接离开",
+  "isCorrect" : 1
+}, {
+  "id" : 10010700,
+  "questionId" : 1001312,
+  "content" : "仗着胆子进去",
+  "isCorrect" : 0
+}, {
+  "id" : 10010701,
+  "questionId" : 1001313,
+  "content" : "电脑是男友的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010702,
+  "questionId" : 1001313,
+  "content" : "男友吓唬的她",
+  "isCorrect" : 0
+}, {
+  "id" : 10010703,
+  "questionId" : 1001314,
+  "content" : "男友良知发现",
+  "isCorrect" : 0
+}, {
+  "id" : 10010704,
+  "questionId" : 1001314,
+  "content" : "发现腰上的手一直没离开",
+  "isCorrect" : 1
+}, {
+  "id" : 10010705,
+  "questionId" : 1001315,
+  "content" : "打错电话了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010706,
+  "questionId" : 1001315,
+  "content" : "看到男朋友在擦桌子",
+  "isCorrect" : 1
+}, {
+  "id" : 10010707,
+  "questionId" : 1001316,
+  "content" : "因为小小减肥了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010708,
+  "questionId" : 1001316,
+  "content" : "因为小小更胖了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010709,
+  "questionId" : 1001317,
+  "content" : "小小耳朵坏了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010710,
+  "questionId" : 1001317,
+  "content" : "引导小小被车撞",
+  "isCorrect" : 1
+}, {
+  "id" : 10010711,
+  "questionId" : 1001318,
+  "content" : "一“箱”情愿",
+  "isCorrect" : 1
+}, {
+  "id" : 10010712,
+  "questionId" : 1001318,
+  "content" : "给哥哥的箱子",
+  "isCorrect" : 0
+}, {
+  "id" : 10010713,
+  "questionId" : 1001319,
+  "content" : "会",
+  "isCorrect" : 0
+}, {
+  "id" : 10010714,
+  "questionId" : 1001319,
+  "content" : "不会",
+  "isCorrect" : 1
+}, {
+  "id" : 10010715,
+  "questionId" : 1001320,
+  "content" : "电梯里还有其他“人”",
+  "isCorrect" : 1
+}, {
+  "id" : 10010716,
+  "questionId" : 1001320,
+  "content" : "坏人在9层",
+  "isCorrect" : 0
+}, {
+  "id" : 10010717,
+  "questionId" : 1001321,
+  "content" : "弥补过错",
+  "isCorrect" : 0
+}, {
+  "id" : 10010718,
+  "questionId" : 1001321,
+  "content" : "有“人”替男友回答问题",
+  "isCorrect" : 1
+}, {
+  "id" : 10010719,
+  "questionId" : 1001322,
+  "content" : "SOS",
+  "isCorrect" : 1
+}, {
+  "id" : 10010720,
+  "questionId" : 1001322,
+  "content" : "分手",
+  "isCorrect" : 0
+}, {
+  "id" : 10010721,
+  "questionId" : 1001323,
+  "content" : "我也是",
+  "isCorrect" : 0
+}, {
+  "id" : 10010722,
+  "questionId" : 1001323,
+  "content" : "你看我像你哥哥吗",
+  "isCorrect" : 1
+}, {
+  "id" : 10010723,
+  "questionId" : 1001324,
+  "content" : "筷子鸡蛋=110",
+  "isCorrect" : 1
+}, {
+  "id" : 10010724,
+  "questionId" : 1001324,
+  "content" : "棒棒糖是他扔的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010725,
+  "questionId" : 1001325,
+  "content" : "SAVE ME",
+  "isCorrect" : 1
+}, {
+  "id" : 10010726,
+  "questionId" : 1001325,
+  "content" : "DOWN UP",
+  "isCorrect" : 0
+}, {
+  "id" : 10010727,
+  "questionId" : 1001326,
+  "content" : "你丢的是我",
+  "isCorrect" : 0
+}, {
+  "id" : 10010728,
+  "questionId" : 1001326,
+  "content" : "你丢了一把钥匙",
+  "isCorrect" : 1
+}, {
+  "id" : 10010729,
+  "questionId" : 1001327,
+  "content" : "还没炒菜",
+  "isCorrect" : 0
+}, {
+  "id" : 10010730,
+  "questionId" : 1001327,
+  "content" : "出门前没有煮饭",
+  "isCorrect" : 1
+}, {
+  "id" : 10010731,
+  "questionId" : 1001328,
+  "content" : "不该打开",
+  "isCorrect" : 1
+}, {
+  "id" : 10010732,
+  "questionId" : 1001328,
+  "content" : "可以打开",
+  "isCorrect" : 0
+}, {
+  "id" : 10010733,
+  "questionId" : 1001329,
+  "content" : "挂上防盗扣后报警",
+  "isCorrect" : 1
+}, {
+  "id" : 10010734,
+  "questionId" : 1001329,
+  "content" : "开门",
+  "isCorrect" : 0
+}, {
+  "id" : 10010735,
+  "questionId" : 1001330,
+  "content" : "13时 法国 马赛",
+  "isCorrect" : 0
+}, {
+  "id" : 10010736,
+  "questionId" : 1001330,
+  "content" : "0时 伦敦 向日葵",
+  "isCorrect" : 1
+}, {
+  "id" : 10010737,
+  "questionId" : 1001331,
+  "content" : "房檐上结冰",
+  "isCorrect" : 1
+}, {
+  "id" : 10010738,
+  "questionId" : 1001331,
+  "content" : "雪地上无痕迹",
+  "isCorrect" : 0
+}, {
+  "id" : 10010739,
+  "questionId" : 1001332,
+  "content" : "通过数眼睛便知",
+  "isCorrect" : 1
+}, {
+  "id" : 10010740,
+  "questionId" : 1001332,
+  "content" : "100个",
+  "isCorrect" : 0
+}, {
+  "id" : 10010741,
+  "questionId" : 1001333,
+  "content" : "开门导致求救的人摔死",
+  "isCorrect" : 1
+}, {
+  "id" : 10010742,
+  "questionId" : 1001333,
+  "content" : "他将求助者踢下悬崖",
+  "isCorrect" : 0
+}, {
+  "id" : 10010743,
+  "questionId" : 1001334,
+  "content" : "她发现床下有人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010744,
+  "questionId" : 1001334,
+  "content" : "她矫情",
+  "isCorrect" : 0
+}, {
+  "id" : 10010745,
+  "questionId" : 1001335,
+  "content" : "把车钥匙给朋友载老奶奶,我和女朋友等公交",
+  "isCorrect" : 1
+}, {
+  "id" : 10010746,
+  "questionId" : 1001335,
+  "content" : "载女朋友",
+  "isCorrect" : 0
+}, {
+  "id" : 10010747,
+  "questionId" : 1001336,
+  "content" : "爸爸已经死了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010748,
+  "questionId" : 1001336,
+  "content" : "她们已经死了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010749,
+  "questionId" : 1001337,
+  "content" : "笑笑不是人",
+  "isCorrect" : 0
+}, {
+  "id" : 10010750,
+  "questionId" : 1001337,
+  "content" : "在世界各地笑笑被分尸了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010751,
+  "questionId" : 1001338,
+  "content" : "刘备",
+  "isCorrect" : 0
+}, {
+  "id" : 10010752,
+  "questionId" : 1001338,
+  "content" : "曹操",
+  "isCorrect" : 1
+}, {
+  "id" : 10010753,
+  "questionId" : 1001339,
+  "content" : "爸妈在说谎",
+  "isCorrect" : 0
+}, {
+  "id" : 10010754,
+  "questionId" : 1001339,
+  "content" : "自己是怎么来的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010755,
+  "questionId" : 1001340,
+  "content" : "没事小意思",
+  "isCorrect" : 0
+}, {
+  "id" : 10010756,
+  "questionId" : 1001340,
+  "content" : "他把落水者挂上去晾干",
+  "isCorrect" : 1
+}, {
+  "id" : 10010757,
+  "questionId" : 1001341,
+  "content" : "他是诈失业青年",
+  "isCorrect" : 0
+}, {
+  "id" : 10010758,
+  "questionId" : 1001341,
+  "content" : "恐龙在人类出现时已灭绝",
+  "isCorrect" : 1
+}, {
+  "id" : 10010759,
+  "questionId" : 1001342,
+  "content" : "这是人肉",
+  "isCorrect" : 0
+}, {
+  "id" : 10010760,
+  "questionId" : 1001342,
+  "content" : "男子在南极吃的是女朋友的肉",
+  "isCorrect" : 1
+}, {
+  "id" : 10010761,
+  "questionId" : 1001343,
+  "content" : "他曾经抓过的是女友的头发",
+  "isCorrect" : 1
+}, {
+  "id" : 10010762,
+  "questionId" : 1001343,
+  "content" : "他要自杀",
+  "isCorrect" : 0
+}, {
+  "id" : 10010763,
+  "questionId" : 1001344,
+  "content" : "白纸无字,常来,白无常",
+  "isCorrect" : 1
+}, {
+  "id" : 10010764,
+  "questionId" : 1001344,
+  "content" : "他有抑郁症",
+  "isCorrect" : 0
+}, {
+  "id" : 10010765,
+  "questionId" : 1001345,
+  "content" : "笑笑被分尸了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010766,
+  "questionId" : 1001345,
+  "content" : "笑笑有分身术",
+  "isCorrect" : 0
+}, {
+  "id" : 10010767,
+  "questionId" : 1001346,
+  "content" : "因为是体育课",
+  "isCorrect" : 1
+}, {
+  "id" : 10010768,
+  "questionId" : 1001346,
+  "content" : "今天是假期",
+  "isCorrect" : 0
+}, {
+  "id" : 10010769,
+  "questionId" : 1001347,
+  "content" : "母亲",
+  "isCorrect" : 1
+}, {
+  "id" : 10010770,
+  "questionId" : 1001347,
+  "content" : "小女孩",
+  "isCorrect" : 0
+}, {
+  "id" : 10010771,
+  "questionId" : 1001348,
+  "content" : "凶手是男友的姐姐",
+  "isCorrect" : 1
+}, {
+  "id" : 10010772,
+  "questionId" : 1001348,
+  "content" : "凶手是哥哥",
+  "isCorrect" : 0
+}, {
+  "id" : 10010773,
+  "questionId" : 1001349,
+  "content" : "因为山顶不会有回声",
+  "isCorrect" : 1
+}, {
+  "id" : 10010774,
+  "questionId" : 1001349,
+  "content" : "山崩",
+  "isCorrect" : 0
+}, {
+  "id" : 10010775,
+  "questionId" : 1001350,
+  "content" : "理发师",
+  "isCorrect" : 1
+}, {
+  "id" : 10010776,
+  "questionId" : 1001350,
+  "content" : "搓澡的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010777,
+  "questionId" : 1001351,
+  "content" : "满6倒空5,6余1倒5,满6倒5余2倒空5,满6倒5余3",
+  "isCorrect" : 1
+}, {
+  "id" : 10010778,
+  "questionId" : 1001351,
+  "content" : "6和5重合倒入湖中",
+  "isCorrect" : 0
+}, {
+  "id" : 10010779,
+  "questionId" : 1001352,
+  "content" : "铁轨上",
+  "isCorrect" : 1
+}, {
+  "id" : 10010780,
+  "questionId" : 1001352,
+  "content" : "青岛",
+  "isCorrect" : 0
+}, {
+  "id" : 10010781,
+  "questionId" : 1001353,
+  "content" : "发台风棒球帽应该不在",
+  "isCorrect" : 1
+}, {
+  "id" : 10010782,
+  "questionId" : 1001353,
+  "content" : "猜的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010783,
+  "questionId" : 1001354,
+  "content" : "让甲分汤,乙丙按任意次序挑汤,最后甲挑",
+  "isCorrect" : 1
+}, {
+  "id" : 10010784,
+  "questionId" : 1001354,
+  "content" : "三人打一架谁赢谁先挑",
+  "isCorrect" : 0
+}, {
+  "id" : 10010785,
+  "questionId" : 1001355,
+  "content" : "留在电梯中",
+  "isCorrect" : 1
+}, {
+  "id" : 10010786,
+  "questionId" : 1001355,
+  "content" : "出去报警",
+  "isCorrect" : 0
+}, {
+  "id" : 10010787,
+  "questionId" : 1001356,
+  "content" : "他在瞄准",
+  "isCorrect" : 1
+}, {
+  "id" : 10010788,
+  "questionId" : 1001356,
+  "content" : "他在表达我没看见你",
+  "isCorrect" : 0
+}, {
+  "id" : 10010789,
+  "questionId" : 1001357,
+  "content" : "这个女人曾撞门求救",
+  "isCorrect" : 1
+}, {
+  "id" : 10010790,
+  "questionId" : 1001357,
+  "content" : "男人杀了这个女人",
+  "isCorrect" : 0
+}, {
+  "id" : 10010791,
+  "questionId" : 1001358,
+  "content" : "舔她手的是凶手",
+  "isCorrect" : 1
+}, {
+  "id" : 10010792,
+  "questionId" : 1001358,
+  "content" : "她有梦游症",
+  "isCorrect" : 0
+}, {
+  "id" : 10010793,
+  "questionId" : 1001359,
+  "content" : "老人在拖尸体",
+  "isCorrect" : 1
+}, {
+  "id" : 10010794,
+  "questionId" : 1001359,
+  "content" : "自己已经死了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010795,
+  "questionId" : 1001360,
+  "content" : "笑笑杀了母亲",
+  "isCorrect" : 1
+}, {
+  "id" : 10010796,
+  "questionId" : 1001360,
+  "content" : "爸爸杀了母亲",
+  "isCorrect" : 0
+}, {
+  "id" : 10010797,
+  "questionId" : 1001361,
+  "content" : "自己梦游了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010798,
+  "questionId" : 1001361,
+  "content" : "屋里进来人了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010799,
+  "questionId" : 1001362,
+  "content" : "井失灵了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010800,
+  "questionId" : 1001362,
+  "content" : "尸体被母亲处理了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010801,
+  "questionId" : 1001363,
+  "content" : "方学",
+  "isCorrect" : 0
+}, {
+  "id" : 10010802,
+  "questionId" : 1001363,
+  "content" : "方雪",
+  "isCorrect" : 1
+}, {
+  "id" : 10010803,
+  "questionId" : 1001364,
+  "content" : "人的视觉问题",
+  "isCorrect" : 0
+}, {
+  "id" : 10010804,
+  "questionId" : 1001364,
+  "content" : "人与镜子是平行的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010805,
+  "questionId" : 1001365,
+  "content" : "孕妇会未卜先知",
+  "isCorrect" : 0
+}, {
+  "id" : 10010806,
+  "questionId" : 1001365,
+  "content" : "孕妇杀了宝宝",
+  "isCorrect" : 1
+}, {
+  "id" : 10010807,
+  "questionId" : 1001366,
+  "content" : "陈易",
+  "isCorrect" : 0
+}, {
+  "id" : 10010808,
+  "questionId" : 1001366,
+  "content" : "李易",
+  "isCorrect" : 1
+}, {
+  "id" : 10010809,
+  "questionId" : 1001367,
+  "content" : "家里有鬼",
+  "isCorrect" : 0
+}, {
+  "id" : 10010810,
+  "questionId" : 1001367,
+  "content" : "家里有杀手",
+  "isCorrect" : 1
+}, {
+  "id" : 10010811,
+  "questionId" : 1001368,
+  "content" : "她疯了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010812,
+  "questionId" : 1001368,
+  "content" : "他把男友做成了蜡",
+  "isCorrect" : 1
+}, {
+  "id" : 10010813,
+  "questionId" : 1001369,
+  "content" : "这里有鬼",
+  "isCorrect" : 0
+}, {
+  "id" : 10010814,
+  "questionId" : 1001369,
+  "content" : "这里是停尸间",
+  "isCorrect" : 1
+}, {
+  "id" : 10010815,
+  "questionId" : 1001370,
+  "content" : "屋里进来生人了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010816,
+  "questionId" : 1001370,
+  "content" : "到第二天了打卡机传出重按手指",
+  "isCorrect" : 1
+}, {
+  "id" : 10010817,
+  "questionId" : 1001371,
+  "content" : "天生疾病",
+  "isCorrect" : 0
+}, {
+  "id" : 10010818,
+  "questionId" : 1001371,
+  "content" : "吃糖",
+  "isCorrect" : 1
+}, {
+  "id" : 10010819,
+  "questionId" : 1001372,
+  "content" : "歹徒是熟人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010820,
+  "questionId" : 1001372,
+  "content" : "歹徒是她们的父亲",
+  "isCorrect" : 0
+}, {
+  "id" : 10010821,
+  "questionId" : 1001373,
+  "content" : "时钟是炸弹",
+  "isCorrect" : 1
+}, {
+  "id" : 10010822,
+  "questionId" : 1001373,
+  "content" : "自己迟到了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010823,
+  "questionId" : 1001374,
+  "content" : "妈妈不是人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010824,
+  "questionId" : 1001374,
+  "content" : "屋里有人",
+  "isCorrect" : 0
+}, {
+  "id" : 10010825,
+  "questionId" : 1001375,
+  "content" : "主角要被推下去了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010826,
+  "questionId" : 1001375,
+  "content" : "风景不错",
+  "isCorrect" : 0
+}, {
+  "id" : 10010827,
+  "questionId" : 1001376,
+  "content" : "电梯顶有一具尸体",
+  "isCorrect" : 1
+}, {
+  "id" : 10010828,
+  "questionId" : 1001376,
+  "content" : "电梯有问题",
+  "isCorrect" : 0
+}, {
+  "id" : 10010829,
+  "questionId" : 1001377,
+  "content" : "上厕所",
+  "isCorrect" : 1
+}, {
+  "id" : 10010830,
+  "questionId" : 1001377,
+  "content" : "打仗",
+  "isCorrect" : 0
+}, {
+  "id" : 10010831,
+  "questionId" : 1001378,
+  "content" : "温度计",
+  "isCorrect" : 1
+}, {
+  "id" : 10010832,
+  "questionId" : 1001378,
+  "content" : "蚂蚁",
+  "isCorrect" : 0
+}, {
+  "id" : 10010833,
+  "questionId" : 1001379,
+  "content" : "身材改变容貌更加成熟",
+  "isCorrect" : 1
+}, {
+  "id" : 10010834,
+  "questionId" : 1001379,
+  "content" : "他们没有发生显著的变化",
+  "isCorrect" : 0
+}, {
+  "id" : 10010835,
+  "questionId" : 1001380,
+  "content" : "在外面哈气里面冰不会化",
+  "isCorrect" : 1
+}, {
+  "id" : 10010836,
+  "questionId" : 1001380,
+  "content" : "他在诈笑笑",
+  "isCorrect" : 0
+}, {
+  "id" : 10010837,
+  "questionId" : 1001381,
+  "content" : "自杀",
+  "isCorrect" : 0
+}, {
+  "id" : 10010838,
+  "questionId" : 1001381,
+  "content" : "谋杀",
+  "isCorrect" : 1
+}, {
+  "id" : 10010839,
+  "questionId" : 1001382,
+  "content" : "只留维修工人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010840,
+  "questionId" : 1001382,
+  "content" : "大块头出去",
+  "isCorrect" : 0
+}, {
+  "id" : 10010841,
+  "questionId" : 1001383,
+  "content" : "向西",
+  "isCorrect" : 1
+}, {
+  "id" : 10010842,
+  "questionId" : 1001383,
+  "content" : "向东",
+  "isCorrect" : 0
+}, {
+  "id" : 10010843,
+  "questionId" : 1001384,
+  "content" : "吃拉面的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010844,
+  "questionId" : 1001384,
+  "content" : "抽烟的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010845,
+  "questionId" : 1001385,
+  "content" : "左边的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010846,
+  "questionId" : 1001385,
+  "content" : "右边的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010847,
+  "questionId" : 1001386,
+  "content" : "调换次序",
+  "isCorrect" : 1
+}, {
+  "id" : 10010848,
+  "questionId" : 1001386,
+  "content" : "踮脚",
+  "isCorrect" : 0
+}, {
+  "id" : 10010849,
+  "questionId" : 1001387,
+  "content" : "A",
+  "isCorrect" : 1
+}, {
+  "id" : 10010850,
+  "questionId" : 1001387,
+  "content" : "B",
+  "isCorrect" : 0
+}, {
+  "id" : 10010851,
+  "questionId" : 1001388,
+  "content" : "刀柄",
+  "isCorrect" : 1
+}, {
+  "id" : 10010852,
+  "questionId" : 1001388,
+  "content" : "绳子",
+  "isCorrect" : 0
+}, {
+  "id" : 10010853,
+  "questionId" : 1001389,
+  "content" : "进第四扇门",
+  "isCorrect" : 1
+}, {
+  "id" : 10010854,
+  "questionId" : 1001389,
+  "content" : "进第三扇门",
+  "isCorrect" : 0
+}, {
+  "id" : 10010855,
+  "questionId" : 1001390,
+  "content" : "黑色",
+  "isCorrect" : 1
+}, {
+  "id" : 10010856,
+  "questionId" : 1001390,
+  "content" : "白色",
+  "isCorrect" : 0
+}, {
+  "id" : 10010857,
+  "questionId" : 1001391,
+  "content" : "助手死了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010858,
+  "questionId" : 1001391,
+  "content" : "助手遇险了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010859,
+  "questionId" : 1001392,
+  "content" : "火柴点燃放柠檬上盖上盘子",
+  "isCorrect" : 1
+}, {
+  "id" : 10010860,
+  "questionId" : 1001392,
+  "content" : "直接倒掉毒药",
+  "isCorrect" : 0
+}, {
+  "id" : 10010861,
+  "questionId" : 1001393,
+  "content" : "67",
+  "isCorrect" : 1
+}, {
+  "id" : 10010862,
+  "questionId" : 1001393,
+  "content" : "70",
+  "isCorrect" : 0
+}, {
+  "id" : 10010863,
+  "questionId" : 1001394,
+  "content" : "它们不下车就不会出车祸",
+  "isCorrect" : 1
+}, {
+  "id" : 10010864,
+  "questionId" : 1001394,
+  "content" : "妻子发神经",
+  "isCorrect" : 0
+}, {
+  "id" : 10010865,
+  "questionId" : 1001395,
+  "content" : "富豪",
+  "isCorrect" : 1
+}, {
+  "id" : 10010866,
+  "questionId" : 1001395,
+  "content" : "仇家",
+  "isCorrect" : 0
+}, {
+  "id" : 10010867,
+  "questionId" : 1001396,
+  "content" : "B",
+  "isCorrect" : 0
+}, {
+  "id" : 10010868,
+  "questionId" : 1001396,
+  "content" : "C",
+  "isCorrect" : 1
+}, {
+  "id" : 10010869,
+  "questionId" : 1001397,
+  "content" : "雪崩",
+  "isCorrect" : 1
+}, {
+  "id" : 10010870,
+  "questionId" : 1001397,
+  "content" : "山崩",
+  "isCorrect" : 0
+}, {
+  "id" : 10010871,
+  "questionId" : 1001398,
+  "content" : "从电梯爬出去",
+  "isCorrect" : 0
+}, {
+  "id" : 10010872,
+  "questionId" : 1001398,
+  "content" : "待在电梯中",
+  "isCorrect" : 1
+}, {
+  "id" : 10010873,
+  "questionId" : 1001399,
+  "content" : "三个人在场才交出真盒子",
+  "isCorrect" : 1
+}, {
+  "id" : 10010874,
+  "questionId" : 1001399,
+  "content" : "报警",
+  "isCorrect" : 0
+}, {
+  "id" : 10010875,
+  "questionId" : 1001400,
+  "content" : "吸血鬼那面",
+  "isCorrect" : 1
+}, {
+  "id" : 10010876,
+  "questionId" : 1001400,
+  "content" : "美人鱼那面",
+  "isCorrect" : 0
+}, {
+  "id" : 10010877,
+  "questionId" : 1001401,
+  "content" : "毒在冰块中",
+  "isCorrect" : 1
+}, {
+  "id" : 10010878,
+  "questionId" : 1001401,
+  "content" : "女人服下解药",
+  "isCorrect" : 0
+}, {
+  "id" : 10010879,
+  "questionId" : 1001402,
+  "content" : "第一道",
+  "isCorrect" : 0
+}, {
+  "id" : 10010880,
+  "questionId" : 1001402,
+  "content" : "第二道",
+  "isCorrect" : 1
+}, {
+  "id" : 10010881,
+  "questionId" : 1001403,
+  "content" : "柳宁",
+  "isCorrect" : 1
+}, {
+  "id" : 10010882,
+  "questionId" : 1001403,
+  "content" : "李文",
+  "isCorrect" : 0
+}, {
+  "id" : 10010904,
+  "questionId" : 1001414,
+  "content" : "第一个",
+  "isCorrect" : 0
+}, {
+  "id" : 10010905,
+  "questionId" : 1001414,
+  "content" : "第二个",
+  "isCorrect" : 0
+}, {
+  "id" : 10010906,
+  "questionId" : 1001414,
+  "content" : "第三个",
+  "isCorrect" : 1
+}, {
+  "id" : 10010907,
+  "questionId" : 1001415,
+  "content" : "男人畏罪自杀",
+  "isCorrect" : 1
+}, {
+  "id" : 10010908,
+  "questionId" : 1001415,
+  "content" : "这个广播对男人十分重要",
+  "isCorrect" : 0
+}, {
+  "id" : 10010909,
+  "questionId" : 1001416,
+  "content" : "高个子将家具锯短",
+  "isCorrect" : 1
+}, {
+  "id" : 10010910,
+  "questionId" : 1001416,
+  "content" : "他认输了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010911,
+  "questionId" : 1001417,
+  "content" : "我要报警",
+  "isCorrect" : 0
+}, {
+  "id" : 10010912,
+  "questionId" : 1001417,
+  "content" : "你就是这么杀我的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010913,
+  "questionId" : 1001418,
+  "content" : "笑笑",
+  "isCorrect" : 1
+}, {
+  "id" : 10010914,
+  "questionId" : 1001418,
+  "content" : "敏儿",
+  "isCorrect" : 0
+}, {
+  "id" : 10010915,
+  "questionId" : 1001419,
+  "content" : "笑笑杀了老板",
+  "isCorrect" : 0
+}, {
+  "id" : 10010916,
+  "questionId" : 1001419,
+  "content" : "足球中是老板的头",
+  "isCorrect" : 1
+}, {
+  "id" : 10010917,
+  "questionId" : 1001420,
+  "content" : "自家人不摘没熟的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010918,
+  "questionId" : 1001420,
+  "content" : "自家人熟悉自家地",
+  "isCorrect" : 0
+}, {
+  "id" : 10010919,
+  "questionId" : 1001421,
+  "content" : "死者将钥匙吞肚里",
+  "isCorrect" : 1
+}, {
+  "id" : 10010920,
+  "questionId" : 1001421,
+  "content" : "死者将钱吞肚里",
+  "isCorrect" : 0
+}, {
+  "id" : 10010921,
+  "questionId" : 1001422,
+  "content" : "是",
+  "isCorrect" : 1
+}, {
+  "id" : 10010922,
+  "questionId" : 1001422,
+  "content" : "不是",
+  "isCorrect" : 0
+}, {
+  "id" : 10010923,
+  "questionId" : 1001423,
+  "content" : "主人是妖怪",
+  "isCorrect" : 0
+}, {
+  "id" : 10010924,
+  "questionId" : 1001423,
+  "content" : "主人是gui",
+  "isCorrect" : 1
+}, {
+  "id" : 10010925,
+  "questionId" : 1001424,
+  "content" : "朱静杀了爸爸",
+  "isCorrect" : 0
+}, {
+  "id" : 10010926,
+  "questionId" : 1001424,
+  "content" : "妈妈杀了爸爸",
+  "isCorrect" : 1
+}, {
+  "id" : 10010927,
+  "questionId" : 1001425,
+  "content" : "自杀",
+  "isCorrect" : 0
+}, {
+  "id" : 10010928,
+  "questionId" : 1001425,
+  "content" : "他杀",
+  "isCorrect" : 1
+}, {
+  "id" : 10010929,
+  "questionId" : 1001426,
+  "content" : "学生",
+  "isCorrect" : 0
+}, {
+  "id" : 10010930,
+  "questionId" : 1001426,
+  "content" : "情人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010931,
+  "questionId" : 1001427,
+  "content" : "公主杀了王子染血于身",
+  "isCorrect" : 1
+}, {
+  "id" : 10010932,
+  "questionId" : 1001427,
+  "content" : "王子自杀保护公主",
+  "isCorrect" : 0
+}, {
+  "id" : 10010933,
+  "questionId" : 1001428,
+  "content" : "恶魔",
+  "isCorrect" : 1
+}, {
+  "id" : 10010934,
+  "questionId" : 1001428,
+  "content" : "鬼",
+  "isCorrect" : 0
+}, {
+  "id" : 10010935,
+  "questionId" : 1001429,
+  "content" : "电梯里的不是人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010936,
+  "questionId" : 1001429,
+  "content" : "电梯出现异常",
+  "isCorrect" : 0
+}, {
+  "id" : 10010937,
+  "questionId" : 1001430,
+  "content" : "男友微信暴露了他",
+  "isCorrect" : 1
+}, {
+  "id" : 10010938,
+  "questionId" : 1001430,
+  "content" : "男子的手机定位暴露了他",
+  "isCorrect" : 0
+}, {
+  "id" : 10010939,
+  "questionId" : 1001431,
+  "content" : "几秒",
+  "isCorrect" : 1
+}, {
+  "id" : 10010940,
+  "questionId" : 1001431,
+  "content" : "几天",
+  "isCorrect" : 0
+}, {
+  "id" : 10010941,
+  "questionId" : 1001431,
+  "content" : "几年",
+  "isCorrect" : 0
+}, {
+  "id" : 10010942,
+  "questionId" : 1001432,
+  "content" : "身边的",
+  "isCorrect" : 0
+}, {
+  "id" : 10010943,
+  "questionId" : 1001432,
+  "content" : "视频内的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010944,
+  "questionId" : 1001433,
+  "content" : "埃迪",
+  "isCorrect" : 0
+}, {
+  "id" : 10010945,
+  "questionId" : 1001433,
+  "content" : "布朗",
+  "isCorrect" : 0
+}, {
+  "id" : 10010946,
+  "questionId" : 1001433,
+  "content" : "查理",
+  "isCorrect" : 0
+}, {
+  "id" : 10010947,
+  "questionId" : 1001433,
+  "content" : " 戴维",
+  "isCorrect" : 1
+}, {
+  "id" : 10010948,
+  "questionId" : 1001434,
+  "content" : "直接抱走",
+  "isCorrect" : 0
+}, {
+  "id" : 10010949,
+  "questionId" : 1001434,
+  "content" : "用轮滑",
+  "isCorrect" : 1
+}, {
+  "id" : 10010950,
+  "questionId" : 1001435,
+  "content" : "爸爸那边",
+  "isCorrect" : 0
+}, {
+  "id" : 10010951,
+  "questionId" : 1001435,
+  "content" : "妈妈那边",
+  "isCorrect" : 0
+}, {
+  "id" : 10010952,
+  "questionId" : 1001435,
+  "content" : "旁边",
+  "isCorrect" : 1
+}, {
+  "id" : 10010953,
+  "questionId" : 1001436,
+  "content" : "死者头部中枪",
+  "isCorrect" : 0
+}, {
+  "id" : 10010954,
+  "questionId" : 1001436,
+  "content" : "全身盖着毛毯",
+  "isCorrect" : 1
+}, {
+  "id" : 10010955,
+  "questionId" : 1001437,
+  "content" : "冰淇淋里有干冰",
+  "isCorrect" : 1
+}, {
+  "id" : 10010956,
+  "questionId" : 1001437,
+  "content" : "情人在屋里喷干冰",
+  "isCorrect" : 0
+}, {
+  "id" : 10010957,
+  "questionId" : 1001438,
+  "content" : "碘加氨溶液反应",
+  "isCorrect" : 1
+}, {
+  "id" : 10010958,
+  "questionId" : 1001438,
+  "content" : "小提琴中有炸弹",
+  "isCorrect" : 0
+}, {
+  "id" : 10010959,
+  "questionId" : 1001439,
+  "content" : "送货员",
+  "isCorrect" : 0
+}, {
+  "id" : 10010960,
+  "questionId" : 1001439,
+  "content" : "女佣",
+  "isCorrect" : 0
+}, {
+  "id" : 10010961,
+  "questionId" : 1001439,
+  "content" : "保镖",
+  "isCorrect" : 1
+}, {
+  "id" : 10010962,
+  "questionId" : 1001440,
+  "content" : "杰克邹是女人的老公",
+  "isCorrect" : 1
+}, {
+  "id" : 10010963,
+  "questionId" : 1001440,
+  "content" : "杰克邹是女人的哥哥",
+  "isCorrect" : 0
+}, {
+  "id" : 10010964,
+  "questionId" : 1001441,
+  "content" : "不断给对方打电话",
+  "isCorrect" : 1
+}, {
+  "id" : 10010965,
+  "questionId" : 1001441,
+  "content" : "把对面楼炸了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010966,
+  "questionId" : 1001442,
+  "content" : "妹妹",
+  "isCorrect" : 0
+}, {
+  "id" : 10010967,
+  "questionId" : 1001442,
+  "content" : "前男友",
+  "isCorrect" : 0
+}, {
+  "id" : 10010968,
+  "questionId" : 1001442,
+  "content" : "客人",
+  "isCorrect" : 1
+}, {
+  "id" : 10010969,
+  "questionId" : 1001443,
+  "content" : "图个吉利",
+  "isCorrect" : 1
+}, {
+  "id" : 10010970,
+  "questionId" : 1001443,
+  "content" : "没事瞎涂",
+  "isCorrect" : 0
+}, {
+  "id" : 10010971,
+  "questionId" : 1001444,
+  "content" : "我的零食怎么少了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010972,
+  "questionId" : 1001444,
+  "content" : "抓贼呀",
+  "isCorrect" : 0
+}, {
+  "id" : 10010973,
+  "questionId" : 1001445,
+  "content" : "我已经迷路一天",
+  "isCorrect" : 1
+}, {
+  "id" : 10010974,
+  "questionId" : 1001445,
+  "content" : "问路500",
+  "isCorrect" : 0
+}, {
+  "id" : 10010975,
+  "questionId" : 1001446,
+  "content" : "喝一口100块",
+  "isCorrect" : 1
+}, {
+  "id" : 10010976,
+  "questionId" : 1001446,
+  "content" : "不怕死你就喝",
+  "isCorrect" : 0
+}, {
+  "id" : 10010977,
+  "questionId" : 1001447,
+  "content" : "她看到自己出车祸",
+  "isCorrect" : 1
+}, {
+  "id" : 10010978,
+  "questionId" : 1001447,
+  "content" : "她看到自己死了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010979,
+  "questionId" : 1001448,
+  "content" : "男子搭讪",
+  "isCorrect" : 0
+}, {
+  "id" : 10010980,
+  "questionId" : 1001448,
+  "content" : "男子图谋不轨",
+  "isCorrect" : 1
+}, {
+  "id" : 10010981,
+  "questionId" : 1001449,
+  "content" : "家里有人",
+  "isCorrect" : 0
+}, {
+  "id" : 10010982,
+  "questionId" : 1001449,
+  "content" : "家里有不好的东西",
+  "isCorrect" : 1
+}, {
+  "id" : 10010983,
+  "questionId" : 1001450,
+  "content" : "男人有问题",
+  "isCorrect" : 0
+}, {
+  "id" : 10010984,
+  "questionId" : 1001450,
+  "content" : "便利店有问题？",
+  "isCorrect" : 1
+}, {
+  "id" : 10010985,
+  "questionId" : 1001451,
+  "content" : "面包要过期了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010986,
+  "questionId" : 1001451,
+  "content" : "她吃不完完不成任务",
+  "isCorrect" : 0
+}, {
+  "id" : 10010987,
+  "questionId" : 1001452,
+  "content" : "我刚才掉下去了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010988,
+  "questionId" : 1001452,
+  "content" : "把钱交出来",
+  "isCorrect" : 0
+}, {
+  "id" : 10010989,
+  "questionId" : 1001453,
+  "content" : "和太阳公公说再见",
+  "isCorrect" : 1
+}, {
+  "id" : 10010990,
+  "questionId" : 1001453,
+  "content" : "和外公说再见",
+  "isCorrect" : 0
+}, {
+  "id" : 10010991,
+  "questionId" : 1001454,
+  "content" : "屋里进来过人",
+  "isCorrect" : 0
+}, {
+  "id" : 10010992,
+  "questionId" : 1001454,
+  "content" : "屋里有人且没走",
+  "isCorrect" : 1
+}, {
+  "id" : 10010993,
+  "questionId" : 1001455,
+  "content" : "男人死了",
+  "isCorrect" : 0
+}, {
+  "id" : 10010994,
+  "questionId" : 1001455,
+  "content" : "男人低头玩手机",
+  "isCorrect" : 1
+}, {
+  "id" : 10010995,
+  "questionId" : 1001456,
+  "content" : "小敏梦游了要去看医生",
+  "isCorrect" : 0
+}, {
+  "id" : 10010996,
+  "questionId" : 1001456,
+  "content" : "屋里进来生人了",
+  "isCorrect" : 1
+}, {
+  "id" : 10010997,
+  "questionId" : 1001457,
+  "content" : "这个小敏是假的",
+  "isCorrect" : 1
+}, {
+  "id" : 10010998,
+  "questionId" : 1001457,
+  "content" : "小倩有急事",
+  "isCorrect" : 0
+}, {
+  "id" : 10010999,
+  "questionId" : 1001458,
+  "content" : "秘书",
+  "isCorrect" : 0
+}, {
+  "id" : 10011000,
+  "questionId" : 1001458,
+  "content" : "员工",
+  "isCorrect" : 0
+}, {
+  "id" : 10011001,
+  "questionId" : 1001458,
+  "content" : "清洁工",
+  "isCorrect" : 1
+}, {
+  "id" : 10011002,
+  "questionId" : 1001459,
+  "content" : "小胖在镜子中",
+  "isCorrect" : 0
+}, {
+  "id" : 10011003,
+  "questionId" : 1001459,
+  "content" : "小敏在镜子中",
+  "isCorrect" : 1
+}, {
+  "id" : 10011004,
+  "questionId" : 1001460,
+  "content" : "我们复合吧",
+  "isCorrect" : 1
+}, {
+  "id" : 10011005,
+  "questionId" : 1001460,
+  "content" : "老公你好棒",
+  "isCorrect" : 0
+}, {
+  "id" : 10011006,
+  "questionId" : 1001461,
+  "content" : "男友要睡午睡",
+  "isCorrect" : 1
+}, {
+  "id" : 10011007,
+  "questionId" : 1001461,
+  "content" : "男友说话状态",
+  "isCorrect" : 0
+}, {
+  "id" : 10011008,
+  "questionId" : 1001462,
+  "content" : "男友的兄弟走了出来",
+  "isCorrect" : 1
+}, {
+  "id" : 10011009,
+  "questionId" : 1001462,
+  "content" : "男友情人走了出来",
+  "isCorrect" : 0
+}, {
+  "id" : 10011010,
+  "questionId" : 1001463,
+  "content" : "门外站着男友的女网友",
+  "isCorrect" : 1
+}, {
+  "id" : 10011011,
+  "questionId" : 1001463,
+  "content" : "门外站男友的兄弟",
+  "isCorrect" : 0
+}, {
+  "id" : 10011012,
+  "questionId" : 1001464,
+  "content" : "小敏误会了男友",
+  "isCorrect" : 1
+}, {
+  "id" : 10011013,
+  "questionId" : 1001464,
+  "content" : "情人给男友发短信",
+  "isCorrect" : 0
+}, {
+  "id" : 10011014,
+  "questionId" : 1001465,
+  "content" : "小敏体会游戏的乐趣",
+  "isCorrect" : 0
+}, {
+  "id" : 10011015,
+  "questionId" : 1001465,
+  "content" : "将闺蜜的男友淘汰出战队",
+  "isCorrect" : 1
+}, {
+  "id" : 10011016,
+  "questionId" : 1001466,
+  "content" : "打电话求救",
+  "isCorrect" : 1
+}, {
+  "id" : 10011017,
+  "questionId" : 1001466,
+  "content" : "撩拨男友",
+  "isCorrect" : 0
+}, {
+  "id" : 10011018,
+  "questionId" : 1001467,
+  "content" : "闺蜜全都听到了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011019,
+  "questionId" : 1001467,
+  "content" : "做贼心虚",
+  "isCorrect" : 0
+}, {
+  "id" : 10011020,
+  "questionId" : 1001468,
+  "content" : "衣服是女同事买的",
+  "isCorrect" : 1
+}, {
+  "id" : 10011021,
+  "questionId" : 1001468,
+  "content" : "男友是为了工作",
+  "isCorrect" : 0
+}, {
+  "id" : 10011022,
+  "questionId" : 1001469,
+  "content" : "男友被pian进chuanxiao被警察送回来",
+  "isCorrect" : 1
+}, {
+  "id" : 10011023,
+  "questionId" : 1001469,
+  "content" : "男友死了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011024,
+  "questionId" : 1001470,
+  "content" : "车子里是她前男友",
+  "isCorrect" : 0
+}, {
+  "id" : 10011025,
+  "questionId" : 1001470,
+  "content" : "车子里是她爸",
+  "isCorrect" : 1
+}, {
+  "id" : 10011026,
+  "questionId" : 1001471,
+  "content" : "锁车门并报警",
+  "isCorrect" : 1
+}, {
+  "id" : 10011027,
+  "questionId" : 1001471,
+  "content" : "开车门求救",
+  "isCorrect" : 0
+}, {
+  "id" : 10011028,
+  "questionId" : 1001472,
+  "content" : "回屋锁门并报警",
+  "isCorrect" : 1
+}, {
+  "id" : 10011029,
+  "questionId" : 1001472,
+  "content" : "大声呼救",
+  "isCorrect" : 0
+}, {
+  "id" : 10011030,
+  "questionId" : 1001473,
+  "content" : "不要声张",
+  "isCorrect" : 1
+}, {
+  "id" : 10011031,
+  "questionId" : 1001473,
+  "content" : "大喊抓罪犯",
+  "isCorrect" : 0
+}, {
+  "id" : 10011032,
+  "questionId" : 1001474,
+  "content" : "小敏和小胡躲进卧室报警",
+  "isCorrect" : 1
+}, {
+  "id" : 10011033,
+  "questionId" : 1001474,
+  "content" : "小敏出去抓歹徒",
+  "isCorrect" : 0
+}, {
+  "id" : 10011034,
+  "questionId" : 1001475,
+  "content" : "拖延司机到人多地报警",
+  "isCorrect" : 1
+}, {
+  "id" : 10011035,
+  "questionId" : 1001475,
+  "content" : "大声呼救",
+  "isCorrect" : 0
+}, {
+  "id" : 10011036,
+  "questionId" : 1001476,
+  "content" : "闺蜜和做自己说借喷雾的聊天记录",
+  "isCorrect" : 1
+}, {
+  "id" : 10011037,
+  "questionId" : 1001476,
+  "content" : "小敏看见自己不在家证据",
+  "isCorrect" : 0
+}, {
+  "id" : 10011038,
+  "questionId" : 1001477,
+  "content" : "这里不是第一现场",
+  "isCorrect" : 1
+}, {
+  "id" : 10011039,
+  "questionId" : 1001477,
+  "content" : "毒药暴露凶手",
+  "isCorrect" : 0
+}, {
+  "id" : 10011040,
+  "questionId" : 1001478,
+  "content" : "笑笑",
+  "isCorrect" : 1
+}, {
+  "id" : 10011041,
+  "questionId" : 1001478,
+  "content" : "杰克邹",
+  "isCorrect" : 0
+}, {
+  "id" : 10011042,
+  "questionId" : 1001478,
+  "content" : "小木",
+  "isCorrect" : 0
+}, {
+  "id" : 10011043,
+  "questionId" : 1001479,
+  "content" : "风扇上面",
+  "isCorrect" : 1
+}, {
+  "id" : 10011044,
+  "questionId" : 1001479,
+  "content" : "圆桌底下",
+  "isCorrect" : 0
+}, {
+  "id" : 10011045,
+  "questionId" : 1001479,
+  "content" : "柜门上",
+  "isCorrect" : 0
+}, {
+  "id" : 10011046,
+  "questionId" : 1001480,
+  "content" : "男人牙齿里藏有隐形水",
+  "isCorrect" : 0
+}, {
+  "id" : 10011047,
+  "questionId" : 1001480,
+  "content" : "牙签药片与水构成隐形水",
+  "isCorrect" : 1
+}, {
+  "id" : 10011048,
+  "questionId" : 1001481,
+  "content" : "死者丈夫杀的",
+  "isCorrect" : 1
+}, {
+  "id" : 10011049,
+  "questionId" : 1001481,
+  "content" : "自杀",
+  "isCorrect" : 0
+}, {
+  "id" : 10011050,
+  "questionId" : 1001482,
+  "content" : "影子应该在墙上",
+  "isCorrect" : 1
+}, {
+  "id" : 10011051,
+  "questionId" : 1001482,
+  "content" : "影子应该在窗户上",
+  "isCorrect" : 0
+}, {
+  "id" : 10011052,
+  "questionId" : 1001483,
+  "content" : "送牛奶的",
+  "isCorrect" : 1
+}, {
+  "id" : 10011053,
+  "questionId" : 1001483,
+  "content" : "笑笑",
+  "isCorrect" : 0
+}, {
+  "id" : 10011054,
+  "questionId" : 1001483,
+  "content" : "杰克邹",
+  "isCorrect" : 0
+}, {
+  "id" : 10011055,
+  "questionId" : 1001484,
+  "content" : "青年农民",
+  "isCorrect" : 0
+}, {
+  "id" : 10011056,
+  "questionId" : 1001484,
+  "content" : "实习医生",
+  "isCorrect" : 1
+}, {
+  "id" : 10011057,
+  "questionId" : 1001485,
+  "content" : "枪手开枪手抖形成拐弯的弧线",
+  "isCorrect" : 0
+}, {
+  "id" : 10011058,
+  "questionId" : 1001485,
+  "content" : "在拐弯处时笑笑被杀",
+  "isCorrect" : 1
+}, {
+  "id" : 10011059,
+  "questionId" : 1001486,
+  "content" : "这是求救信号",
+  "isCorrect" : 1
+}, {
+  "id" : 10011060,
+  "questionId" : 1001486,
+  "content" : "这是小孩的恶作剧",
+  "isCorrect" : 0
+}, {
+  "id" : 10011061,
+  "questionId" : 1001487,
+  "content" : "撞击声是在求救",
+  "isCorrect" : 1
+}, {
+  "id" : 10011062,
+  "questionId" : 1001487,
+  "content" : "撞击声是发生了搏斗",
+  "isCorrect" : 0
+}, {
+  "id" : 10011063,
+  "questionId" : 1001488,
+  "content" : "面包要过期了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011064,
+  "questionId" : 1001488,
+  "content" : "吃不完完不成任务",
+  "isCorrect" : 0
+}, {
+  "id" : 10011065,
+  "questionId" : 1001489,
+  "content" : "小木在说谎",
+  "isCorrect" : 1
+}, {
+  "id" : 10011066,
+  "questionId" : 1001489,
+  "content" : "小木有不在场证据",
+  "isCorrect" : 0
+}, {
+  "id" : 10011067,
+  "questionId" : 1001490,
+  "content" : "小木是小偷",
+  "isCorrect" : 0
+}, {
+  "id" : 10011068,
+  "questionId" : 1001490,
+  "content" : "小木看到是小偷",
+  "isCorrect" : 1
+}, {
+  "id" : 10011069,
+  "questionId" : 1001491,
+  "content" : "相机记录小木被撞死了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011070,
+  "questionId" : 1001491,
+  "content" : "笑笑被撞死了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011071,
+  "questionId" : 1001492,
+  "content" : "狱医与笑笑一起下葬",
+  "isCorrect" : 1
+}, {
+  "id" : 10011072,
+  "questionId" : 1001492,
+  "content" : "狱医骗了他",
+  "isCorrect" : 0
+}, {
+  "id" : 10011073,
+  "questionId" : 1001493,
+  "content" : "房子主人在家中",
+  "isCorrect" : 1
+}, {
+  "id" : 10011074,
+  "questionId" : 1001493,
+  "content" : "房子里有歹徒",
+  "isCorrect" : 0
+}, {
+  "id" : 10011075,
+  "questionId" : 1001494,
+  "content" : "陪她去厕所不是她的舍友",
+  "isCorrect" : 1
+}, {
+  "id" : 10011076,
+  "questionId" : 1001494,
+  "content" : "有鬼",
+  "isCorrect" : 0
+}, {
+  "id" : 10011077,
+  "questionId" : 1001495,
+  "content" : "女生死了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011078,
+  "questionId" : 1001495,
+  "content" : "女生不是人",
+  "isCorrect" : 1
+}, {
+  "id" : 10011079,
+  "questionId" : 1001496,
+  "content" : "服务员治好了笑笑的打嗝",
+  "isCorrect" : 1
+}, {
+  "id" : 10011080,
+  "questionId" : 1001496,
+  "content" : "服务员威胁笑笑",
+  "isCorrect" : 0
+}, {
+  "id" : 10011081,
+  "questionId" : 1001497,
+  "content" : "鬼代替笑笑继续生活",
+  "isCorrect" : 1
+}, {
+  "id" : 10011082,
+  "questionId" : 1001497,
+  "content" : "他的弟弟代替他继续生活",
+  "isCorrect" : 0
+}, {
+  "id" : 10011083,
+  "questionId" : 1001498,
+  "content" : "家里来了别人",
+  "isCorrect" : 1
+}, {
+  "id" : 10011084,
+  "questionId" : 1001498,
+  "content" : "自己神经错乱了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011085,
+  "questionId" : 1001499,
+  "content" : "窗户上有人",
+  "isCorrect" : 0
+}, {
+  "id" : 10011086,
+  "questionId" : 1001499,
+  "content" : "笑笑背后有人",
+  "isCorrect" : 1
+}, {
+  "id" : 10011087,
+  "questionId" : 1001500,
+  "content" : "忘记关灯",
+  "isCorrect" : 1
+}, {
+  "id" : 10011088,
+  "questionId" : 1001500,
+  "content" : "忘记关门",
+  "isCorrect" : 0
+}, {
+  "id" : 10011089,
+  "questionId" : 1001501,
+  "content" : "网友用脚打字",
+  "isCorrect" : 0
+}, {
+  "id" : 10011090,
+  "questionId" : 1001501,
+  "content" : "网友没有手如何打字",
+  "isCorrect" : 1
+}, {
+  "id" : 10011091,
+  "questionId" : 1001502,
+  "content" : "是谁找到他们",
+  "isCorrect" : 1
+}, {
+  "id" : 10011092,
+  "questionId" : 1001502,
+  "content" : "找到他们的人作弊",
+  "isCorrect" : 0
+}, {
+  "id" : 10011093,
+  "questionId" : 1001503,
+  "content" : "笑笑撞死的是神父",
+  "isCorrect" : 1
+}, {
+  "id" : 10011094,
+  "questionId" : 1001503,
+  "content" : "笑笑撞死的是神",
+  "isCorrect" : 0
+}, {
+  "id" : 10011097,
+  "questionId" : 1001505,
+  "content" : "那个人敲了窗户",
+  "isCorrect" : 1
+}, {
+  "id" : 10011098,
+  "questionId" : 1001505,
+  "content" : "那个人没有给他拿蜡烛",
+  "isCorrect" : 0
+}, {
+  "id" : 10011101,
+  "questionId" : 1001507,
+  "content" : "冰里藏毒",
+  "isCorrect" : 1
+}, {
+  "id" : 10011102,
+  "questionId" : 1001507,
+  "content" : "杰克邹服解药",
+  "isCorrect" : 0
+}, {
+  "id" : 10011103,
+  "questionId" : 1001508,
+  "content" : "小木",
+  "isCorrect" : 0
+}, {
+  "id" : 10011104,
+  "questionId" : 1001508,
+  "content" : "笑笑",
+  "isCorrect" : 1
+}, {
+  "id" : 10011105,
+  "questionId" : 1001509,
+  "content" : "笑笑救过这个女孩,她来报恩",
+  "isCorrect" : 1
+}, {
+  "id" : 10011106,
+  "questionId" : 1001509,
+  "content" : "笑笑曾经撞死女孩",
+  "isCorrect" : 0
+}, {
+  "id" : 10011107,
+  "questionId" : 1001510,
+  "content" : "男子另有图谋",
+  "isCorrect" : 1
+}, {
+  "id" : 10011108,
+  "questionId" : 1001510,
+  "content" : "笑笑有急事",
+  "isCorrect" : 0
+}, {
+  "id" : 10011109,
+  "questionId" : 1001511,
+  "content" : "笑笑已经死了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011110,
+  "questionId" : 1001511,
+  "content" : "笑笑与妻子处于不同空间",
+  "isCorrect" : 0
+}, {
+  "id" : 10011111,
+  "questionId" : 1001512,
+  "content" : "820",
+  "isCorrect" : 0
+}, {
+  "id" : 10011112,
+  "questionId" : 1001512,
+  "content" : "825",
+  "isCorrect" : 1
+}, {
+  "id" : 10011113,
+  "questionId" : 1001513,
+  "content" : "姐姐死后男子就会参加葬礼",
+  "isCorrect" : 1
+}, {
+  "id" : 10011114,
+  "questionId" : 1001513,
+  "content" : "嫉妒姐姐",
+  "isCorrect" : 0
+}, {
+  "id" : 10011115,
+  "questionId" : 1001514,
+  "content" : "沐浴了是水",
+  "isCorrect" : 0
+}, {
+  "id" : 10011116,
+  "questionId" : 1001514,
+  "content" : "沐浴露是福尔马林",
+  "isCorrect" : 1
+}, {
+  "id" : 10011117,
+  "questionId" : 1001515,
+  "content" : "对上的人被封在书里",
+  "isCorrect" : 1
+}, {
+  "id" : 10011118,
+  "questionId" : 1001515,
+  "content" : "对面的人是来借书的",
+  "isCorrect" : 0
+}, {
+  "id" : 10011119,
+  "questionId" : 1001516,
+  "content" : "他看到不是自己",
+  "isCorrect" : 1
+}, {
+  "id" : 10011120,
+  "questionId" : 1001516,
+  "content" : "这是男友恶作剧",
+  "isCorrect" : 0
+}, {
+  "id" : 10011121,
+  "questionId" : 1001517,
+  "content" : "甲",
+  "isCorrect" : 1
+}, {
+  "id" : 10011122,
+  "questionId" : 1001517,
+  "content" : "乙",
+  "isCorrect" : 0
+}, {
+  "id" : 10011123,
+  "questionId" : 1001517,
+  "content" : "丁",
+  "isCorrect" : 0
+}, {
+  "id" : 10011124,
+  "questionId" : 1001518,
+  "content" : "31-十二月-1899",
+  "isCorrect" : 0
+}, {
+  "id" : 10011125,
+  "questionId" : 1001518,
+  "content" : "31-十二月-1899",
+  "isCorrect" : 1
+}, {
+  "id" : 10011126,
+  "questionId" : 1001518,
+  "content" : "31-十二月-1899",
+  "isCorrect" : 0
+}, {
+  "id" : 10011127,
+  "questionId" : 1001519,
+  "content" : "用受害者血",
+  "isCorrect" : 1
+}, {
+  "id" : 10011128,
+  "questionId" : 1001519,
+  "content" : "用受害者体液",
+  "isCorrect" : 0
+}, {
+  "id" : 10011129,
+  "questionId" : 1001520,
+  "content" : "四六开",
+  "isCorrect" : 0
+}, {
+  "id" : 10011130,
+  "questionId" : 1001520,
+  "content" : "五五开",
+  "isCorrect" : 1
+}, {
+  "id" : 10011131,
+  "questionId" : 1001520,
+  "content" : "三七开",
+  "isCorrect" : 0
+}, {
+  "id" : 10011132,
+  "questionId" : 1001521,
+  "content" : "可信",
+  "isCorrect" : 0
+}, {
+  "id" : 10011133,
+  "questionId" : 1001521,
+  "content" : "不可信",
+  "isCorrect" : 1
+}, {
+  "id" : 10011134,
+  "questionId" : 1001522,
+  "content" : "ABL",
+  "isCorrect" : 0
+}, {
+  "id" : 10011135,
+  "questionId" : 1001522,
+  "content" : "BR",
+  "isCorrect" : 0
+}, {
+  "id" : 10011136,
+  "questionId" : 1001522,
+  "content" : "LB",
+  "isCorrect" : 0
+}, {
+  "id" : 10011137,
+  "questionId" : 1001522,
+  "content" : "TL",
+  "isCorrect" : 1
+}, {
+  "id" : 10011138,
+  "questionId" : 1001523,
+  "content" : "暖气中加入大蒜精",
+  "isCorrect" : 1
+}, {
+  "id" : 10011139,
+  "questionId" : 1001523,
+  "content" : "屋里着火了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011140,
+  "questionId" : 1001524,
+  "content" : "屋里有毒气",
+  "isCorrect" : 0
+}, {
+  "id" : 10011141,
+  "questionId" : 1001524,
+  "content" : "冰箱里有前男友的尸体",
+  "isCorrect" : 1
+}, {
+  "id" : 10011142,
+  "questionId" : 1001525,
+  "content" : "拿走两双筷子",
+  "isCorrect" : 1
+}, {
+  "id" : 10011143,
+  "questionId" : 1001525,
+  "content" : "拿走了菜",
+  "isCorrect" : 0
+}, {
+  "id" : 10011144,
+  "questionId" : 1001526,
+  "content" : "是感动的哭了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011145,
+  "questionId" : 1001526,
+  "content" : "是被男人吓哭了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011146,
+  "questionId" : 1001527,
+  "content" : "他发现被小萱杀死的房主",
+  "isCorrect" : 1
+}, {
+  "id" : 10011147,
+  "questionId" : 1001527,
+  "content" : "小萱害怕地逃跑",
+  "isCorrect" : 0
+}, {
+  "id" : 10011148,
+  "questionId" : 1001528,
+  "content" : "遮住自己的眼睛",
+  "isCorrect" : 0
+}, {
+  "id" : 10011149,
+  "questionId" : 1001528,
+  "content" : "女友眼睛",
+  "isCorrect" : 1
+}, {
+  "id" : 10011150,
+  "questionId" : 1001529,
+  "content" : "叶宇掏出掏耳勺歹徒本能不动",
+  "isCorrect" : 1
+}, {
+  "id" : 10011151,
+  "questionId" : 1001529,
+  "content" : "叶宇掏出小刀吓到歹徒",
+  "isCorrect" : 0
+}, {
+  "id" : 10011152,
+  "questionId" : 1001530,
+  "content" : "朋友在视频另一端鼓掌",
+  "isCorrect" : 1
+}, {
+  "id" : 10011153,
+  "questionId" : 1001530,
+  "content" : "有人在恶作剧",
+  "isCorrect" : 0
+}, {
+  "id" : 10011154,
+  "questionId" : 1001531,
+  "content" : "邻居有问题",
+  "isCorrect" : 1
+}, {
+  "id" : 10011155,
+  "questionId" : 1001531,
+  "content" : "邻居在绑架小孩",
+  "isCorrect" : 0
+}, {
+  "id" : 10011156,
+  "questionId" : 1001532,
+  "content" : "自己玩的是妻子的手机",
+  "isCorrect" : 1
+}, {
+  "id" : 10011157,
+  "questionId" : 1001532,
+  "content" : "自己玩的是别人的手机",
+  "isCorrect" : 0
+}, {
+  "id" : 10011158,
+  "questionId" : 1001533,
+  "content" : "通过死者伤口",
+  "isCorrect" : 0
+}, {
+  "id" : 10011159,
+  "questionId" : 1001533,
+  "content" : "发现凶手的血",
+  "isCorrect" : 1
+}, {
+  "id" : 10011160,
+  "questionId" : 1001534,
+  "content" : "解阳明很节俭",
+  "isCorrect" : 1
+}, {
+  "id" : 10011161,
+  "questionId" : 1001534,
+  "content" : "邻居看见凶手了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011162,
+  "questionId" : 1001535,
+  "content" : "镜子有问题",
+  "isCorrect" : 1
+}, {
+  "id" : 10011163,
+  "questionId" : 1001535,
+  "content" : "静岚的眼睛有问题",
+  "isCorrect" : 0
+}, {
+  "id" : 10011164,
+  "questionId" : 1001536,
+  "content" : "WiFi列表空白",
+  "isCorrect" : 1
+}, {
+  "id" : 10011165,
+  "questionId" : 1001536,
+  "content" : "他猜的",
+  "isCorrect" : 0
+}, {
+  "id" : 10011166,
+  "questionId" : 1001537,
+  "content" : "妻子以为解阳明已经死了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011167,
+  "questionId" : 1001537,
+  "content" : "妻子发现恐怖的事",
+  "isCorrect" : 0
+}, {
+  "id" : 10011168,
+  "questionId" : 1001538,
+  "content" : "女友将其打晕",
+  "isCorrect" : 1
+}, {
+  "id" : 10011169,
+  "questionId" : 1001538,
+  "content" : "女友把电脑砸了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011170,
+  "questionId" : 1001539,
+  "content" : "发短信的人可能不是叶宇",
+  "isCorrect" : 1
+}, {
+  "id" : 10011171,
+  "questionId" : 1001539,
+  "content" : "发短信的人事叶宇",
+  "isCorrect" : 0
+}, {
+  "id" : 10011172,
+  "questionId" : 1001540,
+  "content" : "解阳明猜测自己被囚禁了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011173,
+  "questionId" : 1001540,
+  "content" : "解阳明猜测自己死了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011174,
+  "questionId" : 1001541,
+  "content" : "叶宇没有告诉他们他开电脑了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011175,
+  "questionId" : 1001541,
+  "content" : "叶宇没开电脑",
+  "isCorrect" : 0
+}, {
+  "id" : 10011176,
+  "questionId" : 1001542,
+  "content" : "邻居是gui",
+  "isCorrect" : 0
+}, {
+  "id" : 10011177,
+  "questionId" : 1001542,
+  "content" : "邻居可能被求禁了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011178,
+  "questionId" : 1001543,
+  "content" : "陌生人可能是坏人",
+  "isCorrect" : 1
+}, {
+  "id" : 10011179,
+  "questionId" : 1001543,
+  "content" : "他有急事",
+  "isCorrect" : 0
+}, {
+  "id" : 10011180,
+  "questionId" : 1001544,
+  "content" : "是他自己把他自己挂起来的",
+  "isCorrect" : 0
+}, {
+  "id" : 10011181,
+  "questionId" : 1001544,
+  "content" : "是我把挂起来的",
+  "isCorrect" : 1
+}, {
+  "id" : 10011182,
+  "questionId" : 1001545,
+  "content" : "老公,我在洗脸你开下门",
+  "isCorrect" : 1
+}, {
+  "id" : 10011183,
+  "questionId" : 1001545,
+  "content" : "救命呀",
+  "isCorrect" : 0
+}, {
+  "id" : 10011184,
+  "questionId" : 1001546,
+  "content" : "弟弟是凶手",
+  "isCorrect" : 0
+}, {
+  "id" : 10011185,
+  "questionId" : 1001546,
+  "content" : "哥哥知道凶手不是报纸上的人",
+  "isCorrect" : 1
+}, {
+  "id" : 10011186,
+  "questionId" : 1001547,
+  "content" : "笔欣的个人习惯",
+  "isCorrect" : 0
+}, {
+  "id" : 10011187,
+  "questionId" : 1001547,
+  "content" : "笔欣紫外线过敏",
+  "isCorrect" : 1
+}, {
+  "id" : 10011188,
+  "questionId" : 1001548,
+  "content" : "屋里有人",
+  "isCorrect" : 1
+}, {
+  "id" : 10011189,
+  "questionId" : 1001548,
+  "content" : "笔欣梦游了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011190,
+  "questionId" : 1001549,
+  "content" : "为了让自己清醒",
+  "isCorrect" : 1
+}, {
+  "id" : 10011191,
+  "questionId" : 1001549,
+  "content" : "为了晚上去喝",
+  "isCorrect" : 0
+}, {
+  "id" : 10011192,
+  "questionId" : 1001550,
+  "content" : "sos求救",
+  "isCorrect" : 1
+}, {
+  "id" : 10011193,
+  "questionId" : 1001550,
+  "content" : "门半开着且叶宇不在家",
+  "isCorrect" : 0
+}, {
+  "id" : 10011194,
+  "questionId" : 1001551,
+  "content" : "弟弟身体出现了问题",
+  "isCorrect" : 0
+}, {
+  "id" : 10011195,
+  "questionId" : 1001551,
+  "content" : "喝的是重水",
+  "isCorrect" : 1
+}, {
+  "id" : 10011196,
+  "questionId" : 1001552,
+  "content" : "8号",
+  "isCorrect" : 1
+}, {
+  "id" : 10011197,
+  "questionId" : 1001552,
+  "content" : "9号",
+  "isCorrect" : 0
+}, {
+  "id" : 10011198,
+  "questionId" : 1001553,
+  "content" : "杀手害怕了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011199,
+  "questionId" : 1001553,
+  "content" : "杀手良心发现",
+  "isCorrect" : 0
+}, {
+  "id" : 10011200,
+  "questionId" : 1001554,
+  "content" : "凌晨两点是丑时再说晨哥丑",
+  "isCorrect" : 1
+}, {
+  "id" : 10011201,
+  "questionId" : 1001554,
+  "content" : "他在认真晨哥算命",
+  "isCorrect" : 0
+}, {
+  "id" : 10011202,
+  "questionId" : 1001555,
+  "content" : "精神抑郁",
+  "isCorrect" : 0
+}, {
+  "id" : 10011203,
+  "questionId" : 1001555,
+  "content" : "妻子囚禁了他",
+  "isCorrect" : 1
+}, {
+  "id" : 10011204,
+  "questionId" : 1001556,
+  "content" : "面包要过期了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011205,
+  "questionId" : 1001556,
+  "content" : "他在完成任务且12点截止",
+  "isCorrect" : 0
+}, {
+  "id" : 10011206,
+  "questionId" : 1001557,
+  "content" : "盒子里是邻居家熟睡的猫",
+  "isCorrect" : 1
+}, {
+  "id" : 10011207,
+  "questionId" : 1001557,
+  "content" : "盒子里有老鼠",
+  "isCorrect" : 0
+}, {
+  "id" : 10011208,
+  "questionId" : 1001558,
+  "content" : "楼梯上扶手有电",
+  "isCorrect" : 1
+}, {
+  "id" : 10011209,
+  "questionId" : 1001558,
+  "content" : "楼梯上的扶手有麻醉物",
+  "isCorrect" : 0
+}, {
+  "id" : 10011210,
+  "questionId" : 1001559,
+  "content" : "他没锁门",
+  "isCorrect" : 1
+}, {
+  "id" : 10011211,
+  "questionId" : 1001559,
+  "content" : "他没关门",
+  "isCorrect" : 0
+}, {
+  "id" : 10011212,
+  "questionId" : 1001559,
+  "content" : "门锁被撬开了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011213,
+  "questionId" : 1001560,
+  "content" : "旁边躺的是保险公司的朋友",
+  "isCorrect" : 1
+}, {
+  "id" : 10011214,
+  "questionId" : 1001560,
+  "content" : "棺材被钉死了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011215,
+  "questionId" : 1001561,
+  "content" : "解阳明立即拨打110",
+  "isCorrect" : 0
+}, {
+  "id" : 10011216,
+  "questionId" : 1001561,
+  "content" : "解阳明去提醒绑架团伙",
+  "isCorrect" : 1
+}, {
+  "id" : 10011217,
+  "questionId" : 1001562,
+  "content" : "门外是小偷做的记号",
+  "isCorrect" : 1
+}, {
+  "id" : 10011218,
+  "questionId" : 1001562,
+  "content" : "家里与邻居家都被盗了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011219,
+  "questionId" : 1001563,
+  "content" : "自来水公司打开阀门送水",
+  "isCorrect" : 1
+}, {
+  "id" : 10011220,
+  "questionId" : 1001563,
+  "content" : "自来水公司将杀死解阳明",
+  "isCorrect" : 0
+}, {
+  "id" : 10011221,
+  "questionId" : 1001564,
+  "content" : "求救的女人是骗子",
+  "isCorrect" : 1
+}, {
+  "id" : 10011222,
+  "questionId" : 1001564,
+  "content" : "求救的女人想杀解阳明",
+  "isCorrect" : 0
+}, {
+  "id" : 10011223,
+  "questionId" : 1001565,
+  "content" : "陌生人没有喝醉",
+  "isCorrect" : 1
+}, {
+  "id" : 10011224,
+  "questionId" : 1001565,
+  "content" : "陌生人图谋不轨",
+  "isCorrect" : 0
+}, {
+  "id" : 10011225,
+  "questionId" : 1001566,
+  "content" : "背对背好舒服",
+  "isCorrect" : 1
+}, {
+  "id" : 10011226,
+  "questionId" : 1001566,
+  "content" : "我一直在你身边你不记得吗",
+  "isCorrect" : 0
+}, {
+  "id" : 10011227,
+  "questionId" : 1001567,
+  "content" : "孟婆失去了记忆",
+  "isCorrect" : 1
+}, {
+  "id" : 10011228,
+  "questionId" : 1001567,
+  "content" : "孟婆还是原来的工作好",
+  "isCorrect" : 0
+}, {
+  "id" : 10011229,
+  "questionId" : 1001568,
+  "content" : "妻子过世了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011230,
+  "questionId" : 1001568,
+  "content" : "解阳明过世了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011231,
+  "questionId" : 1001569,
+  "content" : "女孩的胳膊是僵硬的",
+  "isCorrect" : 0
+}, {
+  "id" : 10011232,
+  "questionId" : 1001569,
+  "content" : "女孩的腿是僵硬的",
+  "isCorrect" : 1
+}, {
+  "id" : 10011233,
+  "questionId" : 1001570,
+  "content" : "解阳明一生是被安排好的",
+  "isCorrect" : 0
+}, {
+  "id" : 10011234,
+  "questionId" : 1001570,
+  "content" : "不断给对方打电话 ",
+  "isCorrect" : 1
+}, {
+  "id" : 10011235,
+  "questionId" : 1001571,
+  "content" : "福利院",
+  "isCorrect" : 0
+}, {
+  "id" : 10011236,
+  "questionId" : 1001571,
+  "content" : "盲人学校",
+  "isCorrect" : 1
+}, {
+  "id" : 10011237,
+  "questionId" : 1001572,
+  "content" : "要么我扔掉一块坏的电池要么它没坏",
+  "isCorrect" : 1
+}, {
+  "id" : 10011238,
+  "questionId" : 1001572,
+  "content" : "痛快干活否则废了你",
+  "isCorrect" : 0
+}, {
+  "id" : 10011239,
+  "questionId" : 1001573,
+  "content" : "代表全体业主感谢你",
+  "isCorrect" : 1
+}, {
+  "id" : 10011240,
+  "questionId" : 1001573,
+  "content" : "干得不错继续努力",
+  "isCorrect" : 0
+}, {
+  "id" : 10011241,
+  "questionId" : 1001574,
+  "content" : "妻子伙同情人吓死了他",
+  "isCorrect" : 1
+}, {
+  "id" : 10011242,
+  "questionId" : 1001574,
+  "content" : "妻子在恶作剧",
+  "isCorrect" : 0
+}, {
+  "id" : 10011243,
+  "questionId" : 1001575,
+  "content" : "每隔十年我就会回到你身边",
+  "isCorrect" : 1
+}, {
+  "id" : 10011244,
+  "questionId" : 1001575,
+  "content" : "我会一直盯着你",
+  "isCorrect" : 0
+}, {
+  "id" : 10011245,
+  "questionId" : 1001576,
+  "content" : "他是殡仪馆化妆师",
+  "isCorrect" : 1
+}, {
+  "id" : 10011246,
+  "questionId" : 1001576,
+  "content" : "他被冻休克了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011247,
+  "questionId" : 1001577,
+  "content" : "咬破手指用血来求救",
+  "isCorrect" : 1
+}, {
+  "id" : 10011248,
+  "questionId" : 1001577,
+  "content" : "通过声音振动求救",
+  "isCorrect" : 0
+}, {
+  "id" : 10011249,
+  "questionId" : 1001578,
+  "content" : "哥哥和弟弟同时在一家商店出现",
+  "isCorrect" : 1
+}, {
+  "id" : 10011250,
+  "questionId" : 1001578,
+  "content" : "商店老板能认出来哥哥",
+  "isCorrect" : 0
+}, {
+  "id" : 10011251,
+  "questionId" : 1001579,
+  "content" : "地球被降维打击",
+  "isCorrect" : 1
+}, {
+  "id" : 10011252,
+  "questionId" : 1001579,
+  "content" : "地球文明发生了退化",
+  "isCorrect" : 0
+}, {
+  "id" : 10011253,
+  "questionId" : 1001580,
+  "content" : "保持沉默",
+  "isCorrect" : 0
+}, {
+  "id" : 10011254,
+  "questionId" : 1001580,
+  "content" : "直接走过去",
+  "isCorrect" : 0
+}, {
+  "id" : 10011255,
+  "questionId" : 1001580,
+  "content" : "保持沉默并直接走过去",
+  "isCorrect" : 1
+}, {
+  "id" : 10011258,
+  "questionId" : 1001582,
+  "content" : "哥哥弟弟的想法的现实化",
+  "isCorrect" : 1
+}, {
+  "id" : 10011259,
+  "questionId" : 1001582,
+  "content" : "哥哥知道弟弟想法远离弟弟",
+  "isCorrect" : 0
+}, {
+  "id" : 10011260,
+  "questionId" : 1001583,
+  "content" : "洞外人类文明已不复存在",
+  "isCorrect" : 1
+}, {
+  "id" : 10011261,
+  "questionId" : 1001583,
+  "content" : "洞外有大量的野兽",
+  "isCorrect" : 0
+}, {
+  "id" : 10011262,
+  "questionId" : 1001584,
+  "content" : "弟弟为了独吞财产吓死哥哥",
+  "isCorrect" : 1
+}, {
+  "id" : 10011263,
+  "questionId" : 1001584,
+  "content" : "哥哥有心脏病不能看恐怖片",
+  "isCorrect" : 0
+}, {
+  "id" : 10011264,
+  "questionId" : 1001585,
+  "content" : "全球移民到D国使重心偏移",
+  "isCorrect" : 1
+}, {
+  "id" : 10011265,
+  "questionId" : 1001585,
+  "content" : "全球移民到D国集中所有力量打碎",
+  "isCorrect" : 0
+}, {
+  "id" : 10011266,
+  "questionId" : 1001586,
+  "content" : "疯子是好人,是他救了晴岚",
+  "isCorrect" : 1
+}, {
+  "id" : 10011267,
+  "questionId" : 1001586,
+  "content" : "外面发动了大规模战争",
+  "isCorrect" : 0
+}, {
+  "id" : 10011268,
+  "questionId" : 1001587,
+  "content" : "你的同桌会在十年后杀死你",
+  "isCorrect" : 1
+}, {
+  "id" : 10011269,
+  "questionId" : 1001587,
+  "content" : "你的同桌是坏蛋,远离你的同桌",
+  "isCorrect" : 0
+}, {
+  "id" : 10011270,
+  "questionId" : 1001588,
+  "content" : "自己找的了生存的乐趣",
+  "isCorrect" : 0
+}, {
+  "id" : 10011271,
+  "questionId" : 1001588,
+  "content" : "这个世界还有一个人",
+  "isCorrect" : 1
+}, {
+  "id" : 10011272,
+  "questionId" : 1001589,
+  "content" : "女孩在楼道里出现吓死了他",
+  "isCorrect" : 1
+}, {
+  "id" : 10011273,
+  "questionId" : 1001589,
+  "content" : "他心脏病发作",
+  "isCorrect" : 0
+}, {
+  "id" : 10011274,
+  "questionId" : 1001590,
+  "content" : "未知宇宙船拦截地球发的信号",
+  "isCorrect" : 1
+}, {
+  "id" : 10011275,
+  "questionId" : 1001590,
+  "content" : "a星球发射速度较快",
+  "isCorrect" : 0
+}, {
+  "id" : 10011276,
+  "questionId" : 1001591,
+  "content" : "芯片控制解阳明杀死了博士",
+  "isCorrect" : 1
+}, {
+  "id" : 10011277,
+  "questionId" : 1001591,
+  "content" : "解阳明不想让博士控制自己",
+  "isCorrect" : 0
+}, {
+  "id" : 10011278,
+  "questionId" : 1001592,
+  "content" : "第六天解阳明有了穿梭时空的能力",
+  "isCorrect" : 1
+}, {
+  "id" : 10011279,
+  "questionId" : 1001592,
+  "content" : "第六天解阳明有了钻地的能力",
+  "isCorrect" : 0
+}, {
+  "id" : 10011280,
+  "questionId" : 1001593,
+  "content" : "小灰偷了手表",
+  "isCorrect" : 0
+}, {
+  "id" : 10011281,
+  "questionId" : 1001593,
+  "content" : "小白偷了手表",
+  "isCorrect" : 1
+}, {
+  "id" : 10011282,
+  "questionId" : 1001594,
+  "content" : "博士的基因和知识被复制了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011283,
+  "questionId" : 1001594,
+  "content" : "博士被迫说出了地球的环境",
+  "isCorrect" : 0
+}, {
+  "id" : 10011284,
+  "questionId" : 1001595,
+  "content" : "小解阳明拿到了三十年后的医学技术",
+  "isCorrect" : 1
+}, {
+  "id" : 10011285,
+  "questionId" : 1001595,
+  "content" : "局长穿越回过去了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011286,
+  "questionId" : 1001596,
+  "content" : "楼上的姑娘对解阳明说520",
+  "isCorrect" : 1
+}, {
+  "id" : 10011287,
+  "questionId" : 1001596,
+  "content" : "姑娘欠解阳明钱没还",
+  "isCorrect" : 0
+}, {
+  "id" : 10011288,
+  "questionId" : 1001597,
+  "content" : "平行宇宙交错在了一起",
+  "isCorrect" : 1
+}, {
+  "id" : 10011289,
+  "questionId" : 1001597,
+  "content" : "解阳明被克隆了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011290,
+  "questionId" : 1001598,
+  "content" : "解阳明有多重人格",
+  "isCorrect" : 1
+}, {
+  "id" : 10011291,
+  "questionId" : 1001598,
+  "content" : "解阳明丢了本子很伤心",
+  "isCorrect" : 0
+}, {
+  "id" : 10011292,
+  "questionId" : 1001599,
+  "content" : "解阳明没有发现隐藏关卡",
+  "isCorrect" : 0
+}, {
+  "id" : 10011293,
+  "questionId" : 1001599,
+  "content" : "手机在最后没电了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011294,
+  "questionId" : 1001600,
+  "content" : "解阳明买饮料中奖了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011295,
+  "questionId" : 1001600,
+  "content" : "解阳明发现药丸没有用",
+  "isCorrect" : 0
+}, {
+  "id" : 10011296,
+  "questionId" : 1001601,
+  "content" : "智商可以换金钱，解阳明回复了同意",
+  "isCorrect" : 1
+}, {
+  "id" : 10011297,
+  "questionId" : 1001601,
+  "content" : "解阳明醒后发现这只是一场梦",
+  "isCorrect" : 0
+}, {
+  "id" : 10011298,
+  "questionId" : 1001602,
+  "content" : "二十年后的解博士回来杀了总督",
+  "isCorrect" : 1
+}, {
+  "id" : 10011299,
+  "questionId" : 1001602,
+  "content" : "总督龙虾过敏",
+  "isCorrect" : 0
+}, {
+  "id" : 10011300,
+  "questionId" : 1001603,
+  "content" : "室友脸上没有嘴",
+  "isCorrect" : 1
+}, {
+  "id" : 10011301,
+  "questionId" : 1001603,
+  "content" : "室友和自己长得一模一样",
+  "isCorrect" : 0
+}, {
+  "id" : 10011302,
+  "questionId" : 1001604,
+  "content" : "解阳明沉迷游戏没有找老婆",
+  "isCorrect" : 0
+}, {
+  "id" : 10011303,
+  "questionId" : 1001604,
+  "content" : "线索在游戏终点，解阳明没有打到最后一关",
+  "isCorrect" : 1
+}, {
+  "id" : 10011304,
+  "questionId" : 1001605,
+  "content" : "他们俩都是老师的孩子",
+  "isCorrect" : 0
+}, {
+  "id" : 10011305,
+  "questionId" : 1001605,
+  "content" : "方同学叫方学，夏同学叫夏客",
+  "isCorrect" : 1
+}, {
+  "id" : 10011306,
+  "questionId" : 1001606,
+  "content" : "解阳明把自己扮成了长者",
+  "isCorrect" : 1
+}, {
+  "id" : 10011307,
+  "questionId" : 1001606,
+  "content" : "解阳明买通了人脉",
+  "isCorrect" : 0
+}, {
+  "id" : 10011308,
+  "questionId" : 1001607,
+  "content" : "解阳明已经被人造人改成了钢铁之躯",
+  "isCorrect" : 1
+}, {
+  "id" : 10011309,
+  "questionId" : 1001607,
+  "content" : "因为解阳明一直在做梦",
+  "isCorrect" : 0
+}, {
+  "id" : 10011312,
+  "questionId" : 1001609,
+  "content" : "解阳明发现比尔是公司雇来杀自己的",
+  "isCorrect" : 1
+}, {
+  "id" : 10011313,
+  "questionId" : 1001609,
+  "content" : "解阳明和比尔是好朋友",
+  "isCorrect" : 0
+}, {
+  "id" : 10011314,
+  "questionId" : 1001610,
+  "content" : "A是机器人，B是克隆人，C是外星人",
+  "isCorrect" : 1
+}, {
+  "id" : 10011315,
+  "questionId" : 1001610,
+  "content" : "A是外星人，B是机器人，C是克隆人",
+  "isCorrect" : 0
+}, {
+  "id" : 10011316,
+  "questionId" : 1001611,
+  "content" : "解阳明梦游的时候会把自己扮成女人",
+  "isCorrect" : 1
+}, {
+  "id" : 10011317,
+  "questionId" : 1001611,
+  "content" : "室友发现解阳明喜欢女装",
+  "isCorrect" : 0
+}, {
+  "id" : 10011318,
+  "questionId" : 1001612,
+  "content" : "渔夫说湖里没有水草",
+  "isCorrect" : 1
+}, {
+  "id" : 10011319,
+  "questionId" : 1001612,
+  "content" : "渔夫说湖里没有鱼",
+  "isCorrect" : 0
+}, {
+  "id" : 10011320,
+  "questionId" : 1001613,
+  "content" : "掉在地上的门禁卡是解阳明的",
+  "isCorrect" : 0
+}, {
+  "id" : 10011321,
+  "questionId" : 1001613,
+  "content" : "陌生男子是小偷",
+  "isCorrect" : 1
+}, {
+  "id" : 10011324,
+  "questionId" : 1001615,
+  "content" : "碗里的水才是宝藏",
+  "isCorrect" : 1
+}, {
+  "id" : 10011325,
+  "questionId" : 1001615,
+  "content" : "解阳明去鉴宝发现自己被骗了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011326,
+  "questionId" : 1001616,
+  "content" : "弟弟读懂了电脑上的信息",
+  "isCorrect" : 0
+}, {
+  "id" : 10011327,
+  "questionId" : 1001616,
+  "content" : "桌子上的物体代表太阳系，鸡蛋的位置是土星",
+  "isCorrect" : 1
+}, {
+  "id" : 10011328,
+  "questionId" : 1001617,
+  "content" : "纸条写着：孩子回来吧，妈妈想你了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011329,
+  "questionId" : 1001617,
+  "content" : "纸条写着：哥哥你好，别捡垃圾了，会吃坏肚子的，可惜我没有腿只能给你点外卖",
+  "isCorrect" : 1
+}, {
+  "id" : 10011330,
+  "questionId" : 1001618,
+  "content" : "长者就是坏人",
+  "isCorrect" : 1
+}, {
+  "id" : 10011331,
+  "questionId" : 1001618,
+  "content" : "长者是未来的自己",
+  "isCorrect" : 0
+}, {
+  "id" : 10011332,
+  "questionId" : 1001619,
+  "content" : "孩子已经上大学了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011333,
+  "questionId" : 1001619,
+  "content" : "孩子中考前离家出走，报纸上是父亲曾经发的寻人启事",
+  "isCorrect" : 1
+}, {
+  "id" : 10011334,
+  "questionId" : 1001620,
+  "content" : "博士给自己注射了少量的解药",
+  "isCorrect" : 0
+}, {
+  "id" : 10011335,
+  "questionId" : 1001620,
+  "content" : "博士把鸡腿挂在自己前方，朝向基地方向",
+  "isCorrect" : 1
+}, {
+  "id" : 10011336,
+  "questionId" : 1001621,
+  "content" : "密码是791015，锁上没有9",
+  "isCorrect" : 1
+}, {
+  "id" : 10011337,
+  "questionId" : 1001621,
+  "content" : "密码错误，打不开锁",
+  "isCorrect" : 0
+}, {
+  "id" : 10011340,
+  "questionId" : 1001623,
+  "content" : "峰并不存在",
+  "isCorrect" : 0
+}, {
+  "id" : 10011341,
+  "questionId" : 1001623,
+  "content" : "博士无法解决的技术都是峰的凭空幻想",
+  "isCorrect" : 1
+}, {
+  "id" : 10011344,
+  "questionId" : 1001625,
+  "content" : "兰鼠变异吃掉了所有的粮食",
+  "isCorrect" : 1
+}, {
+  "id" : 10011345,
+  "questionId" : 1001625,
+  "content" : "兰鼠变异开始吃人",
+  "isCorrect" : 0
+}, {
+  "id" : 10011346,
+  "questionId" : 1001626,
+  "content" : "博士的计算出现了偏差",
+  "isCorrect" : 0
+}, {
+  "id" : 10011347,
+  "questionId" : 1001626,
+  "content" : "外星人已经路过太阳系掌握了地球的信息",
+  "isCorrect" : 1
+}, {
+  "id" : 10011348,
+  "questionId" : 1001627,
+  "content" : "哥哥治好了弟弟的打嗝",
+  "isCorrect" : 1
+}, {
+  "id" : 10011349,
+  "questionId" : 1001627,
+  "content" : "哥哥说弟弟早上没洗脸",
+  "isCorrect" : 0
+}, {
+  "id" : 10011354,
+  "questionId" : 1001630,
+  "content" : "电视上说那天的蘑菇是毒蘑菇，黑狗救了他",
+  "isCorrect" : 1
+}, {
+  "id" : 10011355,
+  "questionId" : 1001630,
+  "content" : "电视上说那天的蘑菇是昂贵的品种，价值不菲",
+  "isCorrect" : 0
+}, {
+  "id" : 10011356,
+  "questionId" : 1001631,
+  "content" : "果壳里的世界发起了内战",
+  "isCorrect" : 0
+}, {
+  "id" : 10011357,
+  "questionId" : 1001631,
+  "content" : "果壳里的世界高度发展，冲出了地球，其冲击力击晕了博士",
+  "isCorrect" : 1
+}, {
+  "id" : 10011358,
+  "questionId" : 1001632,
+  "content" : "三个密保问题中有一个是错的",
+  "isCorrect" : 1
+}, {
+  "id" : 10011359,
+  "questionId" : 1001632,
+  "content" : "钱被银行家私吞了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011360,
+  "questionId" : 1001633,
+  "content" : "B被录取了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011361,
+  "questionId" : 1001633,
+  "content" : "A被录取了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011364,
+  "questionId" : 1001635,
+  "content" : "电池在蓝色的垃圾桶里",
+  "isCorrect" : 0
+}, {
+  "id" : 10011365,
+  "questionId" : 1001635,
+  "content" : "电池在红色的垃圾桶里",
+  "isCorrect" : 1
+}, {
+  "id" : 10011366,
+  "questionId" : 1001636,
+  "content" : "嫁给C",
+  "isCorrect" : 1
+}, {
+  "id" : 10011367,
+  "questionId" : 1001636,
+  "content" : "嫁给A",
+  "isCorrect" : 0
+}, {
+  "id" : 10011370,
+  "questionId" : 1001638,
+  "content" : "解阳明身边的人能看到但是没告诉他",
+  "isCorrect" : 0
+}, {
+  "id" : 10011371,
+  "questionId" : 1001638,
+  "content" : "只有透过解阳明的眼镜才能看到数字",
+  "isCorrect" : 1
+}, {
+  "id" : 10011372,
+  "questionId" : 1001639,
+  "content" : "解阳明回忆起的是自己整容前的容貌",
+  "isCorrect" : 1
+}, {
+  "id" : 10011373,
+  "questionId" : 1001639,
+  "content" : "解阳明想起来那个人是自己的好朋友",
+  "isCorrect" : 0
+}, {
+  "id" : 10011376,
+  "questionId" : 1001641,
+  "content" : "解阳明发现自己的仓鼠被抓走了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011377,
+  "questionId" : 1001641,
+  "content" : "沙包落地是人倒在地上的声音",
+  "isCorrect" : 1
+}, {
+  "id" : 10011378,
+  "questionId" : 1001642,
+  "content" : "哥哥要求的工资太高",
+  "isCorrect" : 0
+}, {
+  "id" : 10011379,
+  "questionId" : 1001642,
+  "content" : "哥哥名字叫贾薪，弟弟名字叫贾班",
+  "isCorrect" : 1
+}, {
+  "id" : 10011382,
+  "questionId" : 1001644,
+  "content" : "傻子说：你家着火了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011383,
+  "questionId" : 1001644,
+  "content" : "傻子说：如果你不会游泳你就没命了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011384,
+  "questionId" : 1001645,
+  "content" : "外星人怕水，手环在邮轮上显示不宜外星人居住",
+  "isCorrect" : 1
+}, {
+  "id" : 10011385,
+  "questionId" : 1001645,
+  "content" : "手环进水发生了损坏，无法传输信号",
+  "isCorrect" : 0
+}, {
+  "id" : 10011388,
+  "questionId" : 1001647,
+  "content" : "傻子详细说出了凶手的作案过程",
+  "isCorrect" : 0
+}, {
+  "id" : 10011389,
+  "questionId" : 1001647,
+  "content" : "傻子一字不差的说出了杀手杀人时的话",
+  "isCorrect" : 1
+}, {
+  "id" : 10011390,
+  "questionId" : 1001648,
+  "content" : "饮料让人可以有鉴别万星人的能力，但是同事中有外星人",
+  "isCorrect" : 1
+}, {
+  "id" : 10011391,
+  "questionId" : 1001648,
+  "content" : "饮料的副作用是让人在几天后中毒",
+  "isCorrect" : 0
+}, {
+  "id" : 10011393,
+  "questionId" : 1001649,
+  "content" : "陨石一直吸收氧气，只有博士知道陨石在哪",
+  "isCorrect" : 1
+}, {
+  "id" : 10011394,
+  "questionId" : 1001650,
+  "content" : "女人反悔，选择了更高的男人",
+  "isCorrect" : 0
+}, {
+  "id" : 10011395,
+  "questionId" : 1001650,
+  "content" : "瞎子家里的家具被锯短了让瞎子以为自己长高了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011396,
+  "questionId" : 1001651,
+  "content" : "博士摸了他的手腕发现没有脉搏",
+  "isCorrect" : 0
+}, {
+  "id" : 10011397,
+  "questionId" : 1001651,
+  "content" : "博士的眼镜盒猛然合上并差点贴到了那人身上",
+  "isCorrect" : 1
+}, {
+  "id" : 10011400,
+  "questionId" : 1001653,
+  "content" : "盲人是假的，箱子里全是白纸",
+  "isCorrect" : 1
+}, {
+  "id" : 10011401,
+  "questionId" : 1001653,
+  "content" : "盲人趁夜色偷走了箱子",
+  "isCorrect" : 0
+}, {
+  "id" : 10011402,
+  "questionId" : 1001654,
+  "content" : "有复制能力的是那颗植物",
+  "isCorrect" : 1
+}, {
+  "id" : 10011403,
+  "questionId" : 1001654,
+  "content" : "复制有次数限制",
+  "isCorrect" : 0
+}, {
+  "id" : 10011406,
+  "questionId" : 1001656,
+  "content" : "两人考前贿赂的考官",
+  "isCorrect" : 0
+}, {
+  "id" : 10011407,
+  "questionId" : 1001656,
+  "content" : "两个人交的都是白卷",
+  "isCorrect" : 1
+}, {
+  "id" : 10011408,
+  "questionId" : 1001657,
+  "content" : "哥哥的车祸其实是自杀",
+  "isCorrect" : 0
+}, {
+  "id" : 10011409,
+  "questionId" : 1001657,
+  "content" : "克隆人哥哥想起了弟弟杀掉了自己",
+  "isCorrect" : 1
+}, {
+  "id" : 10011412,
+  "questionId" : 1001659,
+  "content" : "倒霉的事情都是妻子安排的",
+  "isCorrect" : 1
+}, {
+  "id" : 10011413,
+  "questionId" : 1001659,
+  "content" : "解阳明不想连累妻子选择了离开",
+  "isCorrect" : 0
+}, {
+  "id" : 10011414,
+  "questionId" : 1001660,
+  "content" : "女人不想让爱哭的男人更伤心",
+  "isCorrect" : 1
+}, {
+  "id" : 10011415,
+  "questionId" : 1001660,
+  "content" : "女人发现爱笑的男人离过婚",
+  "isCorrect" : 0
+}, {
+  "id" : 10011418,
+  "questionId" : 1001662,
+  "content" : "解阳明长出了左胳膊",
+  "isCorrect" : 1
+}, {
+  "id" : 10011419,
+  "questionId" : 1001662,
+  "content" : "解阳明的朋友可以听到解阳明的心声",
+  "isCorrect" : 0
+}, {
+  "id" : 10011420,
+  "questionId" : 1001663,
+  "content" : "解阳明的女友是小偷",
+  "isCorrect" : 0
+}, {
+  "id" : 10011421,
+  "questionId" : 1001663,
+  "content" : "解阳明理解是当天吃掉的食物",
+  "isCorrect" : 1
+}, {
+  "id" : 10011424,
+  "questionId" : 1001665,
+  "content" : "局长质疑博士是凶手",
+  "isCorrect" : 0
+}, {
+  "id" : 10011425,
+  "questionId" : 1001665,
+  "content" : "局长知道激活武器的魔方顺序",
+  "isCorrect" : 1
+}, {
+  "id" : 10011426,
+  "questionId" : 1001666,
+  "content" : "疯子说你去别的车上拆螺丝",
+  "isCorrect" : 0
+}, {
+  "id" : 10011427,
+  "questionId" : 1001666,
+  "content" : "疯子说你从其他三个轮子上各拆一个螺丝",
+  "isCorrect" : 1
+}, {
+  "id" : 10011428,
+  "questionId" : 1001667,
+  "content" : "博士的药水失效了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011429,
+  "questionId" : 1001667,
+  "content" : "一滴药水让博士回到了一年前，一杯让他回到了三百年前",
+  "isCorrect" : 1
+}, {
+  "id" : 10011434,
+  "questionId" : 1001670,
+  "content" : "狗熊",
+  "isCorrect" : 0
+}, {
+  "id" : 10011435,
+  "questionId" : 1001670,
+  "content" : "老狮",
+  "isCorrect" : 1
+}, {
+  "id" : 10011436,
+  "questionId" : 1001671,
+  "content" : "博士以为飞船在台风中",
+  "isCorrect" : 1
+}, {
+  "id" : 10011437,
+  "questionId" : 1001671,
+  "content" : "博士看到了窗外的飞船",
+  "isCorrect" : 0
+}, {
+  "id" : 10011438,
+  "questionId" : 1001672,
+  "content" : "本科生负责安保工作",
+  "isCorrect" : 1
+}, {
+  "id" : 10011439,
+  "questionId" : 1001672,
+  "content" : "博士是这位本科生的老师",
+  "isCorrect" : 0
+}, {
+  "id" : 10011442,
+  "questionId" : 1001674,
+  "content" : "解药的副作用是让人饿的时候变成僵尸",
+  "isCorrect" : 1
+}, {
+  "id" : 10011443,
+  "questionId" : 1001674,
+  "content" : "解药的副作用是让人穿越时间",
+  "isCorrect" : 0
+}, {
+  "id" : 10011446,
+  "questionId" : 1001676,
+  "content" : "申公豹无意之中露出了自己的尾巴",
+  "isCorrect" : 0
+}, {
+  "id" : 10011447,
+  "questionId" : 1001676,
+  "content" : "申公豹说话结巴，太乙真人爱喝酒",
+  "isCorrect" : 1
+}, {
+  "id" : 10011448,
+  "questionId" : 1001677,
+  "content" : "解阳明没能破解日记里的内容",
+  "isCorrect" : 0
+}, {
+  "id" : 10011449,
+  "questionId" : 1001677,
+  "content" : "解阳明把不要看完看成了不看要完",
+  "isCorrect" : 1
+}, {
+  "id" : 10011450,
+  "questionId" : 1001678,
+  "content" : "34之间有个维度，他用利用该维度取来了未来的报纸",
+  "isCorrect" : 1
+}, {
+  "id" : 10011451,
+  "questionId" : 1001678,
+  "content" : "他回到过去纠正了过去的理论",
+  "isCorrect" : 0
+}, {
+  "id" : 10011454,
+  "questionId" : 1001680,
+  "content" : "博士和妻子一起回到了过去",
+  "isCorrect" : 1
+}, {
+  "id" : 10011455,
+  "questionId" : 1001680,
+  "content" : "博士没次在事故发生之间都会进行穿越",
+  "isCorrect" : 0
+}, {
+  "id" : 10011456,
+  "questionId" : 1001681,
+  "content" : "哥哥其实是弟弟，弟弟其实是哥哥",
+  "isCorrect" : 1
+}, {
+  "id" : 10011457,
+  "questionId" : 1001681,
+  "content" : "哥哥一直在装傻",
+  "isCorrect" : 0
+}, {
+  "id" : 10011460,
+  "questionId" : 1001683,
+  "content" : "博士生前也是一名死神",
+  "isCorrect" : 0
+}, {
+  "id" : 10011461,
+  "questionId" : 1001683,
+  "content" : "死神在人间活的时间没有博士长",
+  "isCorrect" : 1
+}, {
+  "id" : 10011462,
+  "questionId" : 1001684,
+  "content" : "每个月多给工人500手动分拣",
+  "isCorrect" : 0
+}, {
+  "id" : 10011463,
+  "questionId" : 1001684,
+  "content" : "买两个大风机把空瓶子吹走",
+  "isCorrect" : 1
+}, {
+  "id" : 10011464,
+  "questionId" : 1001685,
+  "content" : "博士又添了两个空杯子进去",
+  "isCorrect" : 0
+}, {
+  "id" : 10011465,
+  "questionId" : 1001685,
+  "content" : "将中间杯子里的水喝掉才能活下去，而博士却倒掉了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011468,
+  "questionId" : 1001687,
+  "content" : "博士找到了女朋友，恶魔于是消失了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011469,
+  "questionId" : 1001687,
+  "content" : "恶魔其实是博士压力过大而产生的幻像",
+  "isCorrect" : 1
+}, {
+  "id" : 10011470,
+  "questionId" : 1001688,
+  "content" : "分别是：夏课、方学、霸霸",
+  "isCorrect" : 1
+}, {
+  "id" : 10011471,
+  "questionId" : 1001688,
+  "content" : "分别是：夏扯、方块、霸气",
+  "isCorrect" : 0
+}, {
+  "id" : 10011472,
+  "questionId" : 1001689,
+  "content" : "博士也吃了那朵神秘的花瓣，身体发生了改变",
+  "isCorrect" : 0
+}, {
+  "id" : 10011473,
+  "questionId" : 1001689,
+  "content" : "外星人与博士交易，改变环境就治好他的腿",
+  "isCorrect" : 1
+}, {
+  "id" : 10011476,
+  "questionId" : 1001691,
+  "content" : "装置让三个博士出现在了同一时间节点上",
+  "isCorrect" : 1
+}, {
+  "id" : 10011477,
+  "questionId" : 1001691,
+  "content" : "装置的副作用是会产生幻像",
+  "isCorrect" : 0
+}, {
+  "id" : 10011478,
+  "questionId" : 1001692,
+  "content" : "妻子临死前给富豪打了电话",
+  "isCorrect" : 0
+}, {
+  "id" : 10011479,
+  "questionId" : 1001692,
+  "content" : "富豪也是一位大盗，以此就找到了秘密仓库",
+  "isCorrect" : 1
+}, {
+  "id" : 10011482,
+  "questionId" : 1001694,
+  "content" : "博士带幸存者去了海底堡垒",
+  "isCorrect" : 0
+}, {
+  "id" : 10011483,
+  "questionId" : 1001694,
+  "content" : "博士带幸存者去了地心世界",
+  "isCorrect" : 1
+}, {
+  "id" : 10011486,
+  "questionId" : 1001696,
+  "content" : "拿了音响，因为音响里面有磁铁可以做指南针",
+  "isCorrect" : 1
+}, {
+  "id" : 10011487,
+  "questionId" : 1001696,
+  "content" : "拿了淡水，用来日后种庄稼",
+  "isCorrect" : 0
+}, {
+  "id" : 10011490,
+  "questionId" : 1001698,
+  "content" : "两台风扇导致弟弟无法正常呼吸窒息而死",
+  "isCorrect" : 1
+}, {
+  "id" : 10011491,
+  "questionId" : 1001698,
+  "content" : "两台风扇吹走了弟弟身上的热量，弟弟被冻死了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011492,
+  "questionId" : 1001699,
+  "content" : "僵尸拥有了白天活动的能力",
+  "isCorrect" : 0
+}, {
+  "id" : 10011493,
+  "questionId" : 1001699,
+  "content" : "僵尸拥有了智慧，在自行车下面安装了陷阱",
+  "isCorrect" : 1
+}, {
+  "id" : 10011494,
+  "questionId" : 1001700,
+  "content" : "疯子说：你能帮我一起越狱吗？",
+  "isCorrect" : 0
+}, {
+  "id" : 10011495,
+  "questionId" : 1001700,
+  "content" : "疯子说：我追你你追我，该你追我了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011498,
+  "questionId" : 1001702,
+  "content" : "命运笔记本实际上是解阳明幻想出来的",
+  "isCorrect" : 0
+}, {
+  "id" : 10011499,
+  "questionId" : 1001702,
+  "content" : "命运笔记本是别人的，不是解阳明的",
+  "isCorrect" : 1
+}, {
+  "id" : 10011500,
+  "questionId" : 1001703,
+  "content" : "2号房间连接其他宇宙，傻弟弟和杀手弟弟互换了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011501,
+  "questionId" : 1001703,
+  "content" : "弟弟被2号房间的背后的外星人控制了",
+  "isCorrect" : 0
+}, {
+  "id" : 10011502,
+  "questionId" : 1001704,
+  "content" : "星际之门是空间和时间的穿越，地球文明实际是首领曾经创造的",
+  "isCorrect" : 1
+}, {
+  "id" : 10011503,
+  "questionId" : 1001704,
+  "content" : "星际之门连接的是其他的平行宇宙，最后的宇宙地球成了荒芜之地",
+  "isCorrect" : 0
+}, {
+  "id" : 10011504,
+  "questionId" : 1001705,
+  "content" : "丧尸病毒有潜伏期",
+  "isCorrect" : 1
+}, {
+  "id" : 10011505,
+  "questionId" : 1001705,
+  "content" : "仓鼠身上带有鼠疫",
+  "isCorrect" : 0
+}, {
+  "id" : 10011506,
+  "questionId" : 1001706,
+  "content" : "局长就是蝎星人，解阳明被记忆重置了",
+  "isCorrect" : 1
+}, {
+  "id" : 10011507,
+  "questionId" : 1001706,
+  "content" : "蝎星人没有死，假扮成了局长",
+  "isCorrect" : 0
+}, {
+  "id" : 10011510,
+  "questionId" : 1001708,
+  "content" : "解阳明买了一张彩票放在了笼子底下",
+  "isCorrect" : 1
+}, {
+  "id" : 10011511,
+  "questionId" : 1001708,
+  "content" : "财富在另一只袜子里",
+  "isCorrect" : 0
+}, {
+  "id" : 10011512,
+  "questionId" : 1001709,
+  "content" : "解阳明幻想自己是业务员，医生在陪他演戏",
+  "isCorrect" : 1
+}, {
+  "id" : 10011513,
+  "questionId" : 1001709,
+  "content" : "医院抹除了解阳明来医院的这段记忆",
+  "isCorrect" : 0
+}, {
+  "id" : 10011516,
+  "questionId" : 1001711,
+  "content" : "先去医院再去4S店",
+  "isCorrect" : 1
+}, {
+  "id" : 10011517,
+  "questionId" : 1001711,
+  "content" : "先去4S店再去医院",
+  "isCorrect" : 0
+} ]

@@ -1,0 +1,57 @@
+[ {
+  "userPic1" : "https://file.edisonluorui.com/script/videoList/headpic/a10012_50.png",
+  "userPic2" : "https://file.edisonluorui.com/script/videoList/headpic/a10008.png",
+  "id" : 0,
+  "roomPersonNum" : 6,
+  "questionAddBaseScore" : 2,
+  "questionAddScore" : 100,
+  "answerLimitTime" : 12,
+  "roomVideoNum" : 3,
+  "gameIntervalTime" : 5,
+  "maxMatchTime" : 2,
+  "regGift" : [ {
+    "key" : "10030",
+    "subkey" : 0,
+    "value" : 1
+  }, {
+    "key" : "10031",
+    "subkey" : 0,
+    "value" : 1
+  }, {
+    "key" : "10035",
+    "subkey" : 0,
+    "value" : 1
+  }, {
+    "key" : "10036",
+    "subkey" : 0,
+    "value" : 1
+  }, {
+    "key" : "10037",
+    "subkey" : 0,
+    "value" : 1
+  }, {
+    "key" : "10042",
+    "subkey" : 0,
+    "value" : 1
+  }, {
+    "key" : "10043",
+    "subkey" : 0,
+    "value" : 1
+  }, {
+    "key" : "10044",
+    "subkey" : 0,
+    "value" : 1
+  }, {
+    "key" : "10045",
+    "subkey" : 0,
+    "value" : 1
+  }, {
+    "key" : "10046",
+    "subkey" : 0,
+    "value" : 1
+  } ],
+  "videoLoadTime" : 2000,
+  "shortVideoTime" : 20,
+  "shortVideoGamesCount" : 10,
+  "userGroupGetCoin" : 100
+} ]

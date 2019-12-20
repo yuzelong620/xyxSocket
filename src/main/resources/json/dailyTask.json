@@ -1,0 +1,12 @@
+[ {
+  "id" : 1,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 50
+  }, {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 50
+  } ]
+} ]

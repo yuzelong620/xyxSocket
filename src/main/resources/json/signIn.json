@@ -1,0 +1,50 @@
+[ {
+  "id" : 1,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 10
+  } ]
+}, {
+  "id" : 2,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 20
+  } ]
+}, {
+  "id" : 3,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 30
+  } ]
+}, {
+  "id" : 4,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 40
+  } ]
+}, {
+  "id" : 5,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 41
+  } ]
+}, {
+  "id" : 6,
+  "rewardList" : [ {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 50
+  } ]
+}, {
+  "id" : 7,
+  "rewardList" : [ {
+    "key" : "10001",
+    "subkey" : 0,
+    "value" : 1
+  } ]
+} ]

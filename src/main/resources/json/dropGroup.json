@@ -1,0 +1,73 @@
+[ {
+  "id" : 1,
+  "odds" : 45,
+  "rewards" : {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 500
+  },
+  "groupId" : 1
+}, {
+  "id" : 2,
+  "odds" : 20,
+  "rewards" : {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 1000
+  },
+  "groupId" : 1
+}, {
+  "id" : 3,
+  "odds" : 10,
+  "rewards" : {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 2000
+  },
+  "groupId" : 1
+}, {
+  "id" : 4,
+  "odds" : 5,
+  "rewards" : {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 500
+  },
+  "groupId" : 1
+}, {
+  "id" : 5,
+  "odds" : 5,
+  "rewards" : {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 500
+  },
+  "groupId" : 1
+}, {
+  "id" : 6,
+  "odds" : 5,
+  "rewards" : {
+    "key" : "10007",
+    "subkey" : 0,
+    "value" : 1
+  },
+  "groupId" : 1
+}, {
+  "id" : 7,
+  "odds" : 5,
+  "rewards" : {
+    "key" : "coin",
+    "subkey" : 0,
+    "value" : 500
+  },
+  "groupId" : 1
+}, {
+  "id" : 8,
+  "odds" : 5,
+  "rewards" : {
+    "key" : "10047",
+    "subkey" : 0,
+    "value" : 1
+  },
+  "groupId" : 1
+} ]

@@ -1,0 +1,881 @@
+[ {
+  "id" : 1,
+  "nickName" : "李东",
+  "gender" : 1,
+  "signature" : "世界这么大，我想出去看看。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/011e1e368f5ef17e2b9700c503ec309e.png",
+  "title" : 10047,
+  "headRahmen" : 10003
+}, {
+  "id" : 2,
+  "nickName" : "张三",
+  "gender" : 1,
+  "signature" : "世界这么大，我想出去看看。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/030b4fea9899cacbae693523dec5bdba.png",
+  "title" : 10048,
+  "headRahmen" : 10004
+}, {
+  "id" : 3,
+  "nickName" : "王五",
+  "gender" : 1,
+  "signature" : "世界这么大，我想出去看看。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/034e38f88eb08b907e0d714275e83acb.png",
+  "title" : 10049,
+  "headRahmen" : 10005
+}, {
+  "id" : 4,
+  "nickName" : "刘六",
+  "gender" : 1,
+  "signature" : "世界这么大，我想出去看看。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/c64d2d796066f1dd3aa19e978bddf2cc.png",
+  "title" : 10050,
+  "headRahmen" : 10006
+}, {
+  "id" : 5,
+  "nickName" : "李透气",
+  "gender" : 2,
+  "signature" : "世界这么大，我想出去看看。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/05c35453c08d0b3b2ae00e1e3e503381.png",
+  "title" : 10051,
+  "headRahmen" : 10007
+}, {
+  "id" : 6,
+  "nickName" : "history",
+  "gender" : 2,
+  "signature" : "真心是不可再生的，用尽了就是用尽了。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/d8a29bc0e74246f63ce7ecf1ea10b559.png",
+  "title" : 10047,
+  "headRahmen" : 10008
+}, {
+  "id" : 7,
+  "nickName" : "清风烈酒",
+  "gender" : 1,
+  "signature" : "年轻没有失败，自信创造精彩",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/0490673fd7a0e50f67d27eb3c26b19a4.png",
+  "title" : 10048,
+  "headRahmen" : 10009
+}, {
+  "id" : 8,
+  "nickName" : "Poison. 毒",
+  "gender" : 2,
+  "signature" : "如今最好，别说来日方长。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/0ddd43c242692644c26844a742194a0c.png",
+  "title" : 10049,
+  "headRahmen" : 10003
+}, {
+  "id" : 9,
+  "nickName" : "童话咒",
+  "gender" : 1,
+  "signature" : "成功其实很简单，就是当你坚持不住的时候，再坚持一下。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/2aaae33f65d97d584720a578f827aec4.png",
+  "title" : 10050,
+  "headRahmen" : 10004
+}, {
+  "id" : 10,
+  "nickName" : "虚伪表现",
+  "gender" : 2,
+  "signature" : "曾经以为你就是我的永远, 现在想想当初的我错的真离谱。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/20680f6532900f193aa85b2231eb0a15.png",
+  "title" : 10051,
+  "headRahmen" : 10005
+}, {
+  "id" : 11,
+  "nickName" : "旧人旧事",
+  "gender" : 1,
+  "signature" : "千淘万漉虽辛苦，吹尽狂沙始到金。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/0a3b16c02f67aad9a273a254292694a0.png",
+  "title" : 10047,
+  "headRahmen" : 10006
+}, {
+  "id" : 12,
+  "nickName" : "家庭煮夫",
+  "gender" : 2,
+  "signature" : "新的一天你要加油，不要辜负你的一生，让自己活得更有意义。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/179d1d6ad2fe0079c570c1202b651903.png",
+  "title" : 10048,
+  "headRahmen" : 10007
+}, {
+  "id" : 13,
+  "nickName" : "夜长梦多丶",
+  "gender" : 1,
+  "signature" : "所谓成长，就是逼着你一个人，踉踉跄跄的受伤，跌跌撞撞的坚强。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/068ae33573301f20cbe9ff8f801622c0.png",
+  "title" : 10049,
+  "headRahmen" : 10008
+}, {
+  "id" : 14,
+  "nickName" : "自重。",
+  "gender" : 2,
+  "signature" : "做早晨第一个唤醒你的人，做夜晚最后一个看你入睡的人。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/0ac175dc339278baa32c7f3a4657d930.png",
+  "title" : 10050,
+  "headRahmen" : 10009
+}, {
+  "id" : 15,
+  "nickName" : "黑名单",
+  "gender" : 1,
+  "signature" : "再难过总归会过去，就像大雨后总会天晴。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/0a35bc630351a4bc4ef7581efd196f0f.png",
+  "title" : 10051,
+  "headRahmen" : 10007
+}, {
+  "id" : 16,
+  "nickName" : "赫舍里.妮娜",
+  "gender" : 1,
+  "signature" : "新的一天你要加油，不要辜负你的一生，让自己活得更有意义。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/3c13558a45bd0996ec5462ef638dad75.png",
+  "title" : 10047,
+  "headRahmen" : 10033
+}, {
+  "id" : 17,
+  "nickName" : "Dearly   °",
+  "gender" : 2,
+  "signature" : "别去羡慕别人有什么，那还不如自己努力来的实在。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/3f37af9cf83d3425058f6356709cfc97.png",
+  "title" : 10048,
+  "headRahmen" : 10034
+}, {
+  "id" : 18,
+  "nickName" : "范婷婷",
+  "gender" : 1,
+  "signature" : "所谓成长，就是逼着你一个人，踉踉跄跄的受伤，跌跌撞撞的坚强。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/67e91d751296809f6244e8f9643cbaf1.png",
+  "title" : 10049,
+  "headRahmen" : 10035
+}, {
+  "id" : 19,
+  "nickName" : "厚德载物",
+  "gender" : 1,
+  "signature" : "现在的年纪还是要学会一个人而不是依赖一个人。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/95f56795982fb67aeeb96427660976c3.png",
+  "title" : 10050,
+  "headRahmen" : 10036
+}, {
+  "id" : 20,
+  "nickName" : "沸腾的小冰块儿",
+  "gender" : 1,
+  "signature" : "如果我不变的更好，我拿什么要你后悔。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/894be0eefd9f57f4387d7bac2a339612.png",
+  "title" : 10051,
+  "headRahmen" : 10037
+}, {
+  "id" : 21,
+  "nickName" : "金秋",
+  "gender" : 2,
+  "signature" : "只有智者，才会从平时的细节发现答案，而不是等答案",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/ccd429a06e89fbfe869bdb5106a5be9a.png",
+  "title" : 10047,
+  "headRahmen" : 10039
+}, {
+  "id" : 22,
+  "nickName" : "J小盆友?",
+  "gender" : 2,
+  "signature" : "能用汗水解决的问题，就尽量别用泪水。努力到无能为力，拼搏到感动自己。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/0facd8fe132bcebdefadf75d1bde48bf.png",
+  "title" : 10048,
+  "headRahmen" : 10040
+}, {
+  "id" : 23,
+  "nickName" : "大胡子胖妞",
+  "gender" : 2,
+  "signature" : "如果真苦，你哪有时间喊累。如果真惨，你哪有时间觉得丢脸。因为承受得还不够，所以你才有时间抱怨。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/f7b9967ee2da1dd439f74e641204b949.png",
+  "title" : 10049,
+  "headRahmen" : 10042
+}, {
+  "id" : 24,
+  "nickName" : "Я",
+  "gender" : 2,
+  "signature" : "要坚强，要勇敢， 要可经风雨不畏时光。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/2595d40694cdef20278ec5f9835ca9a2.png",
+  "title" : 10050,
+  "headRahmen" : 10043
+}, {
+  "id" : 25,
+  "nickName" : "78",
+  "gender" : 2,
+  "signature" : "梦想不大， 道路很长，开始了就别停下。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/26304701b2f4495e1557eb3f8c225303.png",
+  "title" : 10051,
+  "headRahmen" : 10044
+}, {
+  "id" : 26,
+  "nickName" : "黄芳",
+  "gender" : 1,
+  "signature" : "所有的努力，最终都会绕个大圈回报给你自己。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/f57d7b8f73e10510c7be949bc1e1c77a.png",
+  "title" : 10047,
+  "headRahmen" : 10045
+}, {
+  "id" : 27,
+  "nickName" : "芷蓝",
+  "gender" : 1,
+  "signature" : "为梦想选择了远方，便没有回头路可以走。所以，要么战死沙场，要么狼狈回乡。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/2b17ec06fe23e9dff6cf1dcae46bc2e5.png",
+  "title" : 10048,
+  "headRahmen" : 10046
+}, {
+  "id" : 28,
+  "nickName" : "朝阳小青年",
+  "gender" : 2,
+  "signature" : "收起你的懦弱，摆出你的霸气，在你跌倒的时候没人扶你，多的是看你笑话的畜生。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/2ebbc27ee8c966bf0d61c8c796ce900e.png",
+  "title" : 10049,
+  "headRahmen" : 10047
+}, {
+  "id" : 29,
+  "nickName" : "李小蓝",
+  "gender" : 1,
+  "signature" : "许多事情，都是要经过岁月的沉淀才会逐渐清晰起来。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/311985e81c412ccc352715a30030cab3.png",
+  "title" : 10050,
+  "headRahmen" : 10048
+}, {
+  "id" : 30,
+  "nickName" : "偶哈呦",
+  "gender" : 1,
+  "signature" : "感谢上一秒的自己，坚持创造新的奇迹。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/3374485fc7ef4c9c0ea89bd343f22f37.png",
+  "title" : 10051,
+  "headRahmen" : 10049
+}, {
+  "id" : 31,
+  "nickName" : "吴长生",
+  "gender" : 1,
+  "signature" : "我们一路走，一路被辜负，一路点燃希望，一路寻找答案。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/3490d18db5bd6f6399bc57b3211feb56.png",
+  "title" : 10047,
+  "headRahmen" : 10050
+}, {
+  "id" : 32,
+  "nickName" : "小火柴",
+  "gender" : 2,
+  "signature" : "总有一天，你会站在最亮的地方，活成自己渴望的模样。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/3617e39cfc6e88e9b83fad7c89329345.png",
+  "title" : 10048,
+  "headRahmen" : 10051
+}, {
+  "id" : 33,
+  "nickName" : "是你呀",
+  "gender" : 2,
+  "signature" : "要每天都很开心，成为别人的可望不可及。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/36ee0892c957b2fe3e0eec506b8dac1e.png",
+  "title" : 10049,
+  "headRahmen" : 10035
+}, {
+  "id" : 34,
+  "nickName" : "王先生",
+  "gender" : 2,
+  "signature" : "只会幻想而不行动的人，永远也体会不到收获果实时的喜悦。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/3903d2d2c9583033f666fe7b6e84bf21.png",
+  "title" : 10050,
+  "headRahmen" : 10036
+}, {
+  "id" : 35,
+  "nickName" : "YL.X",
+  "gender" : 2,
+  "signature" : "为了照亮夜空，星星才站在天空的高处。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/3a419b8d94efc1bba2127a56d3afa338.png",
+  "title" : 10051,
+  "headRahmen" : 10037
+}, {
+  "id" : 36,
+  "nickName" : "山高人为峰",
+  "gender" : 2,
+  "signature" : "觉得自己做的到和不做的到，其实只在一念之间。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/3b1629eb12103a21bdc408b203514592.png",
+  "title" : 10047,
+  "headRahmen" : 10038
+}, {
+  "id" : 37,
+  "nickName" : "彦晨",
+  "gender" : 2,
+  "signature" : "请相信岁月不会辜负每一个用力生活的人。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/3bd944b8cd7c90e6eb373c7a5053b30d.png",
+  "title" : 10048,
+  "headRahmen" : 10039
+}, {
+  "id" : 38,
+  "nickName" : "gooo",
+  "gender" : 1,
+  "signature" : "我可以接受失败，但绝对不能接受未奋斗过的自己。纵有疾风起，人生不言弃。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/3d2c08ff24130041072dad78161c4528.png",
+  "title" : 10049,
+  "headRahmen" : 10040
+}, {
+  "id" : 39,
+  "nickName" : "Jeremy",
+  "gender" : 1,
+  "signature" : "你要特别努力，才能过上理想生活。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/3fbc558b223a42331f35155e8bdfbc21.png",
+  "title" : 10050,
+  "headRahmen" : 10042
+}, {
+  "id" : 40,
+  "nickName" : "嘉",
+  "gender" : 2,
+  "signature" : "请你用慈悲心和温和的态度，把你的不满与委屈说出来，别人就容易接受。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/405fda209eca3ad76a9fba9c6ccb753d.png",
+  "title" : 10051,
+  "headRahmen" : 10043
+}, {
+  "id" : 41,
+  "nickName" : "小太阳",
+  "gender" : 1,
+  "signature" : "每一次的伤痛，都是成长的支柱，每一次的打击，都是坚强的后盾。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/4043f6b1fa906c1501ceb1983fe0dca9.png",
+  "title" : 10047,
+  "headRahmen" : 10044
+}, {
+  "id" : 42,
+  "nickName" : "你张哥",
+  "gender" : 1,
+  "signature" : "比你有钱的人，一定比你努力，比你努力的人，终有一天会比你有钱，生活本来就是平衡的，你不为赚钱付出辛苦，你就得为省钱烦恼，这不是鸡汤，是现实！",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/44bfd7aaad6d85e76645e799010e8909.png",
+  "title" : 10048,
+  "headRahmen" : 10045
+}, {
+  "id" : 43,
+  "nickName" : "猫抱猫大姐姐",
+  "gender" : 1,
+  "signature" : "你已经做的很好了，别听别人盲人做拉面。别质疑自己的能力，别放弃自己的热爱，加油。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/464949bbbcfa093d8386e01535c82bbb.png",
+  "title" : 10049,
+  "headRahmen" : 10046
+}, {
+  "id" : 44,
+  "nickName" : "贝爷的菜谱",
+  "gender" : 1,
+  "signature" : "考虑一千次，不如去做一次；犹豫一万次，不如实践一次；华丽的跌倒，胜过无谓的彷徨。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/4a69f081a00f2955748a5161c9ee5ef1.png",
+  "title" : 10050,
+  "headRahmen" : 10047
+}, {
+  "id" : 45,
+  "nickName" : "阿段",
+  "gender" : 1,
+  "signature" : "人活一生，值得爱的东西很多，不要因为一个不满意就灰心。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/4a9eaeacb928d5f6f6b129fdbef34383.png",
+  "title" : 10051,
+  "headRahmen" : 10006
+}, {
+  "id" : 46,
+  "nickName" : "南北",
+  "gender" : 2,
+  "signature" : "愿生活有惊喜  愿盼望有回应",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/4bd49afce73931a66336553207038a63.png",
+  "title" : 10047,
+  "headRahmen" : 10007
+}, {
+  "id" : 47,
+  "nickName" : "白穆",
+  "gender" : 2,
+  "signature" : "当你穿过了暴风雨，你就不再是原来那个人。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/4ed3f4f5620a121b1c573df0307450f1.png",
+  "title" : 10048,
+  "headRahmen" : 10008
+}, {
+  "id" : 48,
+  "nickName" : "杨学初",
+  "gender" : 1,
+  "signature" : "属于自己的东西 就该理直气壮的拥有",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/50ba25c80275e3bcce801cc140c23db7.png",
+  "title" : 10049,
+  "headRahmen" : 10009
+}, {
+  "id" : 49,
+  "nickName" : "未知",
+  "gender" : 1,
+  "signature" : "今天的事今天翻篇 明天你还要忙着可爱",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/50c790780e1e1d8ba431a1cab90ca025.png",
+  "title" : 10050,
+  "headRahmen" : 10007
+}, {
+  "id" : 50,
+  "nickName" : "朱佳",
+  "gender" : 2,
+  "signature" : "希望你懂得很多之后，依旧热爱生活。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/5a2e9ac0df714b3f8af7d3695d994bee.png",
+  "title" : 10051,
+  "headRahmen" : 10030
+}, {
+  "id" : 51,
+  "nickName" : "漫柔",
+  "gender" : 1,
+  "signature" : "不要抱怨生活给予了太多的磨难，不必抱怨生命中有太多的曲折。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/5bef41b138b3eb299049a66b4231fa9c.png",
+  "title" : 10047,
+  "headRahmen" : 10031
+}, {
+  "id" : 52,
+  "nickName" : "李",
+  "gender" : 1,
+  "signature" : "努力吧,等你优秀了,你想要的都会来找你。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/5c579a28d77e15847deaa466783cff38.png",
+  "title" : 10048,
+  "headRahmen" : 10032
+}, {
+  "id" : 53,
+  "nickName" : "少年已不在年少",
+  "gender" : 1,
+  "signature" : "愿你在今后的每个日子里即使单枪匹马,也能勇敢无畏。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/5fee3f0da5bf3696327e48a0ba7cb025.png",
+  "title" : 10049,
+  "headRahmen" : 10033
+}, {
+  "id" : 54,
+  "nickName" : "1999",
+  "gender" : 2,
+  "signature" : "不要总是去等待完美,而应该把握好现在让此刻变得完美。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/6060a3691bba33453fe53b484c8d230f.png",
+  "title" : 10050,
+  "headRahmen" : 10050
+}, {
+  "id" : 55,
+  "nickName" : "露从今夜白",
+  "gender" : 2,
+  "signature" : "相信自己有福气，但不要刻意拥有。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/60fc16bfce058b0c7ce6d51505cecb25.png",
+  "title" : 10051,
+  "headRahmen" : 10051
+}, {
+  "id" : 56,
+  "nickName" : "孙奇烽",
+  "gender" : 2,
+  "signature" : "生活中的挫折会把我们打倒,但是我们可以选择是否站立起来。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/66b69d018bfa14ca418ee24f7f6106db.png",
+  "title" : 10047,
+  "headRahmen" : 10035
+}, {
+  "id" : 57,
+  "nickName" : "腔调与情怀",
+  "gender" : 2,
+  "signature" : "没有一定会输的比赛,除非放弃。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/6826a4655e351a30c0027b5abc8fd21c.png",
+  "title" : 10048,
+  "headRahmen" : 10036
+}, {
+  "id" : 58,
+  "nickName" : "腔调与情怀",
+  "gender" : 2,
+  "signature" : "自己把自己说服了，是一种理智的胜利。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/6a4ec10796a52757310daf0a95158034.png",
+  "title" : 10049,
+  "headRahmen" : 10037
+}, {
+  "id" : 59,
+  "nickName" : "十年",
+  "gender" : 2,
+  "signature" : "再烦也别忘微笑，再急也要注意语调！",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/6b0c8d07c2bc00ec09075d22be06b084.png",
+  "title" : 10050,
+  "headRahmen" : 10038
+}, {
+  "id" : 60,
+  "nickName" : "昌",
+  "gender" : 2,
+  "signature" : "失败时可以称为人生财富，成功时可以称为财富人生。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/6b1b44e300c1e7005b739e180ba2eb67.png",
+  "title" : 10051,
+  "headRahmen" : 10009
+}, {
+  "id" : 61,
+  "nickName" : "武學文",
+  "gender" : 1,
+  "signature" : "有时候，没有下一次，人生没有机会重来，没有暂停继续。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/6bda19c4e6d09efafdb80d612184be7b.png",
+  "title" : 10047,
+  "headRahmen" : 10007
+}, {
+  "id" : 62,
+  "nickName" : "下次而定",
+  "gender" : 1,
+  "signature" : "忍耐之草是苦的，但最终会结出甘甜而柔软的果实。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/6c093e01f08943679663002ea02e2dfd.png",
+  "title" : 10048,
+  "headRahmen" : 10030
+}, {
+  "id" : 63,
+  "nickName" : "漫步风中",
+  "gender" : 2,
+  "signature" : "正确地做正确的事，这是真正的成功者。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/702427fe86bc6bda7460b0a601fa70fd.png",
+  "title" : 10049,
+  "headRahmen" : 10031
+}, {
+  "id" : 64,
+  "nickName" : "小团子",
+  "gender" : 2,
+  "signature" : "蓝天下便是阳光,艰苦后便是甘甜,失败了就当经验,成功时便是灿烂。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/72d75991cb3b04d92d3cbd4b87e26a5d.png",
+  "title" : 10050,
+  "headRahmen" : 10032
+}, {
+  "id" : 65,
+  "nickName" : "大鹏",
+  "gender" : 2,
+  "signature" : "想太多会毁了你,多看书,多走路,把时间用在丰富自己的见识上才是正事。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/740afa5d7b18c1d785e484db35bea2df.png",
+  "title" : 10051,
+  "headRahmen" : 10033
+}, {
+  "id" : 66,
+  "nickName" : "金生水",
+  "gender" : 2,
+  "signature" : "所有幸运和巧合的事，要么是上天注定，要么是一个人偷偷的在努力。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/750941e9ff5bffac198ae1b11fbeb864.png",
+  "title" : 10047,
+  "headRahmen" : 10034
+}, {
+  "id" : 67,
+  "nickName" : "时流",
+  "gender" : 2,
+  "signature" : "总要有一段路，需要你独自走过。愿你是阳光，明媚不忧伤。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/75cfed6c7ef5ac81c0786e7fe44574f8.png",
+  "title" : 10048,
+  "headRahmen" : 10035
+}, {
+  "id" : 68,
+  "nickName" : "大鹏",
+  "gender" : 2,
+  "signature" : "不要贪恋没意义的人或事，拎着垃圾的手，怎么腾得出来接礼物。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/764f1a1c03f841995d4362809f5f2124.png",
+  "title" : 10049,
+  "headRahmen" : 10036
+}, {
+  "id" : 69,
+  "nickName" : "臭呀么臭臭",
+  "gender" : 2,
+  "signature" : "你向往着阳光的温暖，我会给我阳光的温暖。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/7680148fd3b5b0aba878a31042bbd3d0.png",
+  "title" : 10050,
+  "headRahmen" : 10037
+}, {
+  "id" : 70,
+  "nickName" : "XX",
+  "gender" : 1,
+  "signature" : "人生本来就是一场即兴演出,没有做不成的梦,只有不早醒的人。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/7d2c64c321d3fada760e5bc0285355fa.png",
+  "title" : 10051,
+  "headRahmen" : 10038
+}, {
+  "id" : 71,
+  "nickName" : "王欣欣",
+  "gender" : 1,
+  "signature" : "真正认识你的人，除了你的朋友，就是你的对手。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/815e5232851281c737302c63f0cd81b4.png",
+  "title" : 10047,
+  "headRahmen" : 10039
+}, {
+  "id" : 72,
+  "nickName" : "小辰鱼",
+  "gender" : 2,
+  "signature" : "人生苦短，千万不要活的太累。要活得舒心，活得快乐。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/838187ba856567a2e2836b9c1c80669d.png",
+  "title" : 10048,
+  "headRahmen" : 10040
+}, {
+  "id" : 73,
+  "nickName" : "将心比月",
+  "gender" : 1,
+  "signature" : "无论生活怎样，都不要忘记微笑。愿你成为自己的太阳，无需凭借谁的光。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/86f7bc0f120fde2fc7825cd9aaae3800.png",
+  "title" : 10049,
+  "headRahmen" : 10041
+}, {
+  "id" : 74,
+  "nickName" : "潘洪强",
+  "gender" : 1,
+  "signature" : "对于每一个不利条件，都会存在与之相对应的有利条件。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/8adfc1cad86da4c03aab6992d0ea6388.png",
+  "title" : 10050,
+  "headRahmen" : 10042
+}, {
+  "id" : 75,
+  "nickName" : "芝麻开花",
+  "gender" : 1,
+  "signature" : "做有用的事，说勇敢的话，想美好的事，睡安稳的觉，把时间用在进步上，而不是抱怨上。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/8b063096a5084dee32f2a98c99cf7710.png",
+  "title" : 10051,
+  "headRahmen" : 10043
+}, {
+  "id" : 76,
+  "nickName" : "天涯",
+  "gender" : 2,
+  "signature" : "踮起脚，享受更接近阳光的味道。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/8c2ac6486683d3851dbc7037d7b04c38.png",
+  "title" : 10047,
+  "headRahmen" : 10044
+}, {
+  "id" : 77,
+  "nickName" : "风瑟瑟",
+  "gender" : 2,
+  "signature" : "每一份坚持都是成功的累积，只要相信自己，总会遇到惊喜！",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/8d050e6cde7cf23cb7d4f43314b404ad.png",
+  "title" : 10048,
+  "headRahmen" : 10045
+}, {
+  "id" : 78,
+  "nickName" : "小雪糕",
+  "gender" : 2,
+  "signature" : "别辜负当下的每一天，因为，总有一天，我们会生老病死。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/928609e5d688c2e6d2d81afd25053eda.png",
+  "title" : 10049,
+  "headRahmen" : 10044
+}, {
+  "id" : 79,
+  "nickName" : "唯吾德鑫",
+  "gender" : 2,
+  "signature" : "生命中最值得欣慰的，莫过于一觉醒来，你发现太阳还在，你还活着，周围的一切依旧美好。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/95d43faf3c7d05bf255563de24904486.png",
+  "title" : 10050,
+  "headRahmen" : 10045
+}, {
+  "id" : 80,
+  "nickName" : "艾喜喜",
+  "gender" : 2,
+  "signature" : "别在喜悦之时许下承诺，因为喜悦之下容易忘乎所以。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/969a39905db4359d166a21a42bca6f60.png",
+  "title" : 10051,
+  "headRahmen" : 10046
+}, {
+  "id" : 81,
+  "nickName" : "一发",
+  "gender" : 2,
+  "signature" : "想想光头强，想想辉泰朗，在想想汤姆猫，我有什么理由放弃。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/993b85d64f4ad3e145246d415c641ba0.png",
+  "title" : 10047,
+  "headRahmen" : 10047
+}, {
+  "id" : 82,
+  "nickName" : "邰邰",
+  "gender" : 1,
+  "signature" : "不能贪求任何东西，一旦喜欢就执著在那里，应该心无挂碍。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/99b8596c3e03981ca2e281fbefd539c0.png",
+  "title" : 10048,
+  "headRahmen" : 10006
+}, {
+  "id" : 83,
+  "nickName" : "大毛欧尼吖",
+  "gender" : 1,
+  "signature" : "梦想绝不是梦，两者之间的差别通常都有一段非常值得人们深思的距离。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/9ce30111ece57aa158c21c696fb03291.png",
+  "title" : 10049,
+  "headRahmen" : 10007
+}, {
+  "id" : 84,
+  "nickName" : "叫什么不吃饭",
+  "gender" : 2,
+  "signature" : "松软的沙滩上最容易留下脚印，但也最容易被潮水抹去。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/9d84ec5426baba8a8271f434dccbf3e4.png",
+  "title" : 10050,
+  "headRahmen" : 10008
+}, {
+  "id" : 85,
+  "nickName" : "南笙",
+  "gender" : 1,
+  "signature" : "在一个瞬息万变的世界里，唯一注定失败的策略就是不去冒险。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/9de2e3e4b41eb82294b94b1cd917ed0b.png",
+  "title" : 10051,
+  "headRahmen" : 10009
+}, {
+  "id" : 86,
+  "nickName" : "嘤嘤",
+  "gender" : 1,
+  "signature" : "胜利是不会向我走来的，我必须自己走向胜利。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/a0fdb0557ed635a637354acecac017cf.png",
+  "title" : 10047,
+  "headRahmen" : 10007
+}, {
+  "id" : 87,
+  "nickName" : "八分之一",
+  "gender" : 1,
+  "signature" : "不要怀有渺小的梦想，它们无法打动人心。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/a803f8135194c5b258a38db841f16c64.png",
+  "title" : 10048,
+  "headRahmen" : 10030
+}, {
+  "id" : 88,
+  "nickName" : "你的名字",
+  "gender" : 1,
+  "signature" : "最怕的东西，最应该去突破。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/a8654dd69461f513aa94befdc95a1ead.png",
+  "title" : 10049,
+  "headRahmen" : 10031
+}, {
+  "id" : 89,
+  "nickName" : "蜗牛同学、",
+  "gender" : 1,
+  "signature" : "青春是打开了就合不上的书，人生是踏上了就回不了头的，爱情是扔出了就收不回的赌注。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/b03da6ac222113e9927b59475ab70391.png",
+  "title" : 10050,
+  "headRahmen" : 10032
+}, {
+  "id" : 90,
+  "nickName" : "西子湖畔",
+  "gender" : 2,
+  "signature" : "道不是知识能够分析的，它是内边的悟解。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/b0673b69359fbb8f43622de795c36afe.png",
+  "title" : 10051,
+  "headRahmen" : 10033
+}, {
+  "id" : 91,
+  "nickName" : "会哭的孩子",
+  "gender" : 1,
+  "signature" : "克服困难，勇敢者自有千方百计，怯懦者只感到万般无奈。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/c14b2ba8c158c90ba003410256d63a41.png",
+  "title" : 10047,
+  "headRahmen" : 10050
+}, {
+  "id" : 92,
+  "nickName" : "孩子王",
+  "gender" : 1,
+  "signature" : "十决定你的人生高度的，不是你的才能，而是你的人生态度！",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/c5a9615f0848b3a70c22d605abc3bf24.png",
+  "title" : 10048,
+  "headRahmen" : 10051
+}, {
+  "id" : 93,
+  "nickName" : "666",
+  "gender" : 2,
+  "signature" : "过顺其自然的生活，做随遇而安的自己。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/c9408e11b848493fe3d2eceb58545e1e.png",
+  "title" : 10049,
+  "headRahmen" : 10035
+}, {
+  "id" : 94,
+  "nickName" : "六月",
+  "gender" : 1,
+  "signature" : "只要持续地努力，不懈地奋斗，就没有征服不了的东西。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/c956069365e223eacbe505c8c6198e70.png",
+  "title" : 10050,
+  "headRahmen" : 10036
+}, {
+  "id" : 95,
+  "nickName" : "刘悦",
+  "gender" : 1,
+  "signature" : "活在当下，别在怀念过去或者憧憬未来中浪费掉你现在的生活。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/cabd0131b6dde23f434df07aa9d1c5d0.png",
+  "title" : 10051,
+  "headRahmen" : 10020
+}, {
+  "id" : 96,
+  "nickName" : "小老弟",
+  "gender" : 1,
+  "signature" : "只要心中充满阳光，眼中就有美景。走遍人生的山山水水，最美的仍是，心中的那一片花海。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/cc9c657fcb4a543df7c78c223f29cf6c.png",
+  "title" : 10047,
+  "headRahmen" : 10021
+}, {
+  "id" : 97,
+  "nickName" : "陈陈陈",
+  "gender" : 2,
+  "signature" : "你既然认准一条道路，何必去打听要走多久。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/5ffb141aec066bc709fc94b92c77e2e2.png",
+  "title" : 10048,
+  "headRahmen" : 10022
+}, {
+  "id" : 98,
+  "nickName" : "宗介爱波妞",
+  "gender" : 2,
+  "signature" : "只有脚踏实地的人，才能够说：路，就在我的脚下。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/d0d4db120febcee9e107f28c83d7dd11.png",
+  "title" : 10049,
+  "headRahmen" : 10033
+}, {
+  "id" : 99,
+  "nickName" : "寒夜星辰",
+  "gender" : 2,
+  "signature" : "何必向人证明什么，生活得更好，乃是为你自己。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/d4e7e544f82c0ea27bb137418781d0b3.png",
+  "title" : 10050,
+  "headRahmen" : 10050
+}, {
+  "id" : 100,
+  "nickName" : "刘老师",
+  "gender" : 2,
+  "signature" : "别在生活里找你想要的，去感受生活里发生的。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/d5c3487b635ca34c7805140075d4587a.png",
+  "title" : 10051,
+  "headRahmen" : 10051
+}, {
+  "id" : 101,
+  "nickName" : "晨晨麻麻",
+  "gender" : 2,
+  "signature" : "嘲笑现在的自己明明一无所有却还不知道努力。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/dd5ca6e832d134eaf6860654a0f8f349.png",
+  "title" : 10047,
+  "headRahmen" : 10035
+}, {
+  "id" : 102,
+  "nickName" : "饿了吗",
+  "gender" : 2,
+  "signature" : "人总要失去一些东西 就好像蛇总是要脱皮一样。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/def81e8c4547c2cce37512591c83ab74.png",
+  "title" : 10048,
+  "headRahmen" : 10036
+}, {
+  "id" : 103,
+  "nickName" : "Nora",
+  "gender" : 2,
+  "signature" : "趁着年轻，你需要多受一些苦，然后才会真正谦恭；不然，你那自以为是的聪明和藐视一切的优越感迟早要毁了你。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/df549f97ece9793b3ef26f6453c7ce9b.png",
+  "title" : 10049,
+  "headRahmen" : 10047
+}, {
+  "id" : 104,
+  "nickName" : "田水水水",
+  "gender" : 1,
+  "signature" : "我还在想你会穿过时间，穿过荆棘，穿过我的悲伤和忧愁，历经千山万水来牵我的手。可你最终没有来，我却还一直在等。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/ee610506ad90aa4611ec04b4b8e22e73.png",
+  "title" : 10050,
+  "headRahmen" : 10006
+}, {
+  "id" : 105,
+  "nickName" : "happy",
+  "gender" : 1,
+  "signature" : "自卑心最伤害自己，是最大的障碍。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/cbdadd0659480b4b06b297dc0daf2cd4.png",
+  "title" : 10051,
+  "headRahmen" : 10007
+}, {
+  "id" : 106,
+  "nickName" : "小雪糕",
+  "gender" : 2,
+  "signature" : "成功不是凭梦想和希望，而是凭努力和实践。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/ee676af7ebf8adc9ed7f9ae7eaccc68f.png",
+  "title" : 10047,
+  "headRahmen" : 10008
+}, {
+  "id" : 107,
+  "nickName" : "小鸿人",
+  "gender" : 1,
+  "signature" : "人生就像巧克力，你永远都不知道自己会吃到什么味道。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/fb2bea600694045a24f233291e6e2051.png",
+  "title" : 10048,
+  "headRahmen" : 10009
+}, {
+  "id" : 108,
+  "nickName" : "小尾巴",
+  "gender" : 1,
+  "signature" : "新的一天，新的开始，忘记昨天的悲伤，留住昨天的快乐。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/fb6c37eaca1bfdcf56248181e4e2e7ef.png",
+  "title" : 10049,
+  "headRahmen" : 10036
+}, {
+  "id" : 109,
+  "nickName" : "该睡了...",
+  "gender" : 1,
+  "signature" : "赢家不是那些从不失败的人，而是属于那些从不放弃的人。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/cd071267002a433ac344996b4cf22459.png",
+  "title" : 10050,
+  "headRahmen" : 10047
+}, {
+  "id" : 110,
+  "nickName" : "浪个浪",
+  "gender" : 2,
+  "signature" : "哪里有天才，我是把别人喝咖啡的功夫，都用在工作上的。",
+  "headPic" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/robotImg/u%3D2401491928%2C907118315%26fm%3D26%26gp%3D0.png",
+  "title" : 10051,
+  "headRahmen" : 10006
+} ]
